@@ -28,29 +28,29 @@ Come pursue these goals with us, as a member of Indy Hall. We're excited to meet
 
 * We always:
 
-	...help unlikely groups of likeminded people form relationships.   
-	...focus on people and their interactions, and the formation of relationships.   
-	...help people tell the stories of the experiences they have in Philadelphia.   
-	...trust people to do the right thing.   
-	...guide people to being good citizens of Indy Hall and of Philadelphia.   
-	...support people in their goals of building businesses to last, in Philadelphia and for Philadelphia.   
+	> ...help unlikely groups of likeminded people form relationships.   
+	> ...focus on people and their interactions, and the formation of relationships.   
+	> ...help people tell the stories of the experiences they have in Philadelphia.   
+	> ...trust people to do the right thing.   
+	> ...guide people to being good citizens of Indy Hall and of Philadelphia.   
+	> ...support people in their goals of building businesses to last, in Philadelphia and for Philadelphia.   
 
 * We never:
 
-	...do anything against our community’s interest.   
-	...focus on desks or square footage.   
-	...create something only because we think we’re supposed to.   
-	...accept the status quo.   
-	...accept a "no" at face value.   
-	...compromise our core values.   
-	...prioritize a transaction before a relationship.   
+	> ...do anything against our community’s interest.   
+	> ...focus on desks or square footage.   
+	> ...create something only because we think we’re supposed to.   
+	> ...accept the status quo.   
+	> ...accept a "no" at face value.   
+	> ...compromise our core values.   
+	> ...prioritize a transaction before a relationship.   
 
 * Every day, we:
 
-	...keep people at the center of every action, interaction, and decision.   
-	...welcome new community members, and make it clear that Indy Hall is theirs, not just ours.   
-	...always look for a way to say yes.   
-	...teach others in our immediate and neighboring communities how we operate.   
+	> ...keep people at the center of every action, interaction, and decision.   
+	> ...welcome new community members, and make it clear that Indy Hall is theirs, not just ours.   
+	> ...always look for a way to say yes.   
+	> ...teach others in our immediate and neighboring communities how we operate.   
 
 ## Manifesto
 
