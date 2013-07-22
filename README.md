@@ -6,6 +6,10 @@ TODO: A written welcome goes here.
 
 TODO: A description of how to use this guide goes here.
 
+## Questions?
+
+TODO: Here's how to get ahold of us.
+
 ## Our purpose, and who we are
 
 For Indy Hall, our ambition is to make Philadelphia (and ultimately the world) a better place to make a living doing what you love.
@@ -111,9 +115,6 @@ Come pursue these goals with us, as a member of Indy Hall. We're excited to meet
 > 
 > **Indy Hall. You're a part of it.**
 
-## Questions?
-
-TODO: Here's how to get ahold of us.
 
 # Part 1 - Getting Started at Indy Hall
 
@@ -317,7 +318,7 @@ Thanks for catching that. Drop an email to help@indyhall.org and we'll stock up.
 
 Can't wait, and want to take action? Lake Blue (3rd & Market, with the blue awning) sells both cream and sugar, just bring us a receipt and we'll credit your membership account.
 
-# Part 2 - Being a good citizen in a shared kitchen 
+# Part 3 - Being a good citizen in a shared kitchen 
 
 ## Can I keep stuff in the fridge overnight?
 
@@ -369,7 +370,7 @@ The sign on the dishwasher should indicate the status of the dishes. If you're l
 
 Take it out, please. Clean trash bags are located next to the coffee maker, on the floor, in a white box. The loaded trash goes behind the fake wall downstairs. To get there, you go through two doors in the back of Indy Hall downstairs. If it is locked, grab either Adam or Karina. 
 
-# Part 3 - Being a good citizen in a shared workplace
+# Part 4 - Being a good citizen in a shared workplace
 
 ## I need to make a phone call, am I going to bother somebody?
 

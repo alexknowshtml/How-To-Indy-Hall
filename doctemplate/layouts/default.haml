@@ -1,0 +1,32 @@
+!!!
+%html{:lang => "en"}
+  %head
+    %meta{:charset => "utf-8"}/
+    %title #{@item[:title]}
+    %link{:href => relative_path_to("/stylesheets/documentation.css"), :media => "screen", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => relative_path_to("/stylesheets/pygments.css"), :media => "screen", :rel => "stylesheet", :type => "text/css"}/
+    
+    / you don't need to keep this, but it's cool for stats!
+    %meta{:content => "nanoc #{Nanoc::VERSION}", :name => "generator"}/
+  %body{"data-spy" => "scroll", "data-target" => "nav"}
+    %header{:role => "banner"}
+      .name
+        Indy
+        .subname Hall
+
+    .page
+      .content= yield
+      %nav
+        %form#search{:action => "/search/"}
+          %input#tipue_search_input{:name => "q", :type => "search", :placeholder => "Search"}
+        
+        #toc.nav
+          %ol
+            - @items.select{|i| i[:kind] == "documentation"}.sort{|a, b| a.identifier <=> b.identifier}.each do |i|
+              %li{:class => (i == @item ? "active-section" : "")}
+                = link_to i[:link_title] || i[:title], relative_path_to(i), :class => (i == @item ? "active" : "")
+
+    %script{ :src => "http://code.jquery.com/jquery-1.7.2.min.js" }
+    %script{ :src => relative_path_to("/javascripts/underscore.js") }
+    %script{ :src => relative_path_to("/javascripts/scrollspy.js") }
+    %script{ :src => relative_path_to("/javascripts/application.js") }
