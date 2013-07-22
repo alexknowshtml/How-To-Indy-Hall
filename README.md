@@ -144,7 +144,7 @@ Indy Hall runs best when *_everyone_* follows three simple guidelines:
 
 Here's a few simple "how to's" that can help you take care of the place that we share. 
 
-### What should I do if I drink the last cup of coffee?
+## What should I do if I drink the last cup of coffee?
 
 Imagine that you approach the coffee pot, place your cup underneath the spout, press down, and...drip drip drip. **Damn.** What HEATHAN would drink the last cup and not start up a fresh pot?!
 
@@ -154,7 +154,7 @@ Many members enjoy the rite of passage that comes with learning to make coffee a
 
 The big machine in the kitchen might look intimidating, but making coffee at Indy Hall is *really easy*, but don't hesitate to ask for help! Having another member guide you through making your first pot of coffee is an easy way to make a new friend. Most members sitting in close proximity to the kitchen know what's what, when it comes to the coffee machine, or you can ask for a lesson using GroupBuzz or Hall.
 
-#### For you self-starters, here's a guide:
+### For you self-starters, here's a guide:
 
 1. Hold the clear container up and under the big red grinder's nozzle, making sure the container pushes gently on the trigger that allows the machine to start grinding.
 
@@ -180,7 +180,7 @@ The big machine in the kitchen might look intimidating, but making coffee at Ind
 
 	![TODO Photo/gif of Step 5](http://placehold.it/350x150)
 
-### The toilet paper roll is getting low. Where do we keep the toilet paper?
+## The toilet paper roll is getting low. Where do we keep the toilet paper?
 
 First of all, good lookin' out! One of the more subtle, though absolutely critical ways we take care of each other is making sure that no one gets screwed over in terms of necessary resources being available. Trust me: EVERYONE appreciates the person who restocks the TP. 
 
@@ -188,7 +188,7 @@ The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference
 
 ![TODO Map with arrow to Supply Closet](http://placehold.it/600x350)
 
-### What should I do if I use the last paper towel?
+## What should I do if I use the last paper towel?
 
 Like the TP, you can be everyone's hero and replace an empty paper towel roll with a full one.
 
@@ -196,7 +196,7 @@ The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference
 
 ![TODO Map with arrow to Supply Closet](http://placehold.it/600x350)
 
-### What should I do if the soap dispenser is running low or empty?
+## What should I do if the soap dispenser is running low or empty?
 
 No one wants to shake the hand of the guy who can't lather up after using the restroom. Help that guy out and grab some soap from the Supply Closet on the 2nd floor.
 
@@ -204,7 +204,7 @@ The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference
 
 ![TODO Map with arrow to Supply Closet](http://placehold.it/600x350)
 
-### What should I do if we're running low (or run out of) coffee creamer/sugar? 
+## What should I do if we're running low (or run out of) coffee creamer/sugar? 
 
 Thanks for catching that. Drop an email to help@indyhall.org and we'll stock up.
 
