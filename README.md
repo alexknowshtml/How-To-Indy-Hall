@@ -210,55 +210,62 @@ Thanks for catching that. Drop an email to help@indyhall.org and we'll stock up.
 
 Can't wait, and want to take action? Lake Blue (3rd & Market, with the blue awning) sells both cream and sugar, just bring us a receipt and we'll credit your membership account.
 
-# Part 2 - Being a good citizen of the kitchen 
+# Part 2 - Being a good citizen in a shared kitchen 
 
-Can I keep stuff in the fridge overnight?
+## Can I keep stuff in the fridge overnight?
+
 Here's the skinny: having a place to store perishables is pretty rad. Keeping your sandwich and iced tea cool is awesome. Sharing that space with a community of 200+ people is the opposite of rad. As a rule, we encourage members to only use the fridge for daily use. When Indy Haller is storing his/her week's meals in the same place, things get...messy. 
 
 Please be considerate of Indy Hall members, try not to leave items in the fridge overnight. 
 
-Can I take a beer from the beer fridge?
-#TOLO: Take One, Leave One
+## Can I take a beer from the beer fridge?
+Our beer supply lives and dies by the mantra of TOLO: Take One, Leave One.
 
-We like to share, here. The bottles in the beer fridge aren't the result of immaculate conception (though that would be a wonderfully lucrative business), and they were contributed by a thoughtful member. Enjoy the suds now, but consider paying it forward when you've got the opportunity.
+We like to share, here. The bottles in the beer fridge aren't the result of immaculate fermentation (though that would be a wonderfully lucrative business), and they were contributed by a thoughtful member. Enjoy the suds now, but don't forget to pay it forward for the next person
 
-Where can I pick up a fresh 6 pack to put into the beer fridge?
+## So, where can I pick up a fresh 6 pack to restock the beer fridge?
 
-Mulberry Market 
-236 Arch St. Phila, PA 19106
-215-928-9064
-8 am to 11 pm Sun- Thurs; 8 am to 12 30 Fri - Sat
+* Mulberry Market 
+	236 Arch St. Phila, PA 19106
+	215-928-9064
+	8 am to 11 pm Sun- Thurs; 8 am to 12 30 Fri - Sat
 
-Benjamin Franklin Beer Distributors 
-27 S 2nd St. Phila, PA 19106 
-10 am to 10 pm Mon - Sun 
-215-792-6330
+* Benjamin Franklin Beer Distributors 
+	27 S 2nd St. Phila, PA 19106 
+	10 am to 10 pm Mon - Sun 
+	215-792-6330
 
-Wine & Spirits for wine & spirits
-32 S 2nd St. Phila, PA 19106
-215-560-7062
-9 am to 9 pm Mon - Sat; Closed Sun
+* Wine & Spirits for wine & spirits
+	32 S 2nd St. Phila, PA 19106
+	215-560-7062
+	9 am to 9 pm Mon - Sat; Closed Sun
 
 ![Map](http://placehold.it/600x350)
 
-The counters look messy - should I wipe them down?
+## The counters look messy - should I wipe them down?
+
 That would be really great - thanks! There are paper towels on the counter and Method cleaning spray under the sink. No paper towels nor cleaning spray? Check the Supply Closet. 
 
-The dishwasher is dirty, how do I run it?
+## The dishwasher is dirty, how do I run it?
+
 The dishwasher tablets are under the sink. Grab a tablet and put it in the dishwasher cup, located on the inside of the door. Lock the cup door and close the dishwasher door and press "on". Lastly, change the sign to "clean". Voila!
 
-The dishwasher is clean, how do I empty it?
+## The dishwasher is clean, how do I empty it?
+
 The kitchen is mostly labeled for where you can find things and where you can put them away.  Grab the clean items and put them away. Don't be shy to ask for help and make sure to change the sign to "dirty" after.   
 
-How can I know if the dishwasher currently holds dirty or clean dishes?
+## How can I know if the dishwasher currently holds dirty or clean dishes?
+
 The sign on the dishwasher should indicate the status of the dishes. If you're leery, pop the dishwasher open and check the inside of any mug - if you see coffee or other non-clear liquids, it ain't clean.
 
-The trash can in the kitchen is full. What do I do?
+## The trash can in the kitchen is full. What do I do?
+
 Take it out, please. Clean trash bags are located next to the coffee maker, on the floor, in a white box. The loaded trash goes behind the fake wall downstairs. To get there, you go through two doors in the back of Indy Hall downstairs. If it is locked, grab either Adam or Karina. 
 
-# Part 3 - Being a good citizen of the workplace
+# Part 3 - Being a good citizen in a shared workplace
 
-I need to make a phone call, am I going to bother somebody?
+## I need to make a phone call, am I going to bother somebody?
+
 Don't worry, you're not the only person here who wants/needs to use the phone from time to time. Fortunately, just about everyone here has expressed the same concern of him/herself -  we're all cognizant of one another, when it comes to our own phone conversations. 
 
 Phone calls are best taken in the phone room on the 2nd floor by the kitchen. You're the best judge of how much noise you're going to make during a phone call. Casual client conversations are easy to manage at your pod. Angry shouting matches with your telecom services, not so much. 
@@ -267,109 +274,123 @@ Generally, the extremities of Indy Hall are better areas for phone calls: the Wo
 
 If a conference room is unoccupied, feel free to use that space to take a call and pace around. 
 
-What should I do if someone near me is making too much noise?
+## What should I do if someone near me is making too much noise?
+
 One of the features of Indy Hall is being surrounded by the constant hum and buzz of people getting things done. We love that, and so do many of our members. Of course, there's always a limit. If someone nearby is a little too loud, don't hesitate to speak up and let that person know - you're likely not the only one thinking that, and the noisy person might not realize that he's bothering someone. Be confident, be kind, be honest!
 
-How do I reserve a conference room or a phone booth?
+## How do I reserve a conference room or a phone booth?
+
 Need a conference room for a set time frame? Contact Karina or Adam by emailing info@indyhall.org, or find one of them in the hall. 
 
 The phone room is available to reserve though a sign-up board on the window. Make sure the date on the board is correct, write-in your name by the time(s) needed.
 
-How do I work the thermostats?
+## How do I work the thermostats?
+
 Those pretty little Nest thermostats have a passcode on them! If you think a thermostat needs to be turned up or down, let Karina or Adam know and they can help out from there.
 
-What kinds of things should (and shouldn't) be posted to GroupBuzz?
+## What kinds of things should (and shouldn't) be posted to GroupBuzz?
+
 GroupBuzz is our community discussion board, meant for general communication, community-wide inquiries, and sharing of events and information. The rule of thumb for what works best tends to be a personal, sincere, casual message. It's probably easier to mention posts that aren't successful or efficient: if it reads like a blog post, it likely won't be read well by members. Stay personal. Keep it real.
 
 Job-listings are better suited to the "Gig Swap" room in Hall. Personal, one-to-one messages can create a lot of noise in in the discussion board.
 
-Can I get packages shipped to Indy Hall?
+## Can I get packages shipped to Indy Hall?
+
 If you're here often enough to pick up your packages, sure! There is one absolutely vital rule associated with receiving any form of mail here at Indy Hall: you MUST pick-up your mail.
 
-Can I bring a my own desk?
-Can/should I bring my own chair?
-Can I switch chairs between desks?
-Who gets to keep stuff in the lockers and cubbies? How long can I keep things there?
-When is a good time to change my seat?
+## Can I bring a my own desk?
+## Can/should I bring my own chair?
+## Can I switch chairs between desks?
+## Who gets to keep stuff in the lockers and cubbies? How long can I keep things there?
+## When is a good time to change my seat?
 
-Do I need to reserve conference rooms?
+## Do I need to reserve conference rooms?
+
 Reserve conference rooms through Adam or Karina. 
 
-How do I reserve a conference room?
+## How do I reserve a conference room?
+
 Yes, mostly to make sure that when conference rooms are in high demand there is an organized schedule.  
 
-There are a lot of monitors above the lockers. Are those for general use?
+## There are a lot of monitors above the lockers. Are those for general use?
+
 Monitors without names on them are for general use. 
 
-What things are OK to do with the Internet connection, and what things aren't?
+## What things are OK to do with the Internet connection, and what things aren't?
+
 Yes: General web browsing. Small downloads. Skype.
 No: Hosting files, bit torrent, huge downloads
 Maybe (if the internet seems slow today, please turn these off): Dropbox sync, Video viewing, Google Drive sync
 
 # Questions about Membership
-If I'm not full-time, do I need to call ahead before coming in?
+
+## If I'm not full-time, do I need to call ahead before coming in?
+
 Just come on in, no need to do anything ahead. 
 
-Can I invite a non-member to come in and do some work with me?
+## Can I invite a non-member to come in and do some work with me?
+
 Yes. Make sure they get settled in for his or her drop in with either Adam or Karina. 
 
 # Office-y things
 
-Where can I get stamps? Where is there a post office? 
+## Where can I get stamps? Where is there a post office? 
+
 Really close by, a couple of store front from Fork Etc. This location both an operating post office (although no packages that weigh more than 13 oz) and a museum. 
 
-US Post Office B Free Franklin 
-316 Market Street Phila, PA 19106
-215 592 1292
+* US Post Office B Free Franklin 
+	316 Market Street Phila, PA 19106
+	215 592 1292
 
 ![Map](http://placehold.it/600x350)
 
-Where can I mail letters, boxes?
-US Post Office B Free Franklin 
-316 Market Street Phila, PA 19106
-215 592 1292
-9 am to 5 pm Mon to Fri
+## Where can I mail letters, boxes?
 
-The UPS Store (note: UPS does not mail to PO Box, only USPS) 
-51 N 3rd St. Phila, PA 19106
-215 629 4990 
-8 am to 7 pm Mon to Fri 
+* US Post Office B Free Franklin 
+	316 Market Street Phila, PA 19106
+	215 592 1292
+	9 am to 5 pm Mon to Fri
 
-Closest Mail Box
-NE corner of 3rd & Market. 
+* The UPS Store (note: UPS does not mail to PO Box, only USPS) 
+	51 N 3rd St. Phila, PA 19106
+	215 629 4990 
+	8 am to 7 pm Mon to Fri 
+
+* Closest Mail Box
+	NE corner of 3rd & Market. 
 
 ![Map](http://placehold.it/600x350)
 
-Can I fax up in here?
+## Can I fax up in here?
 
 We do not have a fax machine at Indy Hall although our printer (Brother MFC-780DW-2) does scan. If that is not an option, the UPS Store provides faxing services
 
-UPS Store 
-51 N 3rd St. Phila, PA 19106
-215 629 4990 
-8 am to 7 pm Mon to Fri 
+* UPS Store 
+	51 N 3rd St. Phila, PA 19106
+	215 629 4990 
+	8 am to 7 pm Mon to Fri 
 
 ![Map](http://placehold.it/600x350)
 
-Is there a notary near by?
+# Is there a notary near by?
 
-UPS Store 
-51 N 3rd St. Phila, PA 19106
-215 629 4990 
-8 am to 7 pm Mon to Fri 
-
-![Map](http://placehold.it/600x350)
-
-Where can I buy office supplies near the hall?
-
-Artist & Craftsman Supply 
-307 Market St. Phila, PA 19105
-267-861-6008
-8 am to 9 pm Mon to Fri 
+* UPS Store 
+	51 N 3rd St. Phila, PA 19106
+	215 629 4990 
+	8 am to 7 pm Mon to Fri 
 
 ![Map](http://placehold.it/600x350)
 
-Where can I get Septa tokens? 
+# Where can I buy office supplies near the hall?
+
+	Artist & Craftsman Supply 
+	307 Market St. Phila, PA 19105
+	267-861-6008
+	8 am to 9 pm Mon to Fri 
+
+![Map](http://placehold.it/600x350)
+
+# Where can I get Septa tokens? 
 
 On 2nd & Market Station, the side going Eastbound to 69th St., you are able to purchase, tokens & passes either at the machine or at the counter. 
 
@@ -377,44 +398,42 @@ On 2nd & Market Station, the side going Eastbound to 69th St., you are able to p
 
 Note: this location takes cash only.  
 
-Check out http://www.septa.org for updates and http://maps.google.com is the highly reccomended route navigation tool. 
+Check out http://www.septa.org for updates and http://maps.google.com is the highly recommended route navigation tool. 
 
 
 # General issues
 
-With all the 'environment' issues. It's probably  best to check with others around you and see if they feel the same, if everyone thinks it's cold. take action! but if it's just you, perhaps a sweater might be best.  
+*With all the 'environment' issues. It's probably  best to check with others around you and see if they feel the same, if everyone thinks it's cold. take action! but if it's just you, perhaps a sweater might be best.*
 
-It's hot! It's cold! What do I do?
+## It's hot! It's cold! What do I do?
 
-The music is loud, what do I do?
+## The music is loud, what do I do?
 
-How can I find out what music is playing over the speakers?
+## How can I find out what music is playing over the speakers?
 
-Can I control the music?
+## Can I control the music?
 
 # Who can help you?
 
 ## The Core Team
 
 Karina - Den Mother
+![Karina](https://dl.dropboxusercontent.com/s/7xrl1es02gybuyv/karina.png?token_hash=AAENsUPZcqsH7_egY9XSgLq-qPuBoT1wWsPwynoiM5qG2w)
+
 Adam - Point Man
+![Adam](https://dl.dropboxusercontent.com/s/uoeyqo2imwv1adq/adam.png?token_hash=AAHi_rrZWzH4aKRqUCofCLzAhqWeo6OSdRtp_gjWCugFPw)
+
 Alex - Fearless Leader/Co-founder
+![Alex](https://dl.dropboxusercontent.com/s/fagmqvkou4ol9od/alex.png?token_hash=AAH1ZgzGcuVfbROTKv6DZEjL3OqCEkgziQe4WY4HsgCehQ)
+
 Geoff- Yoda/Co-founder
-
-## Some of our Paricularly Helpful Members
-
-You'll quickly learn that everyone at Indy Hall is kind and helpful. Our members are notoriously generous with sharing their knowledge and experiences, not to mention friendly smiles and high fives. 
-
-Some of our members go the extra mile, and feel passion and ownership for certain aspects of Indy Hall that they're more than happy to share with you. Some of them are long-time members, some are up-and coming newbies. Some are former staff, but most are normal members just like you.
-
-List yourself as a helpful member that newbies can go to, put your name here!
-Johnny Bilotta
-Kara LaFleur
-Nicholas Hance <nhance@reenhanced.com>
+![Geoff](https://dl.dropboxusercontent.com/s/7zm6bpjofhweh6l/geoff.png?token_hash=AAHGPIBZU77iuDLyLzJViF-LmI0sIlPeWNyJ3uFvSXSnMQ)
 
 # Indy Hall Glossary of Terms
-JFDI
-Parkerfabulous
+* JFDI
+	Acronym. Just f*#king do it.
+* Parkerfabulous
+	Adjective. Funny, but potentially dangerous.
 
 # From our Member Agreement
 The members [a.k.a. the people, coworkers, groups and community] of Indy Hall cannot be pigeon holed by job titles or industry sectors. We have a wider curiosity.
@@ -429,28 +448,28 @@ We use creative intelligence to solve real problems.
 ## Your Responsibilities
 Indy Hall is quite different from your average working environment. We're not a serviced office. In order to keep things ticking over nicely here are some essentials we ask everyone to be mindful of when using the space.
 
-Participation is an extreme sport. If you break or lose it, you should replace it.
-Your equipment & professional liability is your responsibility (our insurance cannot cover it).
-Cleaning up after yourself, emptying bins & recycling when they are full is a shared responsibility. We work together to keep the space we're proud of presentable. Let a core team member know if you're not sure where empty bags are, or where trash goes. 
-Do leave the spaces as you found them, or better than you found them (artwork and decoration is welcome).
-Anyone who behaves in an manner that is destructive to the space or other participants may be asked to leave.
-Be responsible and respectful with your internet usage. No bit-torrent or PrOn.
-Respect other peoples personal and business privacy, confidentiality, safety, property and data. If you're not sure, ask them. 
-The last remaining keyholder must ask a non-keyholder to leave at the end of the night, and non-keyholders must respect keyholders' personal schedules.
+* Participation is an extreme sport. If you break or lose it, you should replace it.
+* Your equipment & professional liability is your responsibility (our insurance cannot cover it).
+* Cleaning up after yourself, emptying bins & recycling when they are full is a shared responsibility. We work together to keep the space we're proud of presentable. Let a core team member know if you're not sure where empty bags are, or where trash goes. 
+* Do leave the spaces as you found them, or better than you found them (artwork and decoration is welcome).
+* Anyone who behaves in an manner that is destructive to the space or other participants may be asked to leave.
+* Be responsible and respectful with your internet usage. No bit-torrent or PrOn.
+* Respect other peoples personal and business privacy, confidentiality, safety, property and data. If you're not sure, ask them. 
+* The last remaining keyholder must ask a non-keyholder to leave at the end of the night, and non-keyholders must respect keyholders' personal schedules.
 
-# Indy Hall History Timeline (add memorable dates!)
-March 20, 2007 - First Philly Coworking Meetup
-May 4, 2007 - First "Cream Cheese Session"
-August 7, 2007 - Charter Member Signing - 22 members
-August 10, 2007 - Signed lease on Strawberry Street
-August 19th, 2007 - Front page of the Philadelphia Inquirer (full article behind link)
-September 1st, 2007 - Grand Opening Strawberry Street 28 members
-March 29, 2008 - First Indy Hall/National Mechanics Blood Drive
-September 1st, 2008 - 1 Year Anniversary - 43 members
-January 7, 2009 - Cover Story Philadelphia Weekly
-March 6, 2009 - Town Hall for N3rd Street Expansion Plans (Technically Philly article) - 61 members
-May 1st, 2009 - Grand opening of 20 N3rd Street - 67 members
-April 1st, 2012 - Town Hall for N3rd Street Expansion Plans, Part Deux (ground floor) - 153 members
-June 1st, 2012 - Grand Opening N3rd Street (ground floor)
-July 11th, 2013 - 215 members
-Septembet 1st, 2013 - 6 Year anniversary
+# Indy Hall History Timeline
+* March 20, 2007 - First Philly Coworking Meetup
+* May 4, 2007 - First "Cream Cheese Session"
+* August 7, 2007 - Charter Member Signing - 22 members
+* August 10, 2007 - Signed lease on Strawberry Street
+* August 19th, 2007 - Front page of the Philadelphia Inquirer 
+* September 1st, 2007 - Grand Opening Strawberry Street 28 members
+* March 29, 2008 - First Indy Hall/National Mechanics Blood Drive
+* September 1st, 2008 - 1 Year Anniversary - 43 members
+* January 7, 2009 - Cover Story Philadelphia Weekly
+* March 6, 2009 - Town Hall for N3rd Street Expansion Plans - 61 members
+* May 1st, 2009 - Grand opening of 20 N3rd Street - 67 members
+* April 1st, 2012 - Town Hall for N3rd Street Expansion Plans, Part Deux (ground floor) - 153 members
+* June 1st, 2012 - Grand Opening N3rd Street (ground floor)
+* July 11th, 2013 - 215 members
+* Septembet 1st, 2013 - 6 Year anniversary
