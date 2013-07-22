@@ -8,11 +8,9 @@
 
 **Invitation to discuss/ask questions**
 
-# The Guide
+# The Guide Part 1 - First Day Questions
 
-## First Day Questions
-
-### How do I connect to the wireless network? What's the difference between the two networks available?
+## How do I connect to the wireless network? What's the difference between the two networks available?
 
 You can access our the internet from anywhere in the building, using connections named "Indy Hall 2.4gHz" and "Indy Hall 5gHz". 
 	
@@ -22,7 +20,7 @@ All of our wireless access points use the same password, which is included in yo
 
 _Short Version:_ Join the "Indy Hall 2.4gHz" network if you're not sure, and ask _anyone_ for the password.
 
-### Where can I sit? Can/should I sit with people who do the same kind of work as me?
+## Where can I sit? Can/should I sit with people who do the same kind of work as me?
 
 **Important note #1:** Hopefully, one of the reasons that you joined Indy Hall is to break away from the loneliness that happens when you work alone. So one of our #1 pieces of advice is: don't sit alone! 
 	
@@ -50,7 +48,7 @@ Light-colored work surfaces include the desks mixed into each workcluster, the c
 
 Don't be shy about working from the couches in either lounge. They can be a really nice change of pace! 
 
-### Where do Indy Hall members like to get lunch?
+## Where do Indy Hall members like to get lunch?
 
 Especially when you're new at Indy Hall, a really great way to get to know a few people is to get lunch together. Find out when the people who you're sitting near plan to get lunch, and ask if they'd mind showing you one of their favorite spots. Luckily, Old City has TONS of great food choices just within a couple of blocks. 
 
@@ -66,11 +64,9 @@ For choosing a lunch spot, there are dozens of options:
 
 Other popular sit down lunch options include Farmacia, Continental, Khyber Pass Pub, Race St Cafe, Wedge and Fig, Han Dynasty, and Zento Sushi. There's almost any kind of food you could want within just a couple of blocks, at almost any price point. We're (sadly) missing a grocery store in Old City :( Nobody's perfect, eh?
 
-### What are some tips for meeting other members? 
+## What are some tips for meeting other members? 
 
-**Tip #1:** 
-
-#### RIGHT NOW, introduce yourself online!
+### Tip #1: RIGHT NOW, introduce yourself online!
 
 *Have you accepted your invitations to [our discussion list on GroupBuzz](http://indyhall.groupbuzz.io) and [our chat rooms on Hall.com](https://hall.com/invites/99091e)?* GroupBuzz is our online forum and email discussion list, while Hall.com gives you access to a collection of chat rooms occupied (and created by!) by Indy Hall members. 
 
@@ -78,9 +74,7 @@ Log in, spend a few minutes reading some of the existing discussions to get a fe
 
 *Note: Can't find your invite, or don't remember your login? Email help@indyhall.org and we'll get you fixed up!*
 
-**Tip #2:** 
-
-#### Any time you're physically at Indy Hall, introduce yourself to a person you've never met before!
+### Tip #2: Any time you're physically at Indy Hall, introduce yourself to a person you've never met before!
 
 *Especially* when you're new, Indy Hall can be a lot to take in, and it's not always obvious where to start. 
 
@@ -90,9 +84,7 @@ When you sit down next to people you don't know, make eye contact and say hi, gi
 
 **Be patient. Be curious. Be friendly. Be honest.**
 
-**Tip #3:** 
-
-#### Meet members at events
+### Tip #3: Meet members at events
 
 "Formal", planned, and recurring events 
 There are things to do with other Indy Hall members Indy Hall every week, including Working @ Night Owls & Dinner Club, joining in the conversation at Member Lunches, and Indy Hall Running Club, and B-Team trips to the comic book shop. 
@@ -140,7 +132,7 @@ In the case of an emergency, you can exit the 2nd floor by follow the red doors 
 
 ![TOD Map with arrows pointing to exits](http://placehold.it/350x350)
 
-How to help keep Indy Hall running smoothly
+# The Guide Part 2 - How to help keep Indy Hall running smoothly
 
 We'll just come right out and say it: Indy Hall is not a "serviced office", we're a community office. Sharing resources allows for amazing things to happen, but it also means that we need to take care of the things that we share. 
 
