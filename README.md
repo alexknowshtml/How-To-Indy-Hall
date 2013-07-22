@@ -28,11 +28,11 @@ _Short Version:_ Join the "Indy Hall 2.4gHz" network if you're not sure, and ask
 
 With these notes in mind, you can sit almost anywhere you like! We've done a little bit of extra work to help you enjoy the time you spend coworking with us the most. Those color coded workclusters with light and dark surfaces aren't arranged that way because we wanted it to look like a checkerboard (though the look is cool, isn't it?). We do that to help you mix and mingle easier. Here's how it works!
 
-![TODO Photo of Full Time Desk, set up with someone at it](http://placehold.it/350x350)
+![TODO Photo of Full Time Desk, set up with someone at it](http://placehold.it/600x350)
 
 *Full-Time members are encouraged, but not required, to find an available dark colored desk* to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
 
-![TODO Photo collage of the different flex areas with people at them](http://placehold.it/350x350)
+![TODO Photo collage of the different flex areas with people at them](http://placehold.it/600x350)
 
 If you're a *Basic, Six-Pack, or Lite member*, if you're just *dropping in for the day*, or if you're a *Full-Time member who likes to change things up* more often, you can use any of the unoccupied *light-colored work surfaces* at Indy Hall. 
 
@@ -44,7 +44,7 @@ Light-colored work surfaces include the desks mixed into each workcluster, the c
 
 * *And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day,* you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your full time neighbors!
 
-![TODO Photo of people working on the couches](http://placehold.it/350x350)
+![TODO Photo of people working on the couches](http://placehold.it/600x350)
 
 Don't be shy about working from the couches in either lounge. They can be a really nice change of pace! 
 
@@ -52,11 +52,11 @@ Don't be shy about working from the couches in either lounge. They can be a real
 
 Especially when you're new at Indy Hall, a really great way to get to know a few people is to get lunch together. Find out when the people who you're sitting near plan to get lunch, and ask if they'd mind showing you one of their favorite spots. Luckily, Old City has TONS of great food choices just within a couple of blocks. 
 
-**Pro tip:** sometimes, going to lunch with a stranger can be intimidating. To take some of the pressure off (for you and for them), try going to lunch as a group of 3!
+**Pro tip:** sometimes, going to lunch with a stranger can be intimidating. To take some of the pressure off (for you and for them), **try going to lunch as a group of 3**!
 
 For choosing a lunch spot, there are dozens of options:
 
-![TODO Map of favorite spots](http://placehold.it/350x350)
+![TODO Map of favorite spots](http://placehold.it/600x350)
 
 * **If you're in a hurry** - some favorite options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) mediterranean/hallal cart at 4th and Market. Fork, Etc is also a popular choice for slightly more upscale takeout sandwiches and salads. 
 
@@ -86,29 +86,29 @@ When you sit down next to people you don't know, make eye contact and say hi, gi
 
 ### Tip #3: Meet members at events
 
-"Formal", planned, and recurring events 
-There are things to do with other Indy Hall members Indy Hall every week, including Working @ Night Owls & Dinner Club, joining in the conversation at Member Lunches, and Indy Hall Running Club, and B-Team trips to the comic book shop. 
+* There are things to do with other Indy Hall members Indy Hall every week, including Working @ Night Owls & Dinner Club, joining in the conversation at Member Lunches, and Indy Hall Running Club, and B-Team trips to the comic book shop.   
 
-Monthly events include our ever-popular Show & Tell, various art openings, and happy hours. Over the course of the year, we also host several large parties that are open to the public. We're always looking for something to celebrate!
+    Monthly events include our ever-popular Show & Tell, various art openings, and happy hours. Over the course of the year, we also host several large parties that are open to the public. We're always looking for something to celebrate!   
 
-You can find out about our planned event schedule by joining our Meetup Group: http://www.meetup.com/IndyHall/events/calendar/
+    You can find out about our planned event schedule by joining our Meetup Group: http://www.meetup.com/IndyHall/events/calendar/
 
-Casual, unplanned, and "random" events 
-You don't have to wait for an event to show up on the calendar. Every day at Indy Hall can be an event! 
 
-Because they're not on the calendar, you do need to keep your eyes open for improtpu gatherings in the kitchen, lounge, gallery, and other common areas. Also, keep an eye on GroupBuzz discussions & Hall chat for announcements. 
+* You don't have to wait for an event to show up on the calendar. Every day at Indy Hall can be an event! 
 
-Have an idea for getting members together? Awesome! If this is your first time getting members at Indy Hall organized...read below for some tips on how to be a kick ass community member. 
+    Because they're not on the calendar, you do need to keep your eyes open for improtpu gatherings in the kitchen, lounge, gallery, and other common areas. Also, keep an eye on GroupBuzz discussions & Hall chat for announcements. 
 
-How can I be a kick ass community member?
+    **Have an idea for getting members together?** Awesome! If this is your first time getting members at Indy Hall organized...read below for some tips on how to be a kick ass community member. 
+
+## How can I be a kick ass community member?
 
 Being a great member of our community happens a bit differently than in some other  settings. It's more organic, less mechanical. This also means that often, it takes time. Trust is one of the primary currencies at Indy Hall, and it plays a big role in being a kick-ass community member.
 
 Here's are some observations for consideration:
-In order to help, someone needs to be ready to accept that help. 
-In order for people to be ready to accept help, they need to be able to be willing to be vulnerable enough to ask for help.
-Being vulnerable requires establishing trust in the source. People are drawn to trusted sources, not authoritative sources
-The difference between establishing authority and trust, in my experience, is being able to show some vulnerability yourself.
+
+* In order to help, someone needs to be ready to accept that help. 
+* In order for people to be ready to accept help, they need to be able to be willing to be vulnerable enough to ask for help.
+* Being vulnerable requires establishing trust in the source. People are drawn to trusted sources, not authoritative sources
+* The difference between establishing authority and trust, in our experience, is being able to show some vulnerability yourself.
 
 So with this chain of events in mind, sometimes the best way to be a PROVIDER of help is to first establish trust by receiving help rather than offering it. There are lots of ways to do that, of course, but the most effective ways tend to be small and personal rather than a blast to the entire community. 
 
@@ -116,90 +116,96 @@ If a large portion of your participation in the community at Indy Hall will be o
 
 Try framing it this way: instead of trying to help the "members of Indy Hall", focus on one building relationship at a time. Indy Hall is a special place where we try to make it easier to build the relationships before transactions.
 
-Where's a good place to park my car near Indy Hall?
+## Where's a good place to park my car near Indy Hall?
 
-Old City doesn't have a reputation as the easiest neighborhood to park in, but there are PLENTY of good options nearby (including some free ones!). Parking lots range from $8-15 for all day parking depending on when you enter and leave. Depending on the time of day, there's plentiful on-street parking, just make sure you read signs carefully and don't forget to set a timer to feed your meter if you're at a paid spot. Just because there isn't a meter at the spot doesn't mean it's free. If the sign says "Pay at Kiosk", you'll need to pay at one of the nearby digital kiosks and put a slip on your dashboard. 
+Old City doesn't have a reputation as the easiest neighborhood to park in, but there are PLENTY of good options nearby (including some free ones!). Parking lots range from $8-15 for all day parking depending on when you enter and leave. Depending on the time of day, there's plentiful on-street parking, **just make sure you read signs carefully** and don't forget to set a timer to feed your meter if you're at a paid spot. Just because there isn't a meter at the spot doesn't mean it's free. If the sign says "Pay at Kiosk", you'll need to pay at one of the nearby digital kiosks and put a slip on your dashboard. 
 
-Important Note: The left side of 3rd Street is a tow zone during morning and afternoon rush hours.  The city enforces this and will tow you very quickly. The exact times are listed on the parking signs.
+**Important Note: The left side of 3rd Street is a tow zone during morning and afternoon rush hours.  The city enforces this and will tow you very quickly. The exact times are listed on the parking signs.**
 
-Indy Hall members have collectively shared their best parking tips, including best lot rates, friendliest attendants and even suggested "loops" to drive to find free on-street parking: Community Powered Parking Tips
+Indy Hall members have collectively shared their best parking tips, including best lot rates, friendliest attendants and even suggested "loops" to drive to find free on-street parking: [Community Powered Parking Tips](https://docs.google.com/document/d/1yB9avVkI1N3dcAgpFSjV8Yx9Ni3L72Y2BXod-J9yPmo/edit#heading=h.tllmi5iqibyp)
 
-Where are the exits? Are there any special emergency exits?
+## Where are the exits? Are there any special emergency exits?
 
-During normal operations, all members and guests should enter and exit from the front door at 22 N. 3rd Street. Using the elevator or the balcony stairs for non-emergency usage can be a security risk for Indy Hall members, so please, please, please, don't use them. 
+During normal operations, *all members and guests* should enter and exit from the front door at 22 N. 3rd Street. Using the elevator or the balcony stairs for non-emergency usage can be a security risk for Indy Hall members, so please, please, please, don't use them. 
 
-In the case of an emergency, you can exit the 2nd floor by follow the red doors near the 3rd Street windows and take the stairs down from the balcony. The ground floor emergency exits are at the rear of the ground floor. Take the stairs down to the basement and follow the emergency exit signs to exit through the back of the building. 
+*In the case of an emergency*, you can exit the 2nd floor by follow the red doors near the 3rd Street windows and take the stairs down from the balcony. The ground floor emergency exits are at the rear of the ground floor. Take the stairs down to the basement and follow the emergency exit signs to exit through the back of the building. 
 
-![TOD Map with arrows pointing to exits](http://placehold.it/350x350)
+![TOD Map with arrows pointing to exits](http://placehold.it/600x350)
 
 # Part 2 - How to help keep Indy Hall running smoothly
 
-We'll just come right out and say it: Indy Hall is not a "serviced office", we're a community office. Sharing resources allows for amazing things to happen, but it also means that we need to take care of the things that we share. 
+We'll just come right out and say it: Indy Hall is **not** a "serviced office", we're a **community office**. This means that if you don't clean up after yourself, you're harming the experience of other members. Sharing resources allows for amazing things to happen, but it also means that we need to take care of the things that we share. 
 
-Indy Hall runs best when everyone follows three simple guidelines: 
+Indy Hall runs best when *_everyone_* follows three simple guidelines: 
 
-Look after yourself. 
-Look after each other. 
-Look after this place.
+* Look after yourself. 
+* Look after each other. 
+* Look after this place.
 
 Here's a few simple "how to's" that can help you take care of the place that we share. 
 
-What should I do if I drink the last cup of coffee?
+### What should I do if I drink the last cup of coffee?
 
-Imagine that you approach the coffee pot, place your cup undeneath the spout, press down, and...drip drip drip. Damn. What HEATHAN would drink the last cup and not start up a fresh pot?!
+Imagine that you approach the coffee pot, place your cup underneath the spout, press down, and...drip drip drip. **Damn.** What HEATHAN would drink the last cup and not start up a fresh pot?!
 
 Okay, maybe that's a little dramatic. But only a little.
 
 Many members enjoy the rite of passage that comes with learning to make coffee at Indy Hall. Learning how to replenish the coffee is one of the best ways to connect with someone new at the hall, and it's a stellar way to let members know that you care about their caffiene-controlled sanity.
 
-The big machine in the kitchen might look intimidating, but making coffee at Indy Hall is really easy, but don't hesitate to ask for help! Having another member guide you through making your first pot of coffee is an easy way to make a new friend. Most members sitting in close proximity to the kitchen know what's what, when it comes to the coffee machine, or you can ask for a lesson using GroupBuzz or Hall.
+The big machine in the kitchen might look intimidating, but making coffee at Indy Hall is *really easy*, but don't hesitate to ask for help! Having another member guide you through making your first pot of coffee is an easy way to make a new friend. Most members sitting in close proximity to the kitchen know what's what, when it comes to the coffee machine, or you can ask for a lesson using GroupBuzz or Hall.
 
-For you self-starters, here's a guide:
+#### For you self-starters, here's a guide:
 
 1. Hold the clear container up and under the big red grinder's nozzle, making sure the container pushes gently on the trigger that allows the machine to start grinding.
-If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). Notice us running low on reserves? Email help@indyhall.org so we can place an order
 
-![TODO Photo/gif of Step 1](http://placehold.it/350x350)
+	If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). Notice us running low on reserves? Email help@indyhall.org so we can place an order
+
+	![TODO Photo/gif of Step 1](http://placehold.it/350x150)
 
 2. Fill grounds up to the denoted line on the container - any more than that and we'll be bonding with members while clearning an awful coffee explosion.
 
-![TODO Photo/gif of Step 2](http://placehold.it/350x350)
+	![TODO Photo/gif of Step 2](http://placehold.it/350x150)
 
 3. Place a single filter into the filter basket. 
-If the old filter basket has used grounds in it, you can dump those into the composting can.
 
-![TODO Photo/gif of Step 3](http://placehold.it/350x350)
+	If the old filter basket has used grounds in it, you can dump those into the composting can.
+
+	![TODO Photo/gif of Step 3](http://placehold.it/350x150)
 
 4. Pour the grounds into the filter, and slide the filter basket back into the machine. Make sure it's secure!
 
-![TODO Photo/gif of Step 4](http://placehold.it/350x350)
+	![TODO Photo/gif of Step 4](http://placehold.it/350x150)
 
 5. Press the "Start" toggle button, and listen for the gratifying "woosh" as the water begins to flow.
 
-![TODO Photo/gif of Step 5](http://placehold.it/350x350)
+	![TODO Photo/gif of Step 5](http://placehold.it/350x150)
 
-The toilet paper roll is getting low. Where do we keep the toilet paper?
+### The toilet paper roll is getting low. Where do we keep the toilet paper?
+
 First of all, good lookin' out! One of the more subtle, though absolutely critical ways we take care of each other is making sure that no one gets screwed over in terms of necessary resources being available. Trust me: EVERYONE appreciates the person who restocks the TP. 
 
 The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference Room, behind a grey door with a white sign on it! Does it look like we're running low on reserves? Drop a line to help@indyhall.org and let us know so we can place an order.
 
-![TODO Map with arrow to Supply Closet](http://placehold.it/350x350)
+![TODO Map with arrow to Supply Closet](http://placehold.it/600x350)
 
-What should I do if I use the last paper towel?
+### What should I do if I use the last paper towel?
+
 Like the TP, you can be everyone's hero and replace an empty paper towel roll with a full one.
 
 The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference Room, behind a grey door with a white sign on it! Does it look like we're running low on reserves? Drop a line to help@indyhall.org and let us know so we can place an order.
 
-![TODO Map with arrow to Supply Closet](http://placehold.it/350x350)
+![TODO Map with arrow to Supply Closet](http://placehold.it/600x350)
 
-What should I do if the soap dispenser is running low or empty?
+### What should I do if the soap dispenser is running low or empty?
+
 No one wants to shake the hand of the guy who can't lather up after using the restroom. Help that guy out and grab some soap from the Supply Closet on the 2nd floor.
 
 The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference Room, behind a grey door with a white sign on it! Does it look like we're running low on reserves? Drop a line to help@indyhall.org and let us know so we can place an order.
 
-![TODO Map with arrow to Supply Closet](http://placehold.it/350x350)
+![TODO Map with arrow to Supply Closet](http://placehold.it/600x350)
 
-What should I do if we're running low (or run out of) coffee creamer/sugar? 
+### What should I do if we're running low (or run out of) coffee creamer/sugar? 
+
 Thanks for catching that. Drop an email to help@indyhall.org and we'll stock up.
 
 Can't wait, and want to take action? Lake Blue (3rd & Market, with the blue awning) sells both cream and sugar, just bring us a receipt and we'll credit your membership account.
@@ -233,7 +239,7 @@ Wine & Spirits for wine & spirits
 215-560-7062
 9 am to 9 pm Mon - Sat; Closed Sun
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 The counters look messy - should I wipe them down?
 That would be really great - thanks! There are paper towels on the counter and Method cleaning spray under the sink. No paper towels nor cleaning spray? Check the Supply Closet. 
@@ -316,7 +322,7 @@ US Post Office B Free Franklin
 316 Market Street Phila, PA 19106
 215 592 1292
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 Where can I mail letters, boxes?
 US Post Office B Free Franklin 
@@ -332,7 +338,7 @@ The UPS Store (note: UPS does not mail to PO Box, only USPS)
 Closest Mail Box
 NE corner of 3rd & Market. 
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 Can I fax up in here?
 
@@ -343,7 +349,7 @@ UPS Store
 215 629 4990 
 8 am to 7 pm Mon to Fri 
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 Is there a notary near by?
 
@@ -352,7 +358,7 @@ UPS Store
 215 629 4990 
 8 am to 7 pm Mon to Fri 
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 Where can I buy office supplies near the hall?
 
@@ -361,13 +367,13 @@ Artist & Craftsman Supply
 267-861-6008
 8 am to 9 pm Mon to Fri 
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 Where can I get Septa tokens? 
 
 On 2nd & Market Station, the side going Eastbound to 69th St., you are able to purchase, tokens & passes either at the machine or at the counter. 
 
-![Map](http://placehold.it/350x350)
+![Map](http://placehold.it/600x350)
 
 Note: this location takes cash only.  
 
