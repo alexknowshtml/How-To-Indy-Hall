@@ -26,23 +26,25 @@ _Short Version:_ Join the "Indy Hall 2.4gHz" network if you're not sure, and ask
 
 **Important note #1:** Hopefully, one of the reasons that you joined Indy Hall is to break away from the loneliness that happens when you work alone. So one of our #1 pieces of advice is: don't sit alone! 
 	
-**Important note #2:** choosing a place to sit is NOT permanent! You can swap seats with another member any time you want (you'll want to talk to them about it first, naturally) and every few months, we do a "reset" that allows people to move around, try new areas, and make new deskmates. 
+**Important note #2:** choosing a place to sit is **NOT** permanent! You can swap seats with another member any time you want (you'll want to talk to them about it first, naturally) and every few months, we do a "reset" that allows people to move around, try new areas, and make new deskmates. 
 
 With these notes in mind, you can sit almost anywhere you like! We've done a little bit of extra work to help you enjoy the time you spend coworking with us the most. Those color coded workclusters with light and dark surfaces aren't arranged that way because we wanted it to look like a checkerboard (though the look is cool, isn't it?). We do that to help you mix and mingle easier. Here's how it works!
 
 ![TODO Photo of Full Time Desk, set up with someone at it](http://placehold.it/350x350)
 
-Full-Time members are encouraged, but not required, to find an available dark colored desk to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
+*Full-Time members are encouraged, but not required, to find an available dark colored desk* to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
 
 ![TODO Photo collage of the different flex areas with people at them](http://placehold.it/350x350)
 
-If you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day, or if you're a Full-Time member who likes to change things up more often, you can use any of the unoccupied light-colored work surfaces at Indy Hall. 
+If you're a *Basic, Six-Pack, or Lite member*, if you're just *dropping in for the day*, or if you're a *Full-Time member who likes to change things up* more often, you can use any of the unoccupied *light-colored work surfaces* at Indy Hall. 
 
 Light-colored work surfaces include the desks mixed into each workcluster, the communal tables in the ground floor gallery or 2nd floor workshop, the high-top tables in the kitchen or near the 2nd floor windows, and even the round kitchen tables if you're so inclined!
 
-If you follow these guidelines, you'll begin to notice some plesant side effects: If you're a Full-Time member, you'll get a regular changeover of different people working next to you every day. Introduce yourself and say hi when they join you!
+**If you follow these guidelines, you'll begin to notice some pleasant side effects:**   
 
-And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day, you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your full time neighbors!
+* *If you're a Full-Time member*, you'll get a regular changeover of different people working next to you every day. Introduce yourself and say hi when they join you!
+
+* *And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day,* you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your full time neighbors!
 
 ![TODO Photo of people working on the couches](http://placehold.it/350x350)
 
@@ -58,34 +60,39 @@ For choosing a lunch spot, there are dozens of options:
 
 ![TODO Map of favorite spots](http://placehold.it/350x350)
 
+* **If you're in a hurry** - some favorite options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) mediterranean/hallal cart at 4th and Market. Fork, Etc is also a popular choice for slightly more upscale takeout sandwiches and salads. 
 
-**If you're in a hurry...**   
-...some favorite options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) mediterranean/hallal cart at 4th and Market. Fork, Etc is also a popular choice for slightly more upscale takeout sandwiches and salads. 
-
-**If you prefer to sit down...**   
-...for a meal or are planning a lunch meeting, National Mechanics is a common staple for many Indy Hall natives. You might consider your first trip to National Mechanics, be it for lunch or happy hour, an easy rite of passage to achieve! All of their menu options are great, and they have a full bar and many craft beers on tap if it's one of those kinds of lunches. 
+* **If you prefer to sit down** - for a meal or are planning a lunch meeting, National Mechanics is a common staple for many Indy Hall natives. You might consider your first trip to National Mechanics, be it for lunch or happy hour, an easy rite of passage to achieve! All of their menu options are great, and they have a full bar and many craft beers on tap if it's one of those kinds of lunches. 
 
 Other popular sit down lunch options include Farmacia, Continental, Khyber Pass Pub, Race St Cafe, Wedge and Fig, Han Dynasty, and Zento Sushi. There's almost any kind of food you could want within just a couple of blocks, at almost any price point. We're (sadly) missing a grocery store in Old City :( Nobody's perfect, eh?
 
 ### What are some tips for meeting other members? 
 
-Tip one: RIGHT NOW, introduce yourself online!
+**Tip #1:** 
 
-Have you accepted your invitation to GroupBuzz and Hall.com? GroupBuzz is our email discussion/online forum, and Hall.com gives you access to a collection of chat rooms occupied by Indy Hall members. Log in, spend a few minutes reading some of the existing discussions to get a feel, and then introduce yourself!
+#### RIGHT NOW, introduce yourself online!
 
-Say a bit about what why you joined Indy Hall, what things you're interested in (don't limit yourself to work topics, people love sharing personal interests and hobbies, too). 
+*Have you accepted your invitations to [our discussion list on GroupBuzz](http://indyhall.groupbuzz.io) and [our chat rooms on Hall.com](https://hall.com/invites/99091e)?* GroupBuzz is our online forum and email discussion list, while Hall.com gives you access to a collection of chat rooms occupied (and created by!) by Indy Hall members. 
 
-Note: Can't find your invite, or don't remember your login? Email help@indyhall.org and we'll get you fixed up!
+Log in, spend a few minutes reading some of the existing discussions to get a feel, and then **introduce yourself!** Say a bit about what why you joined Indy Hall, what things you're interested in (don't limit yourself to work topics, people love sharing personal interests and hobbies, too). 
 
-Tip two: Any time you're physically at Indy Hall, introduce yourself in person!
+*Note: Can't find your invite, or don't remember your login? Email help@indyhall.org and we'll get you fixed up!*
 
-Especially when you're new, Indy Hall can be a daunting place. If you're overwhelmed, remember, you don't have to meet everybody at once. Stay focused on meeting one or two people at a time. 
+**Tip #2:** 
+
+#### Any time you're physically at Indy Hall, introduce yourself to a person you've never met before!
+
+*Especially* when you're new, Indy Hall can be a lot to take in, and it's not always obvious where to start. 
+
+If you're overwhelmed, remember, **you don't have to meet everybody at once.** Stay focused on meeting one or two people at a time. 
 
 When you sit down next to people you don't know, make eye contact and say hi, give them your name and ask for theirs. You can ask questions like, "how long have you been a member?" or "Any tips for a newbie like me?". Everyone here is interesting and loves sharing! 
 
-Be patient. Be curious. Be friendly. Be honest. 
+**Be patient. Be curious. Be friendly. Be honest.**
 
-Tip three: Meet members at events
+**Tip #3:** 
+
+#### Meet members at events
 
 "Formal", planned, and recurring events 
 There are things to do with other Indy Hall members Indy Hall every week, including Working @ Night Owls & Dinner Club, joining in the conversation at Member Lunches, and Indy Hall Running Club, and B-Team trips to the comic book shop. 
