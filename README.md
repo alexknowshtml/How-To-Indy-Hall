@@ -30,11 +30,11 @@ _Short Version:_ Join the "Indy Hall 2.4gHz" network if you're not sure, and ask
 
 With these notes in mind, you can sit almost anywhere you like! We've done a little bit of extra work to help you enjoy the time you spend coworking with us the most. Those color coded workclusters with light and dark surfaces aren't arranged that way because we wanted it to look like a checkerboard (though the look is cool, isn't it?). We do that to help you mix and mingle easier. Here's how it works!
 
-[TODO: Photo of Full Time Desk, set up with someone at it]
+![TODO Photo of Full Time Desk, set up with someone at it](http://placehold.it/350x350)
 
 Full-Time members are encouraged, but not required, to find an available dark colored desk to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
 
-[TODO: Photo collage of the different flex areas with people at them]
+![TODO Photo collage of the different flex areas with people at them](http://placehold.it/350x350)
 
 If you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day, or if you're a Full-Time member who likes to change things up more often, you can use any of the unoccupied light-colored work surfaces at Indy Hall. 
 
@@ -44,7 +44,7 @@ If you follow these guidelines, you'll begin to notice some plesant side effects
 
 And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day, you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your full time neighbors!
 
-[TODO: Photo of people working on the couches]
+![TODO Photo of people working on the couches](http://placehold.it/350x350)
 
 Don't be shy about working from the couches in either lounge. They can be a really nice change of pace! 
 
@@ -56,7 +56,7 @@ Especially when you're new at Indy Hall, a really great way to get to know a few
 
 For choosing a lunch spot, there are dozens of options:
 
-![TODO: Map of favorite spots](http://placehold.it/350x300)
+![TODO Map of favorite spots](http://placehold.it/350x350)
 
 
 **If you're in a hurry...**   
@@ -131,7 +131,7 @@ During normal operations, all members and guests should enter and exit from the 
 
 In the case of an emergency, you can exit the 2nd floor by follow the red doors near the 3rd Street windows and take the stairs down from the balcony. The ground floor emergency exits are at the rear of the ground floor. Take the stairs down to the basement and follow the emergency exit signs to exit through the back of the building. 
 
-[Map with arrows pointing to exits]
+![TOD Map with arrows pointing to exits](http://placehold.it/350x350)
 
 How to help keep Indy Hall running smoothly
 
@@ -160,45 +160,45 @@ For you self-starters, here's a guide:
 1. Hold the clear container up and under the big red grinder's nozzle, making sure the container pushes gently on the trigger that allows the machine to start grinding.
 If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). Notice us running low on reserves? Email help@indyhall.org so we can place an order
 
-[Photo/gif of Step 1]
+![TODO Photo/gif of Step 1](http://placehold.it/350x350)
 
 2. Fill grounds up to the denoted line on the container - any more than that and we'll be bonding with members while clearning an awful coffee explosion.
 
-[Photo/gif of Step 2]
+![TODO Photo/gif of Step 2](http://placehold.it/350x350)
 
 3. Place a single filter into the filter basket. 
 If the old filter basket has used grounds in it, you can dump those into the composting can.
 
-[Photo/gif of Step 3]
+![TODO Photo/gif of Step 3](http://placehold.it/350x350)
 
 4. Pour the grounds into the filter, and slide the filter basket back into the machine. Make sure it's secure!
 
-[Photo/gif of Step 4]
+![TODO Photo/gif of Step 4](http://placehold.it/350x350)
 
 5. Press the "Start" toggle button, and listen for the gratifying "woosh" as the water begins to flow.
 
-[Photo/gif of Step 5]
+![TODO Photo/gif of Step 5](http://placehold.it/350x350)
 
 The toilet paper roll is getting low. Where do we keep the toilet paper?
 First of all, good lookin' out! One of the more subtle, though absolutely critical ways we take care of each other is making sure that no one gets screwed over in terms of necessary resources being available. Trust me: EVERYONE appreciates the person who restocks the TP. 
 
 The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference Room, behind a grey door with a white sign on it! Does it look like we're running low on reserves? Drop a line to help@indyhall.org and let us know so we can place an order.
 
-[Map with arrow to Supply Closet]
+![TODO Map with arrow to Supply Closet](http://placehold.it/350x350)
 
 What should I do if I use the last paper towel?
 Like the TP, you can be everyone's hero and replace an empty paper towel roll with a full one.
 
 The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference Room, behind a grey door with a white sign on it! Does it look like we're running low on reserves? Drop a line to help@indyhall.org and let us know so we can place an order.
 
-[Map with arrow to Supply Closet]
+![TODO Map with arrow to Supply Closet](http://placehold.it/350x350)
 
 What should I do if the soap dispenser is running low or empty?
 No one wants to shake the hand of the guy who can't lather up after using the restroom. Help that guy out and grab some soap from the Supply Closet on the 2nd floor.
 
 The Supply Closet is upstairs on the 2nd floor, adjacent to the North Conference Room, behind a grey door with a white sign on it! Does it look like we're running low on reserves? Drop a line to help@indyhall.org and let us know so we can place an order.
 
-[Map with arrow to Supply Closet]
+![TODO Map with arrow to Supply Closet](http://placehold.it/350x350)
 
 What should I do if we're running low (or run out of) coffee creamer/sugar? 
 Thanks for catching that. Drop an email to help@indyhall.org and we'll stock up.
@@ -235,7 +235,7 @@ Wine & Spirits for wine & spirits
 215-560-7062
 9 am to 9 pm Mon - Sat; Closed Sun
 
-[Map]
+![Map](http://placehold.it/350x350)
 
 The counters look messy - should I wipe them down?
 That would be really great - thanks! There are paper towels on the counter and Method cleaning spray under the sink. No paper towels nor cleaning spray? Check the Supply Closet. 
@@ -317,7 +317,7 @@ US Post Office B Free Franklin
 316 Market Street Phila, PA 19106
 215 592 1292
 
-[Map]
+![Map](http://placehold.it/350x350)
 
 Where can I mail letters, boxes?
 US Post Office B Free Franklin 
@@ -333,7 +333,7 @@ The UPS Store (note: UPS does not mail to PO Box, only USPS)
 Closest Mail Box
 NE corner of 3rd & Market. 
 
-[Map]
+![Map](http://placehold.it/350x350)
 
 Can I fax up in here?
 
@@ -344,12 +344,16 @@ UPS Store
 215 629 4990 
 8 am to 7 pm Mon to Fri 
 
+![Map](http://placehold.it/350x350)
+
 Is there a notary near by?
 
 UPS Store 
 51 N 3rd St. Phila, PA 19106
 215 629 4990 
 8 am to 7 pm Mon to Fri 
+
+![Map](http://placehold.it/350x350)
 
 Where can I buy office supplies near the hall?
 
@@ -358,9 +362,13 @@ Artist & Craftsman Supply
 267-861-6008
 8 am to 9 pm Mon to Fri 
 
+![Map](http://placehold.it/350x350)
+
 Where can I get Septa tokens? 
 
 On 2nd & Market Station, the side going Eastbound to 69th St., you are able to purchase, tokens & passes either at the machine or at the counter. 
+
+![Map](http://placehold.it/350x350)
 
 Note: this location takes cash only.  
 
