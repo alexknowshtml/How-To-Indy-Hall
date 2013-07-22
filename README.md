@@ -8,7 +8,7 @@
 
 **Invitation to discuss/ask questions**
 
-# The Guide Part 1 - First Day Questions
+# Part 1 - Getting Started at Indy Hall
 
 ## How do I connect to the wireless network? What's the difference between the two networks available?
 
@@ -132,7 +132,7 @@ In the case of an emergency, you can exit the 2nd floor by follow the red doors 
 
 ![TOD Map with arrows pointing to exits](http://placehold.it/350x350)
 
-# The Guide Part 2 - How to help keep Indy Hall running smoothly
+# Part 2 - How to help keep Indy Hall running smoothly
 
 We'll just come right out and say it: Indy Hall is not a "serviced office", we're a community office. Sharing resources allows for amazing things to happen, but it also means that we need to take care of the things that we share. 
 
@@ -204,8 +204,7 @@ Thanks for catching that. Drop an email to help@indyhall.org and we'll stock up.
 
 Can't wait, and want to take action? Lake Blue (3rd & Market, with the blue awning) sells both cream and sugar, just bring us a receipt and we'll credit your membership account.
 
-Kitchen Etiquette
-
+# Part 2 - Being a good citizen of the kitchen 
 
 Can I keep stuff in the fridge overnight?
 Here's the skinny: having a place to store perishables is pretty rad. Keeping your sandwich and iced tea cool is awesome. Sharing that space with a community of 200+ people is the opposite of rad. As a rule, we encourage members to only use the fridge for daily use. When Indy Haller is storing his/her week's meals in the same place, things get...messy. 
@@ -251,7 +250,7 @@ The sign on the dishwasher should indicate the status of the dishes. If you're l
 The trash can in the kitchen is full. What do I do?
 Take it out, please. Clean trash bags are located next to the coffee maker, on the floor, in a white box. The loaded trash goes behind the fake wall downstairs. To get there, you go through two doors in the back of Indy Hall downstairs. If it is locked, grab either Adam or Karina. 
 
-Workspace Etiquette
+# Part 3 - Being a good citizen of the workplace
 
 I need to make a phone call, am I going to bother somebody?
 Don't worry, you're not the only person here who wants/needs to use the phone from time to time. Fortunately, just about everyone here has expressed the same concern of him/herself -  we're all cognizant of one another, when it comes to our own phone conversations. 
@@ -301,13 +300,14 @@ Yes: General web browsing. Small downloads. Skype.
 No: Hosting files, bit torrent, huge downloads
 Maybe (if the internet seems slow today, please turn these off): Dropbox sync, Video viewing, Google Drive sync
 
-Questions about Membership
+# Questions about Membership
 If I'm not full-time, do I need to call ahead before coming in?
 Just come on in, no need to do anything ahead. 
+
 Can I invite a non-member to come in and do some work with me?
 Yes. Make sure they get settled in for his or her drop in with either Adam or Karina. 
 
-Office-y things
+# Office-y things
 
 Where can I get stamps? Where is there a post office? 
 Really close by, a couple of store front from Fork Etc. This location both an operating post office (although no packages that weigh more than 13 oz) and a museum. 
@@ -374,7 +374,7 @@ Note: this location takes cash only.
 Check out http://www.septa.org for updates and http://maps.google.com is the highly reccomended route navigation tool. 
 
 
-General issues
+# General issues
 
 With all the 'environment' issues. It's probably  best to check with others around you and see if they feel the same, if everyone thinks it's cold. take action! but if it's just you, perhaps a sweater might be best.  
 
@@ -386,21 +386,17 @@ How can I find out what music is playing over the speakers?
 
 Can I control the music?
 
-Who can help you?
-The Core Team
+# Who can help you?
+
+## The Core Team
 
 Karina - Den Mother
-
-
 Adam - Point Man
-
-
 Alex - Fearless Leader/Co-founder
-
-
 Geoff- Yoda/Co-founder
 
-Some of our Paricularly Helpful Members
+## Some of our Paricularly Helpful Members
+
 You'll quickly learn that everyone at Indy Hall is kind and helpful. Our members are notoriously generous with sharing their knowledge and experiences, not to mention friendly smiles and high fives. 
 
 Some of our members go the extra mile, and feel passion and ownership for certain aspects of Indy Hall that they're more than happy to share with you. Some of them are long-time members, some are up-and coming newbies. Some are former staff, but most are normal members just like you.
@@ -410,11 +406,11 @@ Johnny Bilotta
 Kara LaFleur
 Nicholas Hance <nhance@reenhanced.com>
 
-Indy Hall Glossary of Terms
+# Indy Hall Glossary of Terms
 JFDI
 Parkerfabulous
 
-From our Member Agreement
+# From our Member Agreement
 The members [a.k.a. the people, coworkers, groups and community] of Indy Hall cannot be pigeon holed by job titles or industry sectors. We have a wider curiosity.
 
 We are a gathering of people finding a way of working better together (both offline and on) focused on inspiration, participation and learning through doing. Anything can happen, the environments and space(s) change.
@@ -424,7 +420,7 @@ The participants of Indy Hall share a fundamental optimism, a spirit of liberty 
 We work to inspiring anyone to help everyone. 
 We use creative intelligence to solve real problems.
 
-Your Responsibilities
+## Your Responsibilities
 Indy Hall is quite different from your average working environment. We're not a serviced office. In order to keep things ticking over nicely here are some essentials we ask everyone to be mindful of when using the space.
 
 Participation is an extreme sport. If you break or lose it, you should replace it.
@@ -436,7 +432,7 @@ Be responsible and respectful with your internet usage. No bit-torrent or PrOn.
 Respect other peoples personal and business privacy, confidentiality, safety, property and data. If you're not sure, ask them. 
 The last remaining keyholder must ask a non-keyholder to leave at the end of the night, and non-keyholders must respect keyholders' personal schedules.
 
-Indy Hall History Timeline (add memorable dates!)
+# Indy Hall History Timeline (add memorable dates!)
 March 20, 2007 - First Philly Coworking Meetup
 May 4, 2007 - First "Cream Cheese Session"
 August 7, 2007 - Charter Member Signing - 22 members
