@@ -1,11 +1,3 @@
-# Table of Contents
-
-[Welcome to Indy Hall](#welcome)   
-[The Guide](#theguide)   
-[Getting Help](#gettinghelp)   
-[Indy Hall’s History](#history)   
-
-<a id="welcome" />
 # Welcome to Indy Hall
 
 ## How to use this Guide
