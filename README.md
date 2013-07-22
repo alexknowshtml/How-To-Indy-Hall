@@ -15,26 +15,26 @@
 ### How do I connect to the wireless network? What's the difference between the two networks available?
 
 You can access our the internet from anywhere in the building, using connections named "Indy Hall 2.4gHz" and "Indy Hall 5gHz". 
-
+	
 Mobile phones and tablets may only show 2.4gHz as an option, but if you see both options you can pick whichever one has the strongest signal. 5gHz may be noticably faster for some high-demand uses, but your milage may vary.
-
+	
 All of our wireless access points use the same password, which is included in your welcome email; ask your neighbor or one of the core team members if you’re having trouble connecting.
 
 _Short Version:_ Join the "Indy Hall 2.4gHz" network if you're not sure, and ask _anyone_ for the password.
 
 ### Where can I sit? Can/should I sit with people who do the same kind of work as me?
 
-Important note #1: Hopefully, one of the reasons that you joined Indy Hall is to break away from the loneliness that happens when you work alone. So one of our #1 pieces of advice is: don't sit alone! 
-
-Important note #2: choosing a place to sit is NOT permanent! You can swap seats with another member any time you want (you'll want to talk to them about it first, naturally) and every few months, we do a "reset" that allows people to move around, try new areas, and make new deskmates. 
+**Important note #1:** Hopefully, one of the reasons that you joined Indy Hall is to break away from the loneliness that happens when you work alone. So one of our #1 pieces of advice is: don't sit alone! 
+	
+**Important note #2:** choosing a place to sit is NOT permanent! You can swap seats with another member any time you want (you'll want to talk to them about it first, naturally) and every few months, we do a "reset" that allows people to move around, try new areas, and make new deskmates. 
 
 With these notes in mind, you can sit almost anywhere you like! We've done a little bit of extra work to help you enjoy the time you spend coworking with us the most. Those color coded workclusters with light and dark surfaces aren't arranged that way because we wanted it to look like a checkerboard (though the look is cool, isn't it?). We do that to help you mix and mingle easier. Here's how it works!
 
-[Photo of Full Time Desk, set up with someone at it]
+[TODO: Photo of Full Time Desk, set up with someone at it]
 
 Full-Time members are encouraged, but not required, to find an available dark colored desk to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
 
-[Photo collage of the different flex areas with people at them]
+[TODO: Photo collage of the different flex areas with people at them]
 
 If you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day, or if you're a Full-Time member who likes to change things up more often, you can use any of the unoccupied light-colored work surfaces at Indy Hall. 
 
@@ -44,29 +44,29 @@ If you follow these guidelines, you'll begin to notice some plesant side effects
 
 And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day, you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your full time neighbors!
 
-[Photo of people working on the couches]
+[TODO: Photo of people working on the couches]
 
 Don't be shy about working from the couches in either lounge. They can be a really nice change of pace! 
 
-Where do Indy Hall members like to get lunch?
+### Where do Indy Hall members like to get lunch?
 
 Especially when you're new at Indy Hall, a really great way to get to know a few people is to get lunch together. Find out when the people who you're sitting near plan to get lunch, and ask if they'd mind showing you one of their favorite spots. Luckily, Old City has TONS of great food choices just within a couple of blocks. 
 
-Pro tip: sometimes, going to lunch with a stranger can be intimidating. To take some of the pressure off (for you and for them), try going to lunch as a group of 3!
+**Pro tip:** sometimes, going to lunch with a stranger can be intimidating. To take some of the pressure off (for you and for them), try going to lunch as a group of 3!
 
 For choosing a lunch spot, there are dozens of options:
 
-[Map of favorite spots]
+[TODO: Map of favorite spots]
 
-If you're in a hurry... 
+**If you're in a hurry...**   
 ...some favorite options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) mediterranean/hallal cart at 4th and Market. Fork, Etc is also a popular choice for slightly more upscale takeout sandwiches and salads. 
 
-If you prefer to sit down...
+**If you prefer to sit down...**   
 ...for a meal or are planning a lunch meeting, National Mechanics is a common staple for many Indy Hall natives. You might consider your first trip to National Mechanics, be it for lunch or happy hour, an easy rite of passage to achieve! All of their menu options are great, and they have a full bar and many craft beers on tap if it's one of those kinds of lunches. 
 
 Other popular sit down lunch options include Farmacia, Continental, Khyber Pass Pub, Race St Cafe, Wedge and Fig, Han Dynasty, and Zento Sushi. There's almost any kind of food you could want within just a couple of blocks, at almost any price point. We're (sadly) missing a grocery store in Old City :( Nobody's perfect, eh?
 
-What are some tips for meeting other members? 
+### What are some tips for meeting other members? 
 
 Tip one: RIGHT NOW, introduce yourself online!
 
