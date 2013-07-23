@@ -6,6 +6,13 @@ toc: true
 
 # Glossary of Terms
 
+>   **JFDI**. *Acronym.*   
+> 	Just f*#king do it.
+
+>   **Parkerfabulous**. *Adjective.*   
+> 	Funny, but potentially dangerous.
+
+
 ---
 
 #### Add your voice

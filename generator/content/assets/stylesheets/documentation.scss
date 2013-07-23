@@ -293,6 +293,12 @@ nav {
       margin-left: -16px;
 			background: $light-grey;
 			clear:both;			
+			ul {
+				margin-left:35px;
+				li{
+					margin:10px 0;
+				}
+			}
     }
 		
 		hr {

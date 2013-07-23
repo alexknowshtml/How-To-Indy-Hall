@@ -380,7 +380,15 @@ nav #search input {
   background: #fefefa;
   clear: both;
 }
+/* line 296, content/assets/stylesheets/documentation.scss */
+.page .content blockquote ul {
+  margin-left: 35px;
+}
 /* line 298, content/assets/stylesheets/documentation.scss */
+.page .content blockquote ul li {
+  margin: 10px 0;
+}
+/* line 304, content/assets/stylesheets/documentation.scss */
 .page .content hr {
   margin-top: 40px;
   border: 0;
@@ -388,14 +396,14 @@ nav #search input {
   height: 2px;
   clear: both;
 }
-/* line 305, content/assets/stylesheets/documentation.scss */
+/* line 311, content/assets/stylesheets/documentation.scss */
 .page .content .photo-right {
   float: right;
   height: 150px;
   width: 150px;
 }
 
-/* line 314, content/assets/stylesheets/documentation.scss */
+/* line 320, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }
