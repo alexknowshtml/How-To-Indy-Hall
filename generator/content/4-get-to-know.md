@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <br style="clear:both;"/>
 
-## Featured Members
+## "Regulars"
 
 
 

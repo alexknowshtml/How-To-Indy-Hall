@@ -91,23 +91,6 @@ When you sit down next to people you don't know, make eye contact and say hi, gi
 
     **Have an idea for getting members together?** Awesome! If this is your first time getting members at Indy Hall organized...read below for some tips on how to be a kick ass community member. 
 
-## How can I be a kick ass community member?
-
-Being a great member of our community happens a bit differently than in some other  settings. It's more organic, less mechanical. This also means that often, it takes time. Trust is one of the primary currencies at Indy Hall, and it plays a big role in being a kick-ass community member.
-
-Here's are some observations for consideration:
-
-* In order to help, someone needs to be ready to accept that help. 
-* In order for people to be ready to accept help, they need to be able to be willing to be vulnerable enough to ask for help.
-* Being vulnerable requires establishing trust in the source. People are drawn to trusted sources, not authoritative sources
-* The difference between establishing authority and trust, in our experience, is being able to show some vulnerability yourself.
-
-So with this chain of events in mind, sometimes the best way to be a PROVIDER of help is to first establish trust by receiving help rather than offering it. There are lots of ways to do that, of course, but the most effective ways tend to be small and personal rather than a blast to the entire community. 
-
-If a large portion of your participation in the community at Indy Hall will be online, you may find it effective earn trust by listening and engaging in conversations (all the while, remembering the difference between authority and trust mentioned above) rather than trying to jump-start them without that foundation of earned trust.
-
-Try framing it this way: instead of trying to help the "members of Indy Hall", focus on one building relationship at a time. Indy Hall is a special place where we try to make it easier to build the relationships before transactions.
-
 ## Where's a good place to park my car near Indy Hall?
 
 Old City doesn't have a reputation as the easiest neighborhood to park in, but there are PLENTY of good options nearby (including some free ones!). Parking lots range from $8-15 for all day parking depending on when you enter and leave. Depending on the time of day, there's plentiful on-street parking, **just make sure you read signs carefully** and don't forget to set a timer to feed your meter if you're at a paid spot. Just because there isn't a meter at the spot doesn't mean it's free. If the sign says "Pay at Kiosk", you'll need to pay at one of the nearby digital kiosks and put a slip on your dashboard. 
