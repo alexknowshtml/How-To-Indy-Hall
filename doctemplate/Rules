@@ -22,7 +22,7 @@ require "./lib/filters/toc_filter"
 
 Compass.add_project_configuration 'compass/config.rb'
 
-compile '/assets/javascripts/tipuesearch-data/' do
+compile '/assets/javascripts/tipuesearch_content/' do
   filter :erb
 end
 

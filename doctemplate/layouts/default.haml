@@ -8,6 +8,15 @@
     
     / you don't need to keep this, but it's cool for stats!
     %meta{:content => "nanoc #{Nanoc::VERSION}", :name => "generator"}/
+
+    %script{ :src => "//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" }
+    %script{ :src => relative_path_to("/javascripts/underscore.js") }
+    %script{ :src => relative_path_to("/javascripts/scrollspy.js") }
+    %script{ :src => "/javascripts/tipuesearch_content.js" }
+    %script{ :src => "/javascripts/tipuesearch_set.js" }
+    %script{ :src => "/javascripts/tipuesearch.js" }
+    %script{ :src => relative_path_to("/javascripts/application.js") }
+
   %body{"data-spy" => "scroll", "data-target" => "nav"}
     %header{:role => "banner"}
       .name
@@ -18,7 +27,7 @@
       .content= yield
       %nav
         %form#search{:action => "/search/"}
-          %input#tipue_search_input{:name => "q", :type => "search", :placeholder => "Search"}
+          %input#tipue_search_input{:name => "q", :type => "text", :placeholder => "Search"}
         
         #toc.nav
           %ol
@@ -26,7 +35,3 @@
               %li{:class => (i == @item ? "active-section" : "")}
                 = link_to i[:link_title] || i[:title], relative_path_to(i), :class => (i == @item ? "active" : "")
 
-    %script{ :src => "http://code.jquery.com/jquery-1.7.2.min.js" }
-    %script{ :src => relative_path_to("/javascripts/underscore.js") }
-    %script{ :src => relative_path_to("/javascripts/scrollspy.js") }
-    %script{ :src => relative_path_to("/javascripts/application.js") }
