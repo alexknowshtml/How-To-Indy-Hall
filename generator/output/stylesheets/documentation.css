@@ -336,6 +336,10 @@ nav #search input {
   margin-left: 15em;
 }
 /* line 255, content/assets/stylesheets/documentation.scss */
+.page .content p {
+  margin-left: 40px;
+}
+/* line 259, content/assets/stylesheets/documentation.scss */
 .page .content h2 {
   font-size: 2em;
   line-height: 1.688em;
@@ -346,7 +350,7 @@ nav #search input {
   margin-left: -16px;
   clear: both;
 }
-/* line 265, content/assets/stylesheets/documentation.scss */
+/* line 269, content/assets/stylesheets/documentation.scss */
 .page .content h3 {
   font-size: 1.5em;
   line-height: 1.125em;
@@ -356,7 +360,7 @@ nav #search input {
   padding-left: 12px;
   margin-left: -16px;
 }
-/* line 274, content/assets/stylesheets/documentation.scss */
+/* line 278, content/assets/stylesheets/documentation.scss */
 .page .content h4 {
   font-weight: bold;
   margin-top: 1.688em;
@@ -364,7 +368,7 @@ nav #search input {
   padding-left: 14px;
   margin-left: -16px;
 }
-/* line 281, content/assets/stylesheets/documentation.scss */
+/* line 285, content/assets/stylesheets/documentation.scss */
 .page .content blockquote {
   margin-top: 1.688em;
   # border-left: 5px solid #0d1d23;
@@ -373,7 +377,7 @@ nav #search input {
   margin-left: -16px;
   background: #fefefa;
 }
-/* line 290, content/assets/stylesheets/documentation.scss */
+/* line 294, content/assets/stylesheets/documentation.scss */
 .page .content hr {
   margin-top: 40px;
   border: 0;
@@ -382,7 +386,7 @@ nav #search input {
   clear: both;
 }
 
-/* line 301, content/assets/stylesheets/documentation.scss */
+/* line 305, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }

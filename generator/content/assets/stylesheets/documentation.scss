@@ -252,6 +252,10 @@ nav {
 		float:left;
     margin-left:15em;
 
+		p {
+			margin-left:40px;
+		}
+		
 		h2 {
       @include adjust-font-size-to(32px, 2);
       @include leader(1, 32px);
