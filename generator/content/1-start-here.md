@@ -46,3 +46,9 @@ Let's keep the conversation going.
 If you want to share with the entire community, start a [new discussion on GroupBuzz](http://indyhall.groupbuzz.io/). 
 
 If you prefer to start the conversation privately, you can email [help@indyhall.org](mailto:help@indyhall.org) to reach Alex, Adam, and Karina directly.
+
+---
+
+#### Add your voice
+
+Wanna help make this page better? Find out [how to contribute](/7-how-to/).

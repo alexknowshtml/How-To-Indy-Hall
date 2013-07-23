@@ -373,7 +373,7 @@ nav #search input {
   margin-top: 1.688em;
   # border-left: 5px solid #0d1d23;
   font-style: italic;
-  padding: 5px 50px;
+  padding: 5px 50px 5px 20px;
   margin-left: -16px;
   background: #fefefa;
 }

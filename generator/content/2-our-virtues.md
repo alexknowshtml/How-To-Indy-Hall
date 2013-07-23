@@ -86,6 +86,10 @@ If your goals include doing things that authentic and meaningful, you must pract
 
 **What are your ambitions, intentions, constraints, and imperatives?**
 
+> *Note: the concepts and contents of this page originated in a post on [Alex's Blog - The Virtues of Indy Hall](http://dangerouslyawesome.com/2012/04/the-virtues-of-indy-hall/).*
+
 ---
 
-*Source: [Alex's Blog - The Virtues of Indy Hall](http://dangerouslyawesome.com/2012/04/the-virtues-of-indy-hall/)*
+#### Add your voice
+
+Wanna help make this page better? Find out [how to contribute](/7-how-to/).
