@@ -66,3 +66,9 @@ toc: true
 > into a *community*.    
 > 
 > **Indy Hall. You're a part of it.**
+
+---
+
+#### Add your voice
+
+Wanna help make this page better? Find out [how to contribute](/7-how-to/).

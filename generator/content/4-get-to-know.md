@@ -24,3 +24,9 @@ If you're just getting started, you might not be sure who you can turn to for he
 
 ### Geoff- Yoda/Co-founder
 ![Geoff](https://dl.dropboxusercontent.com/s/7zm6bpjofhweh6l/geoff.png?token_hash=AAHGPIBZU77iuDLyLzJViF-LmI0sIlPeWNyJ3uFvSXSnMQ)
+
+---
+
+#### Add your voice
+
+Wanna help make this page better? Find out [how to contribute](/7-how-to/).
