@@ -273,6 +273,7 @@ nav {
       border-left: 4px solid $dark-blue;
       padding-left: 12px;
       margin-left: -16px;
+			clear:both;
     }
 
     h4 {
@@ -281,7 +282,9 @@ nav {
       border-left: 2px solid $dark-blue;
       padding-left: 14px;
       margin-left: -16px;
+			clear:both;
     }
+
 	  blockquote {
       @include leader;
       # border-left: 5px solid $dark-blue;
@@ -289,6 +292,7 @@ nav {
 			padding: 5px 50px 5px 20px;
       margin-left: -16px;
 			background: $light-grey;
+			clear:both;			
     }
 		
 		hr {
@@ -297,6 +301,11 @@ nav {
 		  background-color: $light-blue;
 			height: 2px;
 			clear:both;
+		}
+		.photo-right {
+			float:right;
+			height:150px;
+			width:150px;
 		}
   }
 }
