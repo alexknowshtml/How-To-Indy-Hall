@@ -16,7 +16,7 @@ Virtues are patterns in how we behave - habits, choices, interactions, etc - tha
 
 Think of it like going to the gym: if you go to the gym to lose weight, you’re likely to be disappointed or fall off the wagon if the weight loss doesn’t show up as fast as you want.
 
-If you go to the gym to be healthy, your motivators are come from deeper inside of you, and you’re more likely to push through the harder parts of the workout routine as you make progress with becoming healthier.
+If you go to the gym to be healthy, your motivators come from deeper inside of you, and you’re more likely to push through the harder parts of the workout routine as you make progress with becoming healthier.
 
 Weight loss will be the byproduct of becoming healthier. **The good life is a byproduct of practicing Arête every day.**
 
@@ -31,7 +31,7 @@ Weight loss will be the byproduct of becoming healthier. **The good life is a by
 
 An **ambition** replaces a "vision" – and it answers the question "why are we here?" 
 
-More specifically, an ambition is meant to define the kinds of returns you we will create, and who will benefit. The more genuine the value is, the greater the ambition. 
+More specifically, an ambition is meant to define the kinds of returns we will create, and who will benefit. The more genuine the value is, the greater the ambition. 
 
 We earn bonus points for **better**, rather than bigger.
 
@@ -42,7 +42,7 @@ We earn bonus points for **better**, rather than bigger.
 
 An **intention** is an action required to achieve an ambition. 
 
-How do you improve things for the people you interact with? What interactions make sure the ambition is being fulfilled?
+How do you improve things for the people you interact with? What interactions make sure the ambition is being fulfilled? We seek to:
 
   > ...help unlikely groups of likeminded people form relationships.   
   > ...focus on people and their interactions, and the formation of relationships.   
@@ -53,7 +53,7 @@ How do you improve things for the people you interact with? What interactions ma
 
 ## Our Constraints
 
-Constraints are the actions which must **not** be done. Constraints exist to avoid things that do damage to the value being created.
+Constraints are the actions which must **not** be done. Constraints exist to avoid things that do damage to the value being created. We must never:
 
   > ...do anything against our community’s interest.   
   > ...focus on desks or square footage.   
@@ -65,16 +65,16 @@ Constraints are the actions which must **not** be done. Constraints exist to avo
 
 ## Our Imperatives
 
-Imperatives are the things that must be done daily. They’re specific, focused actions that help achieve the intentions and ambitions.
+Imperatives are the things that must be done daily. They’re specific, focused actions that help achieve the intentions and ambitions. We must always:
 
   > ...keep people at the center of every action, interaction, and decision.   
   > ...welcome new community members, and make it clear that Indy Hall is theirs, not just ours.   
-  > ...always look for a way to say yes.   
+  > ...always look for a way to say "yes".   
   > ...teach others in our immediate and neighboring communities how we operate.   
 
 #### Do It Yourself
 
-If you’re running a business, from startup to Fortune 50, you ca practice Arête.
+If you’re running a business, from startup to Fortune 500, you can practice Arête.
 
 If you’re developing a community, from a family to a city, you can practice Arête.
 
@@ -82,7 +82,7 @@ If you’re creating, from art to technology, you can practice Arête.
 
 If you’re working, alone or as part of a team, you can practice Arête.
 
-If your goals include doing things that authentic and meaningful, you must practice Arête.
+If your goals include doing things that are authentic and meaningful, you must practice Arête.
 
 **What are your ambitions, intentions, constraints, and imperatives?**
 
