@@ -56,40 +56,7 @@ For choosing a lunch spot, there are dozens of options:
 
 Other popular sit down lunch options include Farmacia, Continental, Khyber Pass Pub, Race St Cafe, Wedge and Fig, Han Dynasty, and Zento Sushi. There's almost any kind of food you could want within just a couple of blocks, at almost any price point. We're (sadly) missing a grocery store in Old City :( Nobody's perfect, eh?
 
-## What are some tips for meeting other members? 
 
-### Tip #1: RIGHT NOW, introduce yourself online!
-
-*Have you accepted your invitations to [our discussion list on GroupBuzz](http://indyhall.groupbuzz.io) and [our chat rooms on Hall.com](https://hall.com/invites/99091e)?* GroupBuzz is our online forum and email discussion list, while Hall.com gives you access to a collection of chat rooms occupied (and created by!) by Indy Hall members. 
-
-Log in, spend a few minutes reading some of the existing discussions to get a feel, and then **introduce yourself!** Say a bit about what why you joined Indy Hall, what things you're interested in (don't limit yourself to work topics, people love sharing personal interests and hobbies, too). 
-
-*Note: Can't find your invite, or don't remember your login? Email help@indyhall.org and we'll get you fixed up!*
-
-### Tip #2: Any time you're physically at Indy Hall, introduce yourself to a person you've never met before!
-
-*Especially* when you're new, Indy Hall can be a lot to take in, and it's not always obvious where to start. 
-
-If you're overwhelmed, remember, **you don't have to meet everybody at once.** Stay focused on meeting one or two people at a time. 
-
-When you sit down next to people you don't know, make eye contact and say hi, give them your name and ask for theirs. You can ask questions like, "how long have you been a member?" or "Any tips for a newbie like me?". Everyone here is interesting and loves sharing! 
-
-**Be patient. Be curious. Be friendly. Be honest.**
-
-### Tip #3: Meet members at events
-
-* There are things to do with other Indy Hall members Indy Hall every week, including Working @ Night Owls & Dinner Club, joining in the conversation at Member Lunches, and Indy Hall Running Club, and B-Team trips to the comic book shop.   
-
-    Monthly events include our ever-popular Show & Tell, various art openings, and happy hours. Over the course of the year, we also host several large parties that are open to the public. We're always looking for something to celebrate!   
-
-    You can find out about our planned event schedule by joining our Meetup Group: http://www.meetup.com/IndyHall/events/calendar/
-
-
-* You don't have to wait for an event to show up on the calendar. Every day at Indy Hall can be an event! 
-
-    Because they're not on the calendar, you do need to keep your eyes open for improtpu gatherings in the kitchen, lounge, gallery, and other common areas. Also, keep an eye on GroupBuzz discussions & Hall chat for announcements. 
-
-    **Have an idea for getting members together?** Awesome! If this is your first time getting members at Indy Hall organized...read below for some tips on how to be a kick ass community member. 
 
 ## Where's a good place to park my car near Indy Hall?
 
@@ -198,24 +165,7 @@ Our beer supply lives and dies by the mantra of TOLO: Take One, Leave One.
 
 We like to share, here. The bottles in the beer fridge aren't the result of immaculate fermentation (though that would be a wonderfully lucrative business), and they were contributed by a thoughtful member. Enjoy the suds now, but don't forget to pay it forward for the next person
 
-## So, where can I pick up a fresh 6 pack to restock the beer fridge?
 
-* Mulberry Market 
-	236 Arch St. Phila, PA 19106
-	215-928-9064
-	8 am to 11 pm Sun- Thurs; 8 am to 12 30 Fri - Sat
-
-* Benjamin Franklin Beer Distributors 
-	27 S 2nd St. Phila, PA 19106 
-	10 am to 10 pm Mon - Sun 
-	215-792-6330
-
-* Wine & Spirits for wine & spirits
-	32 S 2nd St. Phila, PA 19106
-	215-560-7062
-	9 am to 9 pm Mon - Sat; Closed Sun
-
-![Map](http://placehold.it/600x350)
 
 ## The counters look messy - should I wipe them down?
 
@@ -323,71 +273,9 @@ Yes. Make sure they get settled in for his or her drop in with either Adam or Ka
 
 # Office-y things
 
-## Where can I get stamps? Where is there a post office? 
 
-Really close by, a couple of store front from Fork Etc. This location both an operating post office (although no packages that weigh more than 13 oz) and a museum. 
 
-* US Post Office B Free Franklin 
-	316 Market Street Phila, PA 19106
-	215 592 1292
 
-![Map](http://placehold.it/600x350)
-
-## Where can I mail letters, boxes?
-
-* US Post Office B Free Franklin 
-	316 Market Street Phila, PA 19106
-	215 592 1292
-	9 am to 5 pm Mon to Fri
-
-* The UPS Store (note: UPS does not mail to PO Box, only USPS) 
-	51 N 3rd St. Phila, PA 19106
-	215 629 4990 
-	8 am to 7 pm Mon to Fri 
-
-* Closest Mail Box
-	NE corner of 3rd & Market. 
-
-![Map](http://placehold.it/600x350)
-
-## Can I fax up in here?
-
-We do not have a fax machine at Indy Hall although our printer (Brother MFC-780DW-2) does scan. If that is not an option, the UPS Store provides faxing services
-
-* UPS Store 
-	51 N 3rd St. Phila, PA 19106
-	215 629 4990 
-	8 am to 7 pm Mon to Fri 
-
-![Map](http://placehold.it/600x350)
-
-# Is there a notary near by?
-
-* UPS Store 
-	51 N 3rd St. Phila, PA 19106
-	215 629 4990 
-	8 am to 7 pm Mon to Fri 
-
-![Map](http://placehold.it/600x350)
-
-# Where can I buy office supplies near the hall?
-
-	Artist & Craftsman Supply 
-	307 Market St. Phila, PA 19105
-	267-861-6008
-	8 am to 9 pm Mon to Fri 
-
-![Map](http://placehold.it/600x350)
-
-# Where can I get Septa tokens? 
-
-On 2nd & Market Station, the side going Eastbound to 69th St., you are able to purchase, tokens & passes either at the machine or at the counter. 
-
-![Map](http://placehold.it/600x350)
-
-Note: this location takes cash only.  
-
-Check out http://www.septa.org for updates and http://maps.google.com is the highly recommended route navigation tool. 
 
 
 # General issues
@@ -402,20 +290,3 @@ Check out http://www.septa.org for updates and http://maps.google.com is the hig
 
 ## Can I control the music?
 
-
-# Indy Hall History Timeline
-* March 20, 2007 - First Philly Coworking Meetup
-* May 4, 2007 - First "Cream Cheese Session"
-* August 7, 2007 - Charter Member Signing - 22 members
-* August 10, 2007 - Signed lease on Strawberry Street
-* August 19th, 2007 - Front page of the Philadelphia Inquirer 
-* September 1st, 2007 - Grand Opening Strawberry Street 28 members
-* March 29, 2008 - First Indy Hall/National Mechanics Blood Drive
-* September 1st, 2008 - 1 Year Anniversary - 43 members
-* January 7, 2009 - Cover Story Philadelphia Weekly
-* March 6, 2009 - Town Hall for N3rd Street Expansion Plans - 61 members
-* May 1st, 2009 - Grand opening of 20 N3rd Street - 67 members
-* April 1st, 2012 - Town Hall for N3rd Street Expansion Plans, Part Deux (ground floor) - 153 members
-* June 1st, 2012 - Grand Opening N3rd Street (ground floor)
-* July 11th, 2013 - 215 members
-* Septembet 1st, 2013 - 6 Year anniversary

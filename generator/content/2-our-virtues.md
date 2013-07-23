@@ -20,7 +20,7 @@ If you go to the gym to be healthy, your motivators are come from deeper inside 
 
 Weight loss will be the byproduct of becoming healthier. **The good life is a byproduct of practicing Arête every day.**
 
-In order to practice Arête, it requires a transformation in perspective.
+### Practicing Arête requires a transformation in perspective:
 
 > * From vision to ambition.
 > * From mission to intention.

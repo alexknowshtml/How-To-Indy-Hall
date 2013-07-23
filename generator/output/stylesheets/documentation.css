@@ -388,7 +388,11 @@ nav #search input {
 .page .content blockquote ul li {
   margin: 10px 0;
 }
-/* line 304, content/assets/stylesheets/documentation.scss */
+/* line 302, content/assets/stylesheets/documentation.scss */
+.page .content blockquote h4 {
+  margin-left: -20px;
+}
+/* line 307, content/assets/stylesheets/documentation.scss */
 .page .content hr {
   margin-top: 40px;
   border: 0;
@@ -396,14 +400,14 @@ nav #search input {
   height: 2px;
   clear: both;
 }
-/* line 311, content/assets/stylesheets/documentation.scss */
+/* line 314, content/assets/stylesheets/documentation.scss */
 .page .content .photo-right {
   float: right;
   height: 150px;
   width: 150px;
 }
 
-/* line 320, content/assets/stylesheets/documentation.scss */
+/* line 323, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }

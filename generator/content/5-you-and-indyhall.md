@@ -34,9 +34,9 @@ So with this chain of events in mind, sometimes the best way to be a PROVIDER of
 
 If a large portion of your participation in the community at Indy Hall will be online, you may find it effective earn trust by listening and engaging in conversations (all the while, remembering the difference between authority and trust mentioned above) rather than trying to jump-start them without that foundation of earned trust.
 
-#### Community Tip - Start Small
-
-Try framing it this way: instead of trying to help the "members of Indy Hall", focus on one building relationship at a time. Indy Hall is a special place where we try to make it easier to build the relationships before transactions.
+> #### Community Tip - Start Small
+> 
+> Try framing it this way: instead of trying to help the "members of Indy Hall", focus on one building relationship at a time. Indy Hall is a special place where we try to make it easier to build the relationships before transactions.
 
 
 ## Your Responsibilities
@@ -44,7 +44,7 @@ Indy Hall is quite different from your average working environment. Among the di
 
 Being a member of Indy Hall comes with the benefits of sharing ideas, information, support, and of course our coworking clubhouse. 
 
-In exchange, here is a non-exhaustive  the expectations that we have of you:
+### In exchange, here is a non-exhaustive  the expectations that we have of all Indy Hall members, in taking care of each other:
 
 > * Participation can be an extreme sport. If you break or lose it, you should replace it.
 > * Your equipment & professional liability is your responsibility.
