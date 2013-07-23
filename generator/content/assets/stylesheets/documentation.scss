@@ -18,15 +18,15 @@ $total-columns: 12;             // a 12-column grid
 
 // Fonts --------------------------------------------------------------
 @mixin sans-family {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;  
 }
 
 @mixin serif-family {
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 @mixin monospace-family {
-  font-family: "Bitstream Vera Sans Mono", monospace;
+  font-family: 'Open Sans', sans-serif;
 }
 
 // Colors
@@ -37,6 +37,12 @@ $light-teal: #daedf9;
 $light-teal-bg: #f3fafe;
 $light-green-bg: #eef4f1;
 $blue: #69b5e4;
+
+$dark-grey: #393f48;
+$light-grey: #FEFEFA;
+$dark-blue: #0d1d23;
+$light-blue: #4eadd0;
+$gold: #f9ae12;
 
 // To customize vertical ryhthm, see http://compass-style.org/reference/compass/typography/vertical_rhythm/
 @include establish-baseline;
@@ -49,7 +55,7 @@ $blue: #69b5e4;
 
 body {
   @include serif-family;
-  background:url("../assets/images/ui/light_noise_diagonal.png");
+  background: #FFF;
   font-size:16px;
 }
 
@@ -128,16 +134,19 @@ header {
   @include container;
   @include pre(3, 12);
   margin-left:15em;
+  margin-top:20px;
   .name {
-    @include adjust-font-size-to(60px);
-    color: $purple;
+	font-family: 'Hammersmith One', sans-serif;	
+    @include adjust-font-size-to(50px);
+    color: $dark-grey;
     font-weight:bold;
     text-align: left;
-
-    .subname {
-      color: $blue;
-      display:inline;
-    }
+  }
+  .subname {
+	font-family: 'Hammersmith One', sans-serif;
+	display:block;
+	color: $dark-grey;
+	font-size:1em; 
   }
 }
 
@@ -151,8 +160,12 @@ nav {
   margin-left:-1em;
   padding-left: 1em;
   padding-top:1em;
-  background: $light-purple-bg;
-  border-right: 0.25em solid $light-teal;
+  background: $dark-blue;
+  border-right: 0.25em solid $light-blue;
+
+  img {
+	margin-bottom:20px;
+  }
 
   h2 {
     @include adjust-font-size-to(20px, 1);
@@ -173,16 +186,16 @@ nav {
         @include padding-trailer(.5, 20px);
         @include padding-leader(.5, 20px);
         display: block;
-        color: #333;
+        color: white;
         
         &:visited {
-          color:black
+          color:white
         }
       }
     }
     
     > li.active-section > a, > li > a:hover {
-      background: $light-teal;
+      background: $light-blue;
     }
 
     >li li a {
@@ -197,6 +210,7 @@ nav {
     ol {
       a:hover, li.active > a {
         background:white;
+		color:$dark-grey;
       }
 
       ol {
@@ -237,8 +251,8 @@ nav {
     h2 {
       @include adjust-font-size-to(32px, 2);
       @include leader(1, 32px);
-      @include trailer(1, 32px);
-      border-left: 8px solid $purple;
+      @include trailer(1, 32px);				
+      border-left: 8px solid $gold;
       padding-left: 8px;
       margin-left: -16px;
     }
@@ -247,7 +261,7 @@ nav {
       @include adjust-font-size-to(24px, 1);
       @include leader(1, 24px);
       @include trailer(1, 24px);
-      border-left: 4px solid $dark-teal;
+      border-left: 4px solid $dark-blue;
       padding-left: 12px;
       margin-left: -16px;
     }
@@ -255,10 +269,19 @@ nav {
     h4 {
       font-weight:bold;
       @include leader;
-      border-left: 2px solid $dark-teal;
+      border-left: 2px solid $dark-blue;
       padding-left: 14px;
       margin-left: -16px;
     }
+	  blockquote {
+      @include leader;
+      # border-left: 5px solid $dark-blue;
+      font-style:italic;
+			padding: 5px 50px;
+      margin-left: -16px;
+			background: $light-grey;
+    }
+		
   }
 }
 

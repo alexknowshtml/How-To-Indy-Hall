@@ -19,7 +19,7 @@ http://www.tipue.com/search
                'minimumLength'          : 3,
                'descriptiveWords'       : 25,
                'highlightTerms'         : true,
-               'highlightEveryTerm'     : true,
+               'highlightEveryTerm'     : false,
                'mode'                   : 'static',
                'liveDescription'        : '*',
                'liveContent'            : '*',

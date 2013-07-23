@@ -13,6 +13,7 @@
     %script{ :src => "//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" }
     %script{ :src => relative_path_to("/javascripts/underscore.js") }
     %script{ :src => relative_path_to("/javascripts/scrollspy.js") }
+    %script{ :src => relative_path_to("/javascripts/jquery.smooth-scroll.min.js") }
     %script{ :src => "/javascripts/tipuesearch_content.js" }
     %script{ :src => "/javascripts/tipuesearch_set.js" }
     %script{ :src => "/javascripts/tipuesearch.js" }
@@ -20,13 +21,14 @@
 
   %body{"data-spy" => "scroll", "data-target" => "nav"}
     %header{:role => "banner"}
-      .name
-        Indy
-        .subname Hall
+      .name How To Indy Hall
+      .subname Your handy field guide to being an excellent Indy Hall Member
 
     .page
       .content= yield
       %nav
+        %img{src: "http://www.indyhall.org/images/indy-hall.png", id: "machine_main_img-big", width: "150px", height: "150px", style: "margin-left:30px;"}
+        
         %form#search{:action => "/search/"}
           %input#tipue_search_input{:name => "q", :type => "search", :placeholder => "Search"}
         

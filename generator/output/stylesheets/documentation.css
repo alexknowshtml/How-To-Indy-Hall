@@ -69,56 +69,56 @@ html {
   line-height: 1.688em;
 }
 
-/* line 46, content/assets/stylesheets/documentation.scss */
+/* line 52, content/assets/stylesheets/documentation.scss */
 .mono, pre, code, tt {
-  font-family: "Bitstream Vera Sans Mono", monospace;
-}
-
-/* line 50, content/assets/stylesheets/documentation.scss */
-body {
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
-  background: url("../assets/images/ui/light_noise_diagonal.png");
-  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* line 56, content/assets/stylesheets/documentation.scss */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #FFF;
+  font-size: 16px;
+}
+
+/* line 62, content/assets/stylesheets/documentation.scss */
 h1 {
   font-size: 2.5em;
   line-height: 0.675em;
   margin-bottom: 0.675em;
 }
 
-/* line 62, content/assets/stylesheets/documentation.scss */
+/* line 68, content/assets/stylesheets/documentation.scss */
 p {
   margin-top: 1.688em;
   margin-bottom: 1.688em;
 }
 
-/* line 67, content/assets/stylesheets/documentation.scss */
+/* line 73, content/assets/stylesheets/documentation.scss */
 strong {
   font-weight: bold;
 }
 
-/* line 71, content/assets/stylesheets/documentation.scss */
+/* line 77, content/assets/stylesheets/documentation.scss */
 em {
   font-style: italic;
 }
 
-/* line 75, content/assets/stylesheets/documentation.scss */
+/* line 81, content/assets/stylesheets/documentation.scss */
 a {
   text-decoration: none;
   color: #7694a8;
 }
-/* line 78, content/assets/stylesheets/documentation.scss */
+/* line 84, content/assets/stylesheets/documentation.scss */
 a:hover {
   text-decoration: underline;
 }
-/* line 79, content/assets/stylesheets/documentation.scss */
+/* line 85, content/assets/stylesheets/documentation.scss */
 a:visited {
   color: #8976a8;
 }
 
-/* line 86, content/assets/stylesheets/documentation.scss */
+/* line 92, content/assets/stylesheets/documentation.scss */
 pre {
   margin-bottom: 1.688em;
   margin-top: 1.688em;
@@ -126,44 +126,44 @@ pre {
   padding-top: 0.844em;
 }
 
-/* line 93, content/assets/stylesheets/documentation.scss */
+/* line 99, content/assets/stylesheets/documentation.scss */
 code {
   background: #f3f3f3;
   font-size: 14px;
 }
 
-/* line 98, content/assets/stylesheets/documentation.scss */
+/* line 104, content/assets/stylesheets/documentation.scss */
 .code {
   background: #f9f9f9;
   line-height: 1.25em;
   font-size: 14px;
 }
 
-/* line 106, content/assets/stylesheets/documentation.scss */
+/* line 112, content/assets/stylesheets/documentation.scss */
 .content li {
   margin-left: 1.2em;
 }
-/* line 110, content/assets/stylesheets/documentation.scss */
+/* line 116, content/assets/stylesheets/documentation.scss */
 .content ul li {
   list-style: disc;
 }
-/* line 114, content/assets/stylesheets/documentation.scss */
+/* line 120, content/assets/stylesheets/documentation.scss */
 .content ol > li {
   list-style: decimal;
 }
-/* line 118, content/assets/stylesheets/documentation.scss */
+/* line 124, content/assets/stylesheets/documentation.scss */
 .content img {
   max-width: 44em;
 }
 
-/* line 124, content/assets/stylesheets/documentation.scss */
+/* line 130, content/assets/stylesheets/documentation.scss */
 header, footer {
   clear: both;
 }
 
-/* line 125, content/assets/stylesheets/documentation.scss */
+/* line 131, content/assets/stylesheets/documentation.scss */
 header {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   -webkit-border-radius: 0 0 1em 1em;
   -moz-border-radius: 0 0 1em 1em;
   -ms-border-radius: 0 0 1em 1em;
@@ -178,6 +178,7 @@ header {
   padding-right: 1em;
   margin-left: 25.424%;
   margin-left: 15em;
+  margin-top: 20px;
 }
 /* line 38, /Users/alexhillman/.rbenv/versions/1.9.3-p327/lib/ruby/gems/1.9.1/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
 header:after {
@@ -185,21 +186,24 @@ header:after {
   display: table;
   clear: both;
 }
-/* line 131, content/assets/stylesheets/documentation.scss */
+/* line 138, content/assets/stylesheets/documentation.scss */
 header .name {
-  font-size: 3.75em;
-  line-height: 1.35em;
-  color: #767fa8;
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 3.125em;
+  line-height: 1.08em;
+  color: #393f48;
   font-weight: bold;
   text-align: left;
 }
-/* line 137, content/assets/stylesheets/documentation.scss */
-header .name .subname {
-  color: #69b5e4;
-  display: inline;
+/* line 145, content/assets/stylesheets/documentation.scss */
+header .subname {
+  font-family: 'Hammersmith One', sans-serif;
+  display: block;
+  color: #393f48;
+  font-size: 1em;
 }
 
-/* line 144, content/assets/stylesheets/documentation.scss */
+/* line 153, content/assets/stylesheets/documentation.scss */
 nav {
   width: 23.729%;
   float: left;
@@ -213,27 +217,31 @@ nav {
   margin-left: -1em;
   padding-left: 1em;
   padding-top: 1em;
-  background: #eeeff4;
-  border-right: 0.25em solid #daedf9;
+  background: #0d1d23;
+  border-right: 0.25em solid #4eadd0;
 }
-/* line 157, content/assets/stylesheets/documentation.scss */
+/* line 166, content/assets/stylesheets/documentation.scss */
+nav img {
+  margin-bottom: 20px;
+}
+/* line 170, content/assets/stylesheets/documentation.scss */
 nav h2 {
   font-size: 1.25em;
   line-height: 1.35em;
 }
-/* line 161, content/assets/stylesheets/documentation.scss */
+/* line 174, content/assets/stylesheets/documentation.scss */
 nav a:hover {
   text-decoration: none;
 }
-/* line 165, content/assets/stylesheets/documentation.scss */
+/* line 178, content/assets/stylesheets/documentation.scss */
 nav #toc > ol {
   margin-left: -1em;
 }
-/* line 168, content/assets/stylesheets/documentation.scss */
+/* line 181, content/assets/stylesheets/documentation.scss */
 nav #toc > ol li {
   display: block;
 }
-/* line 170, content/assets/stylesheets/documentation.scss */
+/* line 183, content/assets/stylesheets/documentation.scss */
 nav #toc > ol li a {
   padding: 0 16px;
   font-size: 1.25em;
@@ -241,17 +249,17 @@ nav #toc > ol li a {
   padding-bottom: 0.675em;
   padding-top: 0.675em;
   display: block;
-  color: #333;
+  color: white;
 }
-/* line 178, content/assets/stylesheets/documentation.scss */
+/* line 191, content/assets/stylesheets/documentation.scss */
 nav #toc > ol li a:visited {
-  color: black;
+  color: white;
 }
-/* line 184, content/assets/stylesheets/documentation.scss */
+/* line 197, content/assets/stylesheets/documentation.scss */
 nav #toc > ol > li.active-section > a, nav #toc > ol > li > a:hover {
-  background: #daedf9;
+  background: #4eadd0;
 }
-/* line 188, content/assets/stylesheets/documentation.scss */
+/* line 201, content/assets/stylesheets/documentation.scss */
 nav #toc > ol > li li a {
   display: block;
   padding: 0 1em;
@@ -260,32 +268,33 @@ nav #toc > ol > li li a {
   padding-bottom: 0.482em;
   padding-top: 0.482em;
 }
-/* line 198, content/assets/stylesheets/documentation.scss */
+/* line 211, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol a:hover, nav #toc > ol ol li.active > a {
   background: white;
+  color: #393f48;
 }
-/* line 203, content/assets/stylesheets/documentation.scss */
+/* line 217, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol ol a {
   padding-left: 2em;
 }
-/* line 206, content/assets/stylesheets/documentation.scss */
+/* line 220, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol ol ol a {
   padding-left: 3em;
 }
-/* line 212, content/assets/stylesheets/documentation.scss */
+/* line 226, content/assets/stylesheets/documentation.scss */
 nav #search {
   margin-bottom: 0.844em;
 }
-/* line 213, content/assets/stylesheets/documentation.scss */
+/* line 227, content/assets/stylesheets/documentation.scss */
 nav #search input {
   padding: 3px 0;
   font-size: 1em;
   line-height: 1.688em;
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: 'Open Sans', sans-serif;
   width: 95%;
 }
 
-/* line 223, content/assets/stylesheets/documentation.scss */
+/* line 237, content/assets/stylesheets/documentation.scss */
 .page {
   *zoom: 1;
   max-width: 59em;
@@ -311,7 +320,7 @@ nav #search input {
   display: table;
   clear: both;
 }
-/* line 234, content/assets/stylesheets/documentation.scss */
+/* line 248, content/assets/stylesheets/documentation.scss */
 .page .content {
   width: 74.576%;
   float: right;
@@ -319,36 +328,45 @@ nav #search input {
   #margin-left: -1em;
   display: inline;
 }
-/* line 237, content/assets/stylesheets/documentation.scss */
+/* line 251, content/assets/stylesheets/documentation.scss */
 .page .content h2 {
   font-size: 2em;
   line-height: 1.688em;
   margin-top: 0.844em;
   margin-bottom: 0.844em;
-  border-left: 8px solid #767fa8;
+  border-left: 8px solid #f9ae12;
   padding-left: 8px;
   margin-left: -16px;
 }
-/* line 246, content/assets/stylesheets/documentation.scss */
+/* line 260, content/assets/stylesheets/documentation.scss */
 .page .content h3 {
   font-size: 1.5em;
   line-height: 1.125em;
   margin-top: 1.125em;
   margin-bottom: 1.125em;
-  border-left: 4px solid #b5c5cf;
+  border-left: 4px solid #0d1d23;
   padding-left: 12px;
   margin-left: -16px;
 }
-/* line 255, content/assets/stylesheets/documentation.scss */
+/* line 269, content/assets/stylesheets/documentation.scss */
 .page .content h4 {
   font-weight: bold;
   margin-top: 1.688em;
-  border-left: 2px solid #b5c5cf;
+  border-left: 2px solid #0d1d23;
   padding-left: 14px;
   margin-left: -16px;
 }
+/* line 276, content/assets/stylesheets/documentation.scss */
+.page .content blockquote {
+  margin-top: 1.688em;
+  # border-left: 5px solid #0d1d23;
+  font-style: italic;
+  padding: 5px 50px;
+  margin-left: -16px;
+  background: #fefefa;
+}
 
-/* line 266, content/assets/stylesheets/documentation.scss */
+/* line 289, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }
