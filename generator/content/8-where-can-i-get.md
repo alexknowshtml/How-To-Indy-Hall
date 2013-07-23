@@ -81,19 +81,19 @@ Check [Septa's Website](http://www.septa.org) for updated information.
 ## So, where can I pick up a fresh 6 pack to restock the beer fridge?
 
 #### Mulberry Market 
-236 Arch St. Phila, PA 19106    
-215-928-9064    
-8 am to 11 pm Sun- Thurs; 8 am to 12 30 Fri - Sat    
+236 Arch St. Phila, PA 19106     
+**Phone:** 215-928-9064    
+**Hours:** 8 am to 11 pm Sun- Thurs; 8 am to 12 30 Fri - Sat    
 
-* Benjamin Franklin Beer Distributors 
-	27 S 2nd St. Phila, PA 19106 
-	10 am to 10 pm Mon - Sun 
-	215-792-6330
+#### Benjamin Franklin Beer Distributors 
+27 S 2nd St. Phila, PA 19106    
+**Phone:** 215-792-6330   
+**Hours:** 10 am to 10 pm Mon - Sun    
 
-* Wine & Spirits for wine & spirits
-	32 S 2nd St. Phila, PA 19106
-	215-560-7062
-	9 am to 9 pm Mon - Sat; Closed Sun
+#### Wine & Spirits for wine & spirits
+32 S 2nd St. Phila, PA 19106    
+**Phone:** 215-560-7062   
+**Phone:** 9 am to 9 pm Mon - Sat; Closed Sun
 
 ![Map](http://placehold.it/600x350)
 
