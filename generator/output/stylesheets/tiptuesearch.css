@@ -109,6 +109,10 @@
   line-height: 21px;
   padding: 9px 0;
 }
+#tipue_search_content_text b {
+	background-color: #FFA;
+	padding: 2px 4px;
+}
 #tipue_search_content_loc
 {
   font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
