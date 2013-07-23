@@ -80,9 +80,10 @@ em {
 
 a {
   text-decoration: none;
-  color: #7694a8;
-  &:hover { text-decoration: underline; }
-  &:visited { color: #8976a8; }
+  color: $light-blue;
+	text-decoration: underline; 
+  &:hover { text-decoration: none; }
+  &:visited { color: $light-blue; }
 }
 
 pre, code, tt {
@@ -171,6 +172,9 @@ nav {
     @include adjust-font-size-to(20px, 1);
   }
 
+	a {
+		text-decoration:none; 
+	}
   a:hover {
     text-decoration:none;
   }
@@ -242,19 +246,20 @@ nav {
   @include padding-leader;
   @include border-radius(0 1em 1em 0);
   background: white;
-
-  margin-left: 0;
-
+	margin-left:0;
   .content {
     @include span-columns(9 omega,12);
-    
-    h2 {
+		float:left;
+    margin-left:15em;
+
+		h2 {
       @include adjust-font-size-to(32px, 2);
       @include leader(1, 32px);
       @include trailer(1, 32px);				
       border-left: 8px solid $gold;
       padding-left: 8px;
       margin-left: -16px;
+			clear:both;
     }
 
     h3 {
@@ -282,6 +287,13 @@ nav {
 			background: $light-grey;
     }
 		
+		hr {
+			margin-top:40px;
+			border: 0;
+		  background-color: $light-blue;
+			height: 2px;
+			clear:both;
+		}
   }
 }
 

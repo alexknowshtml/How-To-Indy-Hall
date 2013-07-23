@@ -25,7 +25,6 @@
       .subname Your handy field guide to being an excellent Indy Hall Member
 
     .page
-      .content= yield
       %nav
         %img{src: "http://www.indyhall.org/images/indy-hall.png", id: "machine_main_img-big", width: "150px", height: "150px", style: "margin-left:30px;"}
         
@@ -37,4 +36,5 @@
             - @items.select{|i| i[:kind] == "documentation"}.sort{|a, b| a.identifier <=> b.identifier}.each do |i|
               %li{:class => (i == @item ? "active-section" : "")}
                 = link_to i[:link_title] || i[:title], relative_path_to(i), :class => (i == @item ? "active" : "")
-
+				
+      .content= yield
