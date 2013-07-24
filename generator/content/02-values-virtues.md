@@ -14,7 +14,7 @@ We subscribe to the 5 core values shared by the [global Coworking movement](http
 
 Below is a series of essays by Indy Hall co-founder Alex Hillman explaining how we think about and practice these core values at Indy Hall. 
 
-> These essays have been adapted for the "How To Indy Hall guide", but these essays in their original form are on his [personal blog](http://dangerouslyawesome.com/2011/10/coworking-core-values-series-translated/), and have even been translated into other languages including French, Portuguese!
+> These essays have been adapted for the "How To Indy Hall guide", but each essay in its original form can be found on his [personal blog](http://dangerouslyawesome.com/2011/10/coworking-core-values-series-translated/), and have even been translated into other languages, including French and Portuguese!
 
 ### Sustainability
 
@@ -26,25 +26,9 @@ That is to say: if you're NOT considering the environment you inhabit, the other
 
 So if sustainability doesn't mean "going green", what does it mean?
 
-Sustainability, in my mind, is about making sure that whatever you're doing can be done for as long as it needs to be done. In less vague terms: are you building your community, your coworking space, your infrastructure, and your business models in a way that they aren't dependent on outside resources to persist, to grow, and to flourish.
-
-A Farmer Once Told Me
-I had the pleasure of seeing [Joel Salatin speak at TEDxMidAtlantic in 2009](http://www.youtube.com/watch?v=-T9UaP1AsMI "TEDxMidAtlantic - Joel Salatin - 11/5/09 - YouTube"), and remember being struck by what this farmer had to say. I highly recommend his 15 minute talk.
-
-<blockquote class="twitter-tweet"><p>A community that can feed itself is free. A community that cannot feed itself is not. It&#39;s that simple.</p>&mdash; Joel Salatin (@JoelSalatin) <a href="https://twitter.com/JoelSalatin/statuses/95569133772615680">July 25, 2011</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-In the early days of Indy Hall, Geoff and I were talking about how to take the momentum we'd built and turn it into the coworking space that everybody wanted. One of the important insights Geoff drove home was to make sure that we'd be able to sustain ourselves – our membership should be able to cover our costs as well as provide room for growth – or else it wasn't worth building the infrastructure to help that community grow.
-
-We looked at for profit and non-profit models, and determined that in order for us to persist, **for us to be sustainable**, being a for-profit business provided for us most efficiently. We could stay lightweight and agile, but still remain benevolent and community focused. Most importantly, we would grow in a way that was **dependent on no one** except for the people who benefitted from the resources we could rally.
-
-This is a perfect balance for us, and continues to be as we've grown over the years.
-
-Joel's tweet above is about food. But if you read past the fact that he's talking about food, what he's really talking about is nourishment.
+Sustainability, in my mind, is about making sure that whatever you're doing can be done for as long as it needs to be done. In less vague terms: are you participating in your community, your coworking space, your infrastructure, and your business models in a way that aren't dependent on outside resources to persist, to grow, and to flourish?
 
 A community that isn't able to nourish itself lives in dependency of whomever is providing for it, and therefore is not only not free, but not sustainable.
-
-The end of life is dependent on the source more than on the needs of the community.
 
 Conversely, a community that is able to provide for itself doesn't exclude itself from external sources of nourishment – but it is free, sustainable, and independent.
 
@@ -68,11 +52,7 @@ If we're healing the planet for people who aren't living and working sustainably
 
 If you think about it, it's actually pretty remarkable. A coworking space is one of the only places in the world where every single person in the room is there because they chose to be. An environment composed of willing self-selected participants is a remarkably positive and productive place to work, as you'll find out talking to anybody who coworks. I think that many people who cite unusual productivity levels from working at a coworking space are actually feeling the benefits of a) choosing for themselves where to work for the day and b) being surrounded by others who choose where they work for the day.
 
-The key to this interaction even being possible, though, is that the coworking space allows the members and participants to self select themselves in.
-
-An application process, is the "baby with the bathwater" scenario for this problem. While an application process may keep people out, or keep things "balanced", you are also likely to be keeping out people that you don't intend to because you hadn't considered them viable members.
-
-Over the last 4 years, we've had many people surprise us. Maybe their experience level seemed lower than average. Maybe their social skills needed a little work. Maybe they were shyer. Maybe they were boisterous. Maybe they were snarky. Maybe they were know-it alls. In time, most of those attributes vanished. They started to be themselves, instead of the person they thought they had to be. And in the best cases, they improved themselves over time. When you have the vantage point of watching somebody progress their personal and professional skills over the course of a few years, you'll surprised how much people can grow. If you let them.
+Over the last 4 years, we've had many people surprise us. Maybe their experience level seemed lower than average. Maybe their social skills needed a little work. Maybe they were shyer. Maybe they were boisterous. Maybe they were snarky. Maybe they were know-it alls. In time, most of those attributes vanished. They started to be themselves, instead of the person they thought they had to be. And in the best cases, they improved themselves over time. 
 
 Coworking as a melting pot allows all of these extremes to normalize on their own. It trusts that when people have to actually deal with other people instead of have managers, mediators, or human resources solve their problems for them – most of the time, things work themselves out.
 
@@ -91,7 +71,7 @@ If they were truly not aligned with our community as I expected, the latter was 
 
 Inside of a couple of months, that person simply stopped showing up on their own.
 
-This interaction has happened more than once. On only two occasions in four years have we had to ask somebody to leave.
+This interaction has happened more than once. On only two occasions in six years have we had to ask somebody to leave.
  
 **Balance is key.** The core value of accessibility relies on both of these dynamics to be in balance. When a coworking space's philosophy remains committed to this core value, the remarkable outcomes and benefits that make coworking more than a trendy way to share real estate start to take form.
 
@@ -130,14 +110,14 @@ Our members know that we are open to them forking Indy Hall, especially when the
 
 ### Collaboration
 
-I’ve written and rewritten this draft, and every time I come back to it I remember [this post from Derek Neighbors](http://derekneighbors.com/2010/08/you-cant-do-collaboration-without-being-a-collaborator/) of [Gangplank](http://gangplankhq.com/) in Arizona:
+In considering collaboration as a concept, I always remember [this post from Derek Neighbors](http://derekneighbors.com/2010/08/you-cant-do-collaboration-without-being-a-collaborator/) of [Gangplank](http://gangplankhq.com/) in Arizona:
 
 > **"You can’t do collaboration, you have to be a collaborator."**
 
 I think this is poignant for a number of reasons – not the least of which is that it fits my own mental model for coworking so well. Coworking works because it throws away so many of the bad habits we’ve learned and puts the focus back on the people again.
 
 **Collaboration isn’t something you do.**   
-**Collaboration is the bi-product of being a better collaborator.***
+**Collaboration is the by-product of being a better collaborator.***
 
 #### Trust & High Contact
 We talk a lot about trust, here. Coworking spaces allow for there to be a focus on the formation of trust and deeper relationships between coworkers, because office politics, hierarchies, and succession planning are removed from the equation.
