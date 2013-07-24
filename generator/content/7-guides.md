@@ -321,7 +321,7 @@ TODO: Trash stuff.
 
 ## Contributing to this Guide
 
-TODO: Write instructions on how to contribute via email, or directly via github.
+TODO: Write instructions on how to contribute via [email](mailto:help@indyhall.org), or directly via [github](https://github.com/alexknowshtml/How-To-Indy-Hall).
 
 ---
 
