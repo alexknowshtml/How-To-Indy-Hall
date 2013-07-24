@@ -5,7 +5,7 @@ Live at http://howto.indyhall.org
 
 While creating this guide, we asked ourselves the question:
 
-How do we create a resource that gives answers, but also explains how we came up with those answers and encourages members to explore new possible answers?
+> How do we create a resource that gives answers, but also explains how we came up with those answers and encourages members to explore new possible answers?
 
 The result is a guide that is a mix of story, dialogue, introspection, ideas, and tools to help you be an excellent community member at Indy Hall - and ultimately, in any setting where you gather, meet, work, and collaborate.
 
