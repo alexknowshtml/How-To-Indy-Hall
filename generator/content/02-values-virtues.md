@@ -40,8 +40,6 @@ A community that isn't able to nourish itself lives in dependency of whomever is
 
 Conversely, a community that is able to provide for itself doesn't exclude itself from external sources of nourishment – but it is free, sustainable, and independent.
 
-
-
 A community that isn't able to nourish itself lives in dependency of whomever is providing for it, and therefore is not only not free, but not sustainable.
 
 Conversely, a community that is able to provide for itself doesn't exclude itself from external sources of nourishment – but it is free, sustainable, and independent.

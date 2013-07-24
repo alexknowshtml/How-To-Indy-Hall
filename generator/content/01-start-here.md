@@ -19,7 +19,7 @@ One of the things that's always been remarkable to me about Indy Hall's growth a
 
 Even more remarkable is that we've accomplished this without a written "rulebook" for our members. 
 
-I've often joked that part of the reason we don't have a rulebook is because "I like being able to change things as we go". There's more than a bit of truth in that, and in fact, I believe that we **need** to be able to change things as we go. Once we write down an answer, people tend to stop exploring new possibilities (accepting things as status quo is something that [Our Virtues](/2-our-virtues/) guide us away from). 
+I've often joked that part of the reason we don't have a rulebook is because "I like being able to change things as we go". There's more than a bit of truth in that, and in fact, I believe that we **need** to be able to change things as we go. Once we write down an answer, people tend to stop exploring new possibilities (accepting things as status quo is something that [Our Virtues](/02-our-virtues/) guide us away from). 
 
 But one of the other things that has allowed Indy Hall to evolve successfully is listening with an open mind. While reading [this thread on our discussion list](http://indyhall.groupbuzz.io/topics/91-a-culture-of-take), my eyes were opened to the need for more "guidance systems" to help Indy Hall members feel comfortable and confident in our community. 
 
@@ -37,7 +37,7 @@ The result is a guide that is a mix of story, dialogue, introspection, ideas, an
 
 You're invited - and encouraged - to **push boundaries**, **explore new options**, **find new (and better!) answers** to any questions about how to succeed as a member, and how to help this community succeed. 
 
-You can even contribute directly to the guide with additional/revised text, photos, stories, links, blog posts, etc. Read our how to section on [How To Contribute to this Guide](/7-how-to/) to find out more.
+You can even contribute directly to the guide with additional/revised text, photos, stories, links, blog posts, etc. Read our how to section on [How To Contribute to this Guide](/07-how-to/#6__Contributing_to_How_to_Indy_Hall) to find out more.
 
 ## Make It Better 
 
