@@ -1,4 +1,5 @@
-# How To Indy Hall - Your handy field guide to being an excellent Indy Hall Member
+# How To Indy Hall 
+## Your handy field guide to being an excellent Indy Hall Member
 
 Live at http://howto.indyhall.org
 
