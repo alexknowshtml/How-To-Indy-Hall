@@ -327,4 +327,4 @@ TODO: Write instructions on how to contribute via email, or directly via github.
 
 #### Add your voice
 
-Wanna help make this page better? Find out [how to contribute](/7-how-to/).
+Wanna help make this page better? Find out [how to contribute](/7-guides/#6__Contributing_to_this_Guide).
