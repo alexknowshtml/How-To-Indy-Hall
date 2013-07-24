@@ -55,4 +55,4 @@ TODO: Explain how to look for todo's.
 
 #### Add your voice
 
-Wanna help make this page better? Find out [how to contribute](/07-guides/#6__Contributing_to_this_Guide).
+Wanna help make this page better? Find out [how to contribute](/07-guides/#6__Contributing_to_How_to_Indy_Hall).

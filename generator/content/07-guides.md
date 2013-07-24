@@ -319,12 +319,26 @@ Take it out, please. Clean trash bags are located next to the coffee maker, on t
 
 TODO: Trash stuff.
 
-## Contributing to this Guide
+## Contributing to How to Indy Hall
 
-TODO: Write instructions on how to contribute via [email](mailto:help@indyhall.org), or directly via [github](https://github.com/alexknowshtml/How-To-Indy-Hall).
+**Your contributions keep this guide alive.** 
+
+Contributions can be as simple as fixing spelling/grammar, making a guide easier to understand, or as complete as drafting entirely new sections or guides.  
+
+#### Making Edits via GitHub
+
+All of the content and source code for this guide are on [GitHub](https://github.com/alexknowshtml/How-To-Indy-Hall). 
+
+If you already know how to make edits and submit pull requests via Github, you know how this works.
+
+If you don't, but want a lesson in using GitHub (it's not as scary as it seems, promise), post a message to GroupBuzz!
+
+#### Suggesting Edits via Email
+
+If you're not super tech savvy, you can draft up your edits and send them to [help@indyhall.org](mailto:help@indyhall.org). The clearer the instructions for applying your changes, the faster we can get them in the mix!
 
 ---
 
 #### Add your voice
 
-Wanna help make this page better? Find out [how to contribute](/07-guides/#6__Contributing_to_this_Guide).
+Wanna help make this page better? Find out [how to contribute](/07-guides/#6__Contributing_to_How_to_Indy_Hall).
