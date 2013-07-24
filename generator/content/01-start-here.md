@@ -5,7 +5,7 @@ kind: documentation
 
 # Start Here
 
-<img src="https://dl.dropboxusercontent.com/s/fagmqvkou4ol9od/alex.png?token_hash=AAH1ZgzGcuVfbROTKv6DZEjL3OqCEkgziQe4WY4HsgCehQ" height="100" width="100" style="float:left;margin-right:20px;" /> 
+<img src="/assets/images/alex.png" height="100" width="100" style="float:left;margin-right:20px;" /> 
 
 Hi. I'm Alex Hillman, the co-founder of Indy Hall, and I want to welcome you to our community. First and foremost, I want to thank you for accepting our invitation to be a member of Indy Hall. 
 

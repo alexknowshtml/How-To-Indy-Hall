@@ -280,17 +280,17 @@ nav #toc > ol > li.active-section > a, nav #toc > ol > li > a:hover {
 nav #toc > ol > li li a {
   display: block;
   padding: 0 1em;
-  text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
   font-size: 0.875em;
   line-height: 1.929em;
   padding-bottom: 0.482em;
   padding-top: 0.482em;
 }
-/* line 242, content/assets/stylesheets/documentation.scss */
+/* line 241, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol a:hover, nav #toc > ol ol li.active > a {
   background: white;
   color: #393f48;
   box-shadow: rgba(255, 255, 255, 0.8) 1px 0px 2px, inset rgba(0, 0, 0, 0.05) 1px 0px 2px;
+  text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
 }
 /* line 249, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol ol a {
@@ -417,32 +417,38 @@ nav #search input {
   margin-left: -20px;
 }
 /* line 342, content/assets/stylesheets/documentation.scss */
+.page .content iframe.twitter-tweet {
+  margin-left: 100px !important;
+}
+/* line 346, content/assets/stylesheets/documentation.scss */
 .page .content ol {
   margin: 20px 0 20px 55px;
 }
-/* line 345, content/assets/stylesheets/documentation.scss */
+/* line 349, content/assets/stylesheets/documentation.scss */
 .page .content ol li p {
   margin: 15px 0;
 }
-/* line 348, content/assets/stylesheets/documentation.scss */
+/* line 352, content/assets/stylesheets/documentation.scss */
 .page .content ol li blockquote {
   margin-left: -90px;
 }
-/* line 353, content/assets/stylesheets/documentation.scss */
+/* line 357, content/assets/stylesheets/documentation.scss */
 .page .content hr {
   margin-top: 40px;
+  margin-bottom: 35px;
+  margin-right: 20px;
   border: 0;
   background-color: #4eadd0;
   height: 2px;
   clear: both;
 }
-/* line 360, content/assets/stylesheets/documentation.scss */
+/* line 366, content/assets/stylesheets/documentation.scss */
 .page .content .photo-right {
   float: right;
   width: 150px;
 }
 
-/* line 367, content/assets/stylesheets/documentation.scss */
+/* line 373, content/assets/stylesheets/documentation.scss */
 .generated {
   float: left;
   margin-top: -20px;
@@ -451,23 +457,23 @@ nav #search input {
   font-size: .8em;
 }
 
-/* line 374, content/assets/stylesheets/documentation.scss */
+/* line 380, content/assets/stylesheets/documentation.scss */
 div.generated:before {
   content: "Last Updated: ";
 }
 
-/* line 379, content/assets/stylesheets/documentation.scss */
+/* line 385, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }
 
-/* line 382, content/assets/stylesheets/documentation.scss */
+/* line 388, content/assets/stylesheets/documentation.scss */
 #tipue_search_content h2 {
   margin-bottom: 5px;
   display: inline-block;
   margin-right: 20px;
 }
-/* line 386, content/assets/stylesheets/documentation.scss */
+/* line 392, content/assets/stylesheets/documentation.scss */
 #tipue_search_content h2 a {
   text-decoration: none;
 }

@@ -22,7 +22,7 @@ To help you get comfortable quickly, below is a collection of **member-suggested
 
 ### Connecting to Wifi
 
-<img src="http://dangerouslyawesome.com/snaps/_20130723_194336.jpg" class="photo-right" />
+<img src="/assets/images/wifi.png" class="photo-right" />
 
 Use the wireless connections named "Indy Hall 2.4gHz" and "Indy Hall 5gHz". 
 

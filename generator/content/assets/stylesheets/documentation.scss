@@ -231,7 +231,6 @@ nav {
     >li li a {
       display: block;
       padding: 0 1em;
-			@include letterpress(.8);
       @include adjust-font-size-to(14px);
       @include padding-trailer(.25, 14px);
       @include padding-leader(.25, 14px);
@@ -243,6 +242,7 @@ nav {
         background:white;
 				color:$dark-grey;
 				@include box-emboss(0.8, 0.05);
+				@include letterpress(.8);				
       }
 
       ol {
@@ -339,6 +339,10 @@ nav {
 			}
     }
 		
+		iframe.twitter-tweet {
+			margin-left: 100px !important;
+		}
+		
 		ol {
 			margin: 20px 0 20px 55px;
 			li {
@@ -351,11 +355,13 @@ nav {
 			}
 		}
 		hr {
-			margin-top:40px;
+			margin-top: 40px;
+			margin-bottom: 35px;
+			margin-right: 20px;
 			border: 0;
 		  background-color: $light-blue;
 			height: 2px;
-			clear:both;
+			clear: both;
 		}
 		.photo-right {
 			float:right;
