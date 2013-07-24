@@ -25,7 +25,7 @@ But one of the other things that has allowed Indy Hall to evolve successfully is
 
 #### A new kind of challenge
 
-So creating this guide posed a new challenge: 
+While creating this guide, we asked ourselves the question: 
 
 > **How do we create a resource that gives answers, but also explains how we came up with those answers and encourages members to explore new possible answers?**
 
