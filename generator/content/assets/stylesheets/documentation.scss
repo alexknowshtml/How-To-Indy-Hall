@@ -40,6 +40,10 @@ $total-columns: 12;             // a 12-column grid
     box-shadow:white($opacity) 1px 0px 2px, inset black($opacity2) 1px 0px 2px;
 }
 
+@mixin letterpress($opacity){
+    text-shadow:white($opacity) 0 1px 0;
+}
+
 // Colors
 $purple: #767fa8;
 $light-purple-bg: #eeeff4;
@@ -227,6 +231,7 @@ nav {
     >li li a {
       display: block;
       padding: 0 1em;
+			@include letterpress(.8);
       @include adjust-font-size-to(14px);
       @include padding-trailer(.25, 14px);
       @include padding-leader(.25, 14px);
@@ -237,7 +242,7 @@ nav {
       a:hover, li.active > a {
         background:white;
 				color:$dark-grey;
-				@include box-emboss(0.8, 0.05);			
+				@include box-emboss(0.8, 0.05);
       }
 
       ol {
