@@ -6,13 +6,19 @@ toc: true
 
 # Our Virtues
 
-The Greeks had a word - eudaimonia - which translates to "the good life". More specifically, they described the good life as 
+## Eudaimonia
+
+The Greeks had a word - **eudaimonia** - which translates to "the good life". More specifically, they described the good life as:
 
 > "...rich with relationships, ideas, emotion, health and vigor, recognition and contribution, passion and fulfillment, and great accomplishment and enduring achievement."
 
-Virtues are patterns in how we behave - habits, choices, interactions, etc - that when practiced and matured bring the "side effect" of eudaimonia. 
+## Arête
 
-**The virtues themselves don’t provide the good life, though.**
+The Greeks had another word - **Arête** - which translates into "virtues".
+
+> Virtues are patterns in how we behave - habits, choices, interactions, etc - that when practiced and matured bring the "side effect" of eudaimonia. 
+
+**But virtues don’t automatically result in "the good life."**
 
 Think of it like going to the gym: if you go to the gym to lose weight, you’re likely to be disappointed or fall off the wagon if the weight loss doesn’t show up as fast as you want.
 
@@ -20,7 +26,7 @@ If you go to the gym to be healthy, your motivators come from deeper inside of y
 
 Weight loss will be the byproduct of becoming healthier. **The good life is a byproduct of practicing Arête every day.**
 
-### Practicing Arête requires a transformation in perspective:
+#### Practicing Arête requires a transformation in perspective:
 
 > * From vision to ambition.
 > * From mission to intention.

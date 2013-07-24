@@ -21,7 +21,7 @@ I've often joked that part of the reason we don't have a rulebook is because "I 
 
 But one of the other things that has allowed Indy Hall to evolve successfully is listening with an open mind. While reading [this thread on our discussion list](http://indyhall.groupbuzz.io/topics/91-a-culture-of-take), my eyes were opened to the need for more "guidance systems" to help Indy Hall members feel comfortable and confident in our community. 
 
-### A new kind of challenge
+#### A new kind of challenge
 
 So creating this guide posed a new challenge: 
 
@@ -29,7 +29,7 @@ So creating this guide posed a new challenge:
 
 The result is a guide that is a mix of story, dialogue, introspection, ideas, and tools to help you be an excellent community member at Indy Hall - and ultimately, in any setting where you gather, meet, work, and collaborate.
 
-### This is a map, not a manual. We need your contributions.
+#### This is a map, not a manual. We need your contributions.
 
 **Most importantly, this guide is co-created by you - the members of Indy Hall.**
 
@@ -37,9 +37,9 @@ You're invited - and encouraged - to **push boundaries**, **explore new options*
 
 You can even contribute directly to the guide with additional/revised text, photos, stories, links, blog posts, etc. Read our how to section on [How To Contribute to this Guide](/7-how-to/) to find out more.
 
-## Questions? Comments? Ideas?
+## Make It Better 
 
-Let's keep the conversation going. 
+**This document isn't written in stone.** While every line is there for a reason, every line is also an invitation to talk about it. We warmly welcome conversation, debate, and experimentation. 
 
 If you want to share with the entire community, start a [new discussion on GroupBuzz](http://indyhall.groupbuzz.io/). 
 

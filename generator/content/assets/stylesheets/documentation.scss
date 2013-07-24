@@ -136,19 +136,29 @@ header {
   @include container;
   @include pre(3, 12);
   margin-left:15em;
-  margin-top:20px;
+  margin-top: 20px;
+	margin-bottom: 20px;
   .name {
-	font-family: 'Hammersmith One', sans-serif;	
+		font-family: 'Hammersmith One', sans-serif;	
     @include adjust-font-size-to(50px);
     color: $dark-grey;
     font-weight:bold;
     text-align: left;
-  }
-  .subname {
-	font-family: 'Hammersmith One', sans-serif;
-	display:block;
-	color: $dark-grey;
-	font-size:1em; 
+		img {
+			width: 100px;
+			height: 100px;
+			margin-right: 20px;
+			float: left;
+		}
+		span.title{
+			line-height:1.3em;
+		}
+		span.tagline {
+		  @include sans-family;
+			font-size: .35em;
+			line-height:1.35em;
+			display: block;
+		}
   }
 }
 
@@ -304,6 +314,19 @@ nav {
 				margin-left: -20px;
 			}
     }
+		
+		ol {
+			margin: 20px 0 20px 55px;
+			li {
+				p {
+					margin: 15px 0;
+				}
+				blockquote {
+					margin-left: -90px;
+				}
+			}
+		}
+		
 		
 		hr {
 			margin-top:40px;

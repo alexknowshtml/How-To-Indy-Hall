@@ -23,7 +23,7 @@ Being a great member of our community happens a bit differently than in some oth
 
 Trust is one of the primary currencies at Indy Hall, and it plays a big role in being a kick-ass community member.
 
-### Here's an observation for consideration:
+#### Here's an observation for consideration:
 
 > * In order to help, someone needs to be ready to accept that help. 
 > * In order for people to be ready to accept help, they need to be able to be willing to be vulnerable enough to ask for help.
@@ -44,7 +44,7 @@ Indy Hall is quite different from your average working environment. Among the di
 
 Being a member of Indy Hall comes with the benefits of sharing ideas, information, support, and of course our coworking clubhouse. 
 
-### In exchange, here is a non-exhaustive  the expectations that we have of all Indy Hall members, in taking care of each other:
+#### In exchange, here is a non-exhaustive  the expectations that we have of all Indy Hall members, in taking care of each other:
 
 > * Participation can be an extreme sport. If you break or lose it, you should replace it.
 > * Your equipment & professional liability is your responsibility.

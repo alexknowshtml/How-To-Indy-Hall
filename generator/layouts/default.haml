@@ -21,13 +21,9 @@
 
   %body{"data-spy" => "scroll", "data-target" => "nav"}
     %header{:role => "banner"}
-      .name How To Indy Hall
-      .subname Your handy field guide to being an excellent Indy Hall Member
-
+      .name <a href="/"><img src="http://www.indyhall.org/images/indy-hall.png" alt="Home" /></a> <span class="title">How To Indy Hall</span> <span class="tagline">Your handy field guide to being an excellent Indy Hall Member</span>
     .page
       %nav
-        <a href="/"><img src="http://www.indyhall.org/images/indy-hall.png" alt="Indy Hall" style="width:150px;height:150px;margin-left:30px;"/></a>
-
         %form#search{:action => "/search/"}
           %input#tipue_search_input{:name => "q", :type => "search", :placeholder => "Search"}
         

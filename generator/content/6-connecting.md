@@ -6,11 +6,11 @@ toc: true
 
 # Connecting
 
-## How can I meet other Indy Hall members?
-
-### Tip #1: RIGHT NOW, introduce yourself online!
+## Meeting Members Online
 
 *Have you accepted your invitations to [our discussion list on GroupBuzz](http://indyhall.groupbuzz.io) and [our chat rooms on Hall.com](https://hall.com)?* GroupBuzz is our online forum and email discussion list, while Hall.com gives you access to a collection of chat rooms occupied (and created by!) by Indy Hall members. 
+
+> **Note: Can't find your invite to Hall or GroupBuzz, or don't remember your login? Email [help@indyhall.org](mailto:help@indyhall.org) and we'll get you fixed up!**
 
 #### [GroupBuzz.io](http://indyhall.groupbuzz.io)
 <img src="http://dangerouslyawesome.com/snaps/Indy_Hall__groupbuzz.io_20130723_173121.jpg" />
@@ -19,9 +19,15 @@ toc: true
 
 Log in, spend a few minutes reading some of the existing discussions to get a feel, and then **introduce yourself!** Say a bit about what why you joined Indy Hall, what things you're interested in (don't limit yourself to work topics, people love sharing personal interests and hobbies, too). 
 
-> **Note: Can't find your invite to Hall or GroupBuzz, or don't remember your login? Email [help@indyhall.org](mailto:help@indyhall.org) and we'll get you fixed up!**
 
-### Tip #2: Any time you're physically at Indy Hall, introduce yourself to a person you've never met before!
+
+> #### Community Tip - What to post (and what not to post)
+>
+> It's probably easier to mention posts that aren't successful or efficient: if it reads like a blog post, it likely won't be read well by members. Stay personal. Keep it real.
+>
+> Remember the difference between asking a friend for help and posting a recruiting email. **Job listings** are best to the "Gig Swap" room in Hall. 
+
+## Meeting Members Offline
 
 *Especially* when you're new, Indy Hall can be a lot to take in, and it's not always obvious where to start. 
 
@@ -33,7 +39,7 @@ Everyone here is interesting (even if they don't think so)!
 
 **Be patient. Be curious. Be friendly. Be honest.**
 
-### Tip #3: Meet members at events
+## Meeting Members at Events
 
 #### Weekly & Monthly Events
 

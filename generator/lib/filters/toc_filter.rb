@@ -24,7 +24,7 @@ class NokogiriTOC
     
     toc_data = []
     
-    @level = {"h2" => 0}
+    @level = {"h2" => 0, "h3" => 0}
     selector = @level.keys.map{|h| Nokogiri::CSS.xpath_for("#{options[:content_selector]} #{h}")}.join("|")
 
     current_heading = nil
@@ -66,4 +66,3 @@ class NokogiriTOC
     toc
   end
 end
-
