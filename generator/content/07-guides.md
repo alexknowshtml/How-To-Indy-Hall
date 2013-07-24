@@ -16,13 +16,13 @@ If you're ever unsure what's "right", you can fall back to these three simple gu
 
 To help you get comfortable quickly, below is a collection of **member-suggested** and **member-contributed** guides to help you take care of the things that we share. 
 
-> **Can't find what you're looking for, or want to add/update a How To? Get meta and check out the guide on [contributing to to this guide](/7-how-to/#6__Contributing_to_this_Guide)!**
+> **Can't find what you're looking for, or want to add/update a How To? Get meta and check out the guide on [contributing to to this guide](/07-guides/#6__Contributing_to_this_Guide)!**
 
 ## Getting Started
 
 ### Connecting to Wifi
 
-<img src="/assets/images/wifi.png" class="photo-right" />
+<img src="/assets/images/wifi.jpg" class="photo-right" />
 
 Use the wireless connections named "Indy Hall 2.4gHz" and "Indy Hall 5gHz". 
 
@@ -44,18 +44,18 @@ Mobile phones and tablets may only show 2.4gHz as an option, but if you see both
 
 **With these notes in mind, you can sit almost anywhere you like!** We've done a little bit of extra work to help you enjoy the time you spend coworking with us the most. Those color coded workclusters with light and dark surfaces aren't arranged that way because we wanted it to look like a checkerboard (though the look is cool, isn't it?). We do that to help you mix and mingle easier. Here's how it works!
 
-![TODO Photo of Full Time Desk, set up with someone at it](http://placehold.it/600x350)
-
 #### For Full Time Members:
 *Full-Time members are encouraged, but not required, to find an available dark colored desk* to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
 
-![TODO Photo collage of the different flex areas with people at them](http://placehold.it/600x350)
+![Full Time Setup](/assets/images/full-time.jpg)
 
 #### For Everybody:
 
 If you're a *Basic, Six-Pack, or Lite member*, if you're just *dropping in for the day*, or if you're a *Full-Time member who likes to change things up* more often, you can use any of the unoccupied *light-colored work surfaces* at Indy Hall. 
 
 Light-colored work surfaces include the desks mixed into each workcluster, the communal tables in the ground floor gallery or 2nd floor workshop, the high-top tables in the kitchen or near the 2nd floor windows, and even the round kitchen tables if you're so inclined!
+
+![TODO Photo collage of the different flex areas with people at them](http://placehold.it/600x350)
 
 > #### If you follow these guidelines, you'll begin to notice some pleasant side effects:   
 
