@@ -32,7 +32,8 @@
             - @items.select{|i| i[:kind] == "documentation"}.sort{|a, b| a.identifier <=> b.identifier}.each do |i|
               %li{:class => (i == @item ? "active-section" : "")}
                 = link_to i[:link_title] || i[:title], relative_path_to(i), :class => (i == @item ? "active" : "")
-				
+          #copyright
+            &copy; <a href="http://indyhall.org/">Indy Hall 2013</a>
       .content= yield
       .generated
         = @item[:mtime].strftime("%A %B %d, %Y at %H:%M:%S %Z")

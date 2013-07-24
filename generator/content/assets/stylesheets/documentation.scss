@@ -238,7 +238,14 @@ nav {
       }
     }
   }
-
+	#copyright{
+		color: #FFF;
+		font-size: .9em;
+		margin: 20px 0;
+		a {
+			color: #FFF;
+		}
+	}
   #search {
     input {
       padding: 3px 0;
