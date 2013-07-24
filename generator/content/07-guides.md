@@ -80,7 +80,7 @@ Especially when you're new at Indy Hall, a really great way to get to know a few
 
 For choosing a lunch spot, there are dozens of options:
 
-![TODO Map of favorite spots](http://placehold.it/600x350)
+[![Lunch Spots](/assets/images/maps/lunch.jpg)](http://goo.gl/maps/uLdwH)
 
 #### If you're in a hurry
 Some favorite quick options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) mediterranean/hallal cart at 4th and Market. Fork, Etc is also a popular choice for slightly more upscale takeout sandwiches and salads. 

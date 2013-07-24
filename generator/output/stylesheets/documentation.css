@@ -304,17 +304,18 @@ nav #toc > ol ol ol ol a {
 nav #copyright {
   color: #FFF;
   font-size: .9em;
+  text-align: center;
   margin: 20px 0;
 }
-/* line 261, content/assets/stylesheets/documentation.scss */
+/* line 262, content/assets/stylesheets/documentation.scss */
 nav #copyright a {
   color: #FFF;
 }
-/* line 265, content/assets/stylesheets/documentation.scss */
+/* line 266, content/assets/stylesheets/documentation.scss */
 nav #search {
   margin-bottom: 0.844em;
 }
-/* line 266, content/assets/stylesheets/documentation.scss */
+/* line 267, content/assets/stylesheets/documentation.scss */
 nav #search input {
   padding: 3px 0;
   font-size: 1em;
@@ -323,7 +324,7 @@ nav #search input {
   width: 95%;
 }
 
-/* line 276, content/assets/stylesheets/documentation.scss */
+/* line 277, content/assets/stylesheets/documentation.scss */
 .page {
   *zoom: 1;
   max-width: 59em;
@@ -349,7 +350,7 @@ nav #search input {
   display: table;
   clear: both;
 }
-/* line 285, content/assets/stylesheets/documentation.scss */
+/* line 286, content/assets/stylesheets/documentation.scss */
 .page .content {
   width: 74.576%;
   float: right;
@@ -359,11 +360,11 @@ nav #search input {
   float: left;
   margin-left: 15em;
 }
-/* line 290, content/assets/stylesheets/documentation.scss */
+/* line 291, content/assets/stylesheets/documentation.scss */
 .page .content p {
   margin-left: 40px;
 }
-/* line 294, content/assets/stylesheets/documentation.scss */
+/* line 295, content/assets/stylesheets/documentation.scss */
 .page .content h2 {
   font-size: 2em;
   line-height: 1.688em;
@@ -374,7 +375,7 @@ nav #search input {
   margin-left: -16px;
   clear: both;
 }
-/* line 304, content/assets/stylesheets/documentation.scss */
+/* line 305, content/assets/stylesheets/documentation.scss */
 .page .content h3 {
   font-size: 1.5em;
   line-height: 1.125em;
@@ -385,7 +386,7 @@ nav #search input {
   margin-left: -16px;
   clear: both;
 }
-/* line 314, content/assets/stylesheets/documentation.scss */
+/* line 315, content/assets/stylesheets/documentation.scss */
 .page .content h4 {
   font-weight: bold;
   margin-top: 1.688em;
@@ -394,7 +395,7 @@ nav #search input {
   margin-left: -16px;
   clear: both;
 }
-/* line 323, content/assets/stylesheets/documentation.scss */
+/* line 324, content/assets/stylesheets/documentation.scss */
 .page .content blockquote {
   margin-top: 1.688em;
   box-shadow: rgba(255, 255, 255, 0.8) 1px 0px 2px, inset rgba(0, 0, 0, 0.05) 1px 0px 2px;
@@ -404,35 +405,35 @@ nav #search input {
   background: #fefefa;
   clear: both;
 }
-/* line 331, content/assets/stylesheets/documentation.scss */
+/* line 332, content/assets/stylesheets/documentation.scss */
 .page .content blockquote ul {
   margin-left: 55px;
 }
-/* line 333, content/assets/stylesheets/documentation.scss */
+/* line 334, content/assets/stylesheets/documentation.scss */
 .page .content blockquote ul li {
   margin: 10px 0;
 }
-/* line 337, content/assets/stylesheets/documentation.scss */
+/* line 338, content/assets/stylesheets/documentation.scss */
 .page .content blockquote h4 {
   margin-left: -20px;
 }
-/* line 342, content/assets/stylesheets/documentation.scss */
+/* line 343, content/assets/stylesheets/documentation.scss */
 .page .content iframe.twitter-tweet {
   margin-left: 100px !important;
 }
-/* line 346, content/assets/stylesheets/documentation.scss */
+/* line 347, content/assets/stylesheets/documentation.scss */
 .page .content ol {
   margin: 20px 0 20px 55px;
 }
-/* line 349, content/assets/stylesheets/documentation.scss */
+/* line 350, content/assets/stylesheets/documentation.scss */
 .page .content ol li p {
   margin: 15px 0;
 }
-/* line 352, content/assets/stylesheets/documentation.scss */
+/* line 353, content/assets/stylesheets/documentation.scss */
 .page .content ol li blockquote {
   margin-left: -90px;
 }
-/* line 357, content/assets/stylesheets/documentation.scss */
+/* line 358, content/assets/stylesheets/documentation.scss */
 .page .content hr {
   margin-top: 40px;
   margin-bottom: 35px;
@@ -442,13 +443,13 @@ nav #search input {
   height: 2px;
   clear: both;
 }
-/* line 366, content/assets/stylesheets/documentation.scss */
+/* line 367, content/assets/stylesheets/documentation.scss */
 .page .content .photo-right {
   float: right;
   width: 150px;
 }
 
-/* line 373, content/assets/stylesheets/documentation.scss */
+/* line 374, content/assets/stylesheets/documentation.scss */
 .generated {
   float: left;
   margin-top: -20px;
@@ -457,23 +458,23 @@ nav #search input {
   font-size: .8em;
 }
 
-/* line 380, content/assets/stylesheets/documentation.scss */
+/* line 381, content/assets/stylesheets/documentation.scss */
 div.generated:before {
   content: "Last Updated: ";
 }
 
-/* line 385, content/assets/stylesheets/documentation.scss */
+/* line 386, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }
 
-/* line 388, content/assets/stylesheets/documentation.scss */
+/* line 389, content/assets/stylesheets/documentation.scss */
 #tipue_search_content h2 {
   margin-bottom: 5px;
   display: inline-block;
   margin-right: 20px;
 }
-/* line 392, content/assets/stylesheets/documentation.scss */
+/* line 393, content/assets/stylesheets/documentation.scss */
 #tipue_search_content h2 a {
   text-decoration: none;
 }
