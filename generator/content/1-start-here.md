@@ -47,6 +47,10 @@ If you want to share with the entire community, start a [new discussion on Group
 
 If you prefer to start the conversation privately, you can email [help@indyhall.org](mailto:help@indyhall.org) to reach Alex, Adam, and Karina directly.
 
+### Look for TODOs
+
+TODO: Explain how to look for todo's.
+
 ---
 
 #### Add your voice
