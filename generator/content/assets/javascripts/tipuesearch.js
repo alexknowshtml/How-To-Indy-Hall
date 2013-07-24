@@ -13,13 +13,13 @@ http://www.tipue.com/search
 
           var set = $.extend( {
           
-               'show'                   : 7,
+               'show'                   : 10,
                'newWindow'              : false,
                'showURL'                : true,
                'minimumLength'          : 3,
                'descriptiveWords'       : 25,
                'highlightTerms'         : true,
-               'highlightEveryTerm'     : false,
+               'highlightEveryTerm'     : true,
                'mode'                   : 'static',
                'liveDescription'        : '*',
                'liveContent'            : '*',
@@ -227,12 +227,12 @@ http://www.tipue.com/search
                               }
                               if (c == 1)
                               {
-                                   out += '<div id="tipue_search_results_count">1 result</div>';
+                                   out += '<h1>1 result</h1>';
                               }
                               else
                               {
                                    c_c = c.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                                   out += '<div id="tipue_search_results_count">' + c_c + ' results</div>';
+                                   out += '<h1>' + c_c + ' results</h1>';
                               }
                               
                               found.sort();
@@ -242,7 +242,7 @@ http://www.tipue.com/search
                                    var fo = found[i].split('^');
                                    if (l_o >= start && l_o < set.show + start)
                                    {
-                                        out += '<div class="tipue_search_content_title"><a href="' + fo[3] + '"' + tipue_search_w + '>' +  fo[1] + '</a></div>';
+                                        out += '<h2><a href="' + fo[3] + '"' + tipue_search_w + '>' +  fo[1] + '</a></h2>';
                                                                                 
                                         var t = fo[2];
                                         var t_d = '';
@@ -259,12 +259,7 @@ http://www.tipue.com/search
                                              }
                                         }
                                         t_d = $.trim(t_d);
-                                        if (t_d.charAt(t_d.length - 1) != '.')
-                                        {
-                                             t_d += ' ...';
-                                        }
-                                        out += '<div class="tipue_search_content_text">' + t_d + '</div>';
-                                        
+
                                         if (set.showURL)
                                         {
                                              t_url = fo[3];
@@ -272,8 +267,16 @@ http://www.tipue.com/search
                                              {
                                                   t_url = fo[3].substr(0, 45) + ' ...';
                                              }    
-                                             out += '<div class="tipue_search_content_loc"><a href="' + fo[3] + '"' + tipue_search_w + '>' + t_url + '</a></div>';
+                                             out += '<span class="tipue_search_content_loc"><a href="' + fo[3] + '"' + tipue_search_w + '>' + t_url + '</a></span>';
                                         }
+
+																				if (t_d.charAt(t_d.length - 1) != '.')
+                                        {
+                                             t_d += ' ...';
+                                        }
+                                        out += '<blockquote><p>' + t_d + '</p></blockquote>';
+                                        
+                                        
                                    }
                                    l_o++;     
                               }
@@ -338,21 +341,21 @@ http://www.tipue.com/search
                          }
                          else
                          {
-                              out += '<div id="tipue_search_warning_head">Nothing found</div>'; 
+                              out += '<h2>Nothing found</h2>'; 
                          }
                     }
                     else
                     {
                          if (show_stop)
                          {
-                              out += '<div id="tipue_search_warning_head">Nothing found</div><div id="tipue_search_warning">Common words are largely ignored</div>';     
+                              out += '<h2>Nothing found</h2><p>Common words are largely ignored</p>';     
                          }
                          else
                          {
-                              out += '<div id="tipue_search_warning_head">Search too short</div>';
+                              out += '<h2>Search too short</h2>';
                               if (set.minimumLength == 1)
                               {
-                                   out += '<div id="tipue_search_warning">Should be one character or more</div>';
+                                   out += '<p>Should be one character or more</p>';
                               }
                               else
                               {

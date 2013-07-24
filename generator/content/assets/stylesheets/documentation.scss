@@ -355,3 +355,11 @@ div.generated:before {
 #tipue_search_content_title {
   @include leader;
 }
+#tipue_search_content h2 {
+	margin-bottom: 5px;
+	display:inline-block;
+	margin-right:20px;
+	a {
+		text-decoration:none;		
+	}
+}

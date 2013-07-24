@@ -448,3 +448,14 @@ div.generated:before {
 #tipue_search_content_title {
   margin-top: 1.688em;
 }
+
+/* line 358, content/assets/stylesheets/documentation.scss */
+#tipue_search_content h2 {
+  margin-bottom: 5px;
+  display: inline-block;
+  margin-right: 20px;
+}
+/* line 362, content/assets/stylesheets/documentation.scss */
+#tipue_search_content h2 a {
+  text-decoration: none;
+}
