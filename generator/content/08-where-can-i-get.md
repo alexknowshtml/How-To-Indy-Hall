@@ -111,4 +111,4 @@ Check [Septa's Website](http://www.septa.org) for updated information.
 
 #### Add your voice
 
-Wanna help make this page better? Find out [how to contribute](/7-guides/#6__Contributing_to_this_Guide).
+Wanna help make this page better? Find out [how to contribute](/07-guides/#6__Contributing_to_this_Guide).

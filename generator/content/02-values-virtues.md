@@ -291,4 +291,4 @@ If your goals include doing things that are authentic and meaningful, you must p
 
 #### Add your voice
 
-Wanna help make this page better? Find out [how to contribute](/7-guides/#6__Contributing_to_this_Guide).
+Wanna help make this page better? Find out [how to contribute](/07-guides/#6__Contributing_to_this_Guide).
