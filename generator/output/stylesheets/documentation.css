@@ -416,7 +416,7 @@ nav #search input {
 .page .content ol li blockquote {
   margin-left: -90px;
 }
-/* line 331, content/assets/stylesheets/documentation.scss */
+/* line 329, content/assets/stylesheets/documentation.scss */
 .page .content hr {
   margin-top: 40px;
   border: 0;
@@ -424,13 +424,27 @@ nav #search input {
   height: 2px;
   clear: both;
 }
-/* line 338, content/assets/stylesheets/documentation.scss */
+/* line 336, content/assets/stylesheets/documentation.scss */
 .page .content .photo-right {
   float: right;
   width: 150px;
 }
 
-/* line 346, content/assets/stylesheets/documentation.scss */
+/* line 343, content/assets/stylesheets/documentation.scss */
+.generated {
+  float: left;
+  margin-top: -20px;
+  margin-left: 22em;
+  font-style: italic;
+  font-size: .8em;
+}
+
+/* line 350, content/assets/stylesheets/documentation.scss */
+div.generated:before {
+  content: "Last Updated: ";
+}
+
+/* line 355, content/assets/stylesheets/documentation.scss */
 #tipue_search_content_title {
   margin-top: 1.688em;
 }

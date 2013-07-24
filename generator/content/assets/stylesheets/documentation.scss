@@ -326,8 +326,6 @@ nav {
 				}
 			}
 		}
-		
-		
 		hr {
 			margin-top:40px;
 			border: 0;
@@ -340,6 +338,17 @@ nav {
 			width:150px;
 		}
   }
+}
+
+.generated{
+	float:left;
+	margin-top:-20px;
+	margin-left: 22em;
+	font-style: italic;
+	font-size:.8em;
+}
+div.generated:before {
+	content:"Last Updated: ";
 }
 
 // Tipue search

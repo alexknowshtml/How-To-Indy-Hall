@@ -34,3 +34,5 @@
                 = link_to i[:link_title] || i[:title], relative_path_to(i), :class => (i == @item ? "active" : "")
 				
       .content= yield
+      .generated
+        = @item[:mtime].strftime("%A %B %d, %Y at %H:%M:%S %Z")
