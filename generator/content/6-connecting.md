@@ -14,12 +14,16 @@ toc: true
 
 #### [GroupBuzz.io](http://indyhall.groupbuzz.io)
 <img src="http://dangerouslyawesome.com/snaps/Indy_Hall__groupbuzz.io_20130723_173121.jpg" />
+
+> #### Community Tip: Add an avatar & profile
+> Have your photo show up next to your posts by signing up for [Gravatar](http://gravatar.com). **Be sure to use the same email address you get Indy Hall emails from.**
+> You should also add a brief bio about yourself on the ["Profile" page](http://indyhall.groupbuzz.io/members/profile) in GroupBuzz.
+ 
+
 #### [Hall.com](http://hall.com) (ask for an invite)
 <img src="http://dangerouslyawesome.com/snaps/Hall_20130723_173305.jpg" />
 
 Log in, spend a few minutes reading some of the existing discussions to get a feel, and then **introduce yourself!** Say a bit about what why you joined Indy Hall, what things you're interested in (don't limit yourself to work topics, people love sharing personal interests and hobbies, too). 
-
-
 
 > #### Community Tip - What to post (and what not to post)
 >

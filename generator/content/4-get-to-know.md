@@ -56,6 +56,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 #### Parker Whitney
 
+## Member Directory
+
+GroupBuzz, where we host our online community discussions, has a [built in directory](http://indyhall.groupbuzz.io/members) that includes every active member of Indy Hall.
+
+<img src="http://dangerouslyawesome.com/snaps/Indy_Hall__groupbuzz.io_20130724_013326.jpg" alt="GroupBuzz Member Directory"/>
+
+Click around, and get to know people by what people post and comment on!
+
 
 ---
 

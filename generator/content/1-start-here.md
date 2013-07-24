@@ -7,7 +7,9 @@ kind: documentation
 
 <img src="https://dl.dropboxusercontent.com/s/fagmqvkou4ol9od/alex.png?token_hash=AAH1ZgzGcuVfbROTKv6DZEjL3OqCEkgziQe4WY4HsgCehQ" height="100" width="100" style="float:left;margin-right:20px;" /> 
 
-Hi. I'm Alex Hillman, the co-founder of Indy Hall, and I want to welcome you. First and foremost, I want to thank you for accepting our invitation to be a member of Indy Hall. When I started down the path of creating Indy Hall, it wasn't because I needed a place to work - even though I loved the freedom and flexibility to work from anywhere, **I was lonely working by myself.**
+Hi. I'm Alex Hillman, the co-founder of Indy Hall, and I want to welcome you to our community. First and foremost, I want to thank you for accepting our invitation to be a member of Indy Hall. 
+
+When I started down the path of creating Indy Hall, it wasn't because I needed a place to work - even though I loved the freedom and flexibility to work from anywhere, **I was lonely working by myself.** If you're here for similar reasons (and there's a good chance you are), we're already helping each other.
 
 Many years later, Indy Hall has evolved into an unusual, exceptional, unpredictable, and wonderful place - but you probably already know that, because you've made the decision to be a part of our community.
 
