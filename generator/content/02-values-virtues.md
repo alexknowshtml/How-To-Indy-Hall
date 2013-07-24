@@ -28,7 +28,7 @@ So if sustainability doesn't mean "going green", what does it mean?
 
 Sustainability, in my mind, is about making sure that whatever you're doing can be done for as long as it needs to be done. In less vague terms: are you participating in your community, your coworking space, your infrastructure, and your business models in a way that aren't dependent on outside resources to persist, to grow, and to flourish?
 
-A Farmer Once Told Me
+#### A Farmer Once Told Me
 I had the pleasure of seeing [Joel Salatin speak at TEDxMidAtlantic in 2009](http://www.youtube.com/watch?v=-T9UaP1AsMI "TEDxMidAtlantic - Joel Salatin - 11/5/09 - YouTube"), and remember being struck by what this farmer had to say. I highly recommend his 15 minute talk.
 
 <blockquote class="twitter-tweet"><p>A community that can feed itself is free. A community that cannot feed itself is not. It&#39;s that simple.</p>&mdash; Joel Salatin (@JoelSalatin) <a href="https://twitter.com/JoelSalatin/statuses/95569133772615680">July 25, 2011</a></blockquote>
