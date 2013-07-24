@@ -279,7 +279,7 @@ nav #toc > ol > li.active-section > a, nav #toc > ol > li > a:hover {
 /* line 231, content/assets/stylesheets/documentation.scss */
 nav #toc > ol > li li a {
   display: block;
-  padding: 0 1em;
+  padding: 0 1em 0 2.0em;
   font-size: 0.875em;
   line-height: 1.929em;
   padding-bottom: 0.482em;
@@ -294,7 +294,7 @@ nav #toc > ol ol a:hover, nav #toc > ol ol li.active > a {
 }
 /* line 249, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol ol a {
-  padding-left: 2em;
+  padding-left: 3em;
 }
 /* line 252, content/assets/stylesheets/documentation.scss */
 nav #toc > ol ol ol ol a {

@@ -230,7 +230,7 @@ nav {
 
     >li li a {
       display: block;
-      padding: 0 1em;
+      padding: 0 1em 0 2.0em;
       @include adjust-font-size-to(14px);
       @include padding-trailer(.25, 14px);
       @include padding-leader(.25, 14px);
@@ -246,7 +246,7 @@ nav {
       }
 
       ol {
-        a { padding-left:2em; }
+        a { padding-left:3em; }
         // Even more nested nav, e.g. 2.3.1. Installation instructions
         ol {
           a { padding-left: 3em; }

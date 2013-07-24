@@ -6,7 +6,7 @@ toc: true
 
 # Connecting
 
-## Meeting Members Online
+## Online Community
 
 *Have you accepted your invitations to [our discussion list on GroupBuzz](http://indyhall.groupbuzz.io) and [our chat rooms on Hall.com](https://hall.com)?* GroupBuzz is our online forum and email discussion list, while Hall.com gives you access to a collection of chat rooms occupied (and created by!) by Indy Hall members. 
 
@@ -31,7 +31,7 @@ Log in, spend a few minutes reading some of the existing discussions to get a fe
 >
 > Remember the difference between asking a friend for help and posting a recruiting email. **Job listings** are best to the "Gig Swap" room in Hall. 
 
-## Meeting Members Offline
+## Coworking Community
 
 *Especially* when you're new, Indy Hall can be a lot to take in, and it's not always obvious where to start. 
 
@@ -43,7 +43,7 @@ Everyone here is interesting (even if they don't think so)!
 
 **Be patient. Be curious. Be friendly. Be honest.**
 
-## Meeting Members at Events
+## Attending Events
 
 #### Weekly & Monthly Events
 
