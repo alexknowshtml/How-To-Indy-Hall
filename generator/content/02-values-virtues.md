@@ -20,32 +20,37 @@ Below is a series of essays by Indy Hall co-founder Alex Hillman explaining how 
 
 **Sustainability is a loaded word.**
 
-The most obvious are the "green" benefits of Indy Hall: resource sharing is inherently green, as is commute reduction. While I consider these elements relatively superficial, that's not to downplay their importance. But the reality is that, in a modern society, does "being a responsible eco-citizen" belong in the list of top line core values? Efficiency is a benefit, but not a core value. Striving for efficiency is a good goal, but it's not a core value.
+The "green" benefits of Indy Hall are obvious: resource sharing is inherently green, as is commute reduction. 
 
-That is to say: if we're NOT considering the environment you inhabit, the other effects and values really don't matter that much.
+But the reality is that, in a modern society, does "being a responsible eco-citizen" belong in the list of top line core values? Efficiency is a *benefit*, but not a core value. Striving for efficiency is a good goal, but it's rarely a source of greatness.
 
-So if sustainability doesn't mean "going green", what does it mean?
+**So if sustainability doesn't mean "going green", what does it mean?**
 
-Sustainability, in my mind, is about making sure that whatever you're doing can be done for as long as it needs to be done. In less vague terms: are members of Indy Hall participating in their community, their infrastructure, and their business models in a way that isn't dependent on outside resources to persist, to grow, and to flourish?
+Sustainability, in my mind, is about making sure that whatever you're doing **can be done for as long as it needs to be done**. 
 
 #### A Farmer Once Told Me
 I had the pleasure of seeing [Joel Salatin speak at TEDxMidAtlantic in 2009](http://www.youtube.com/watch?v=-T9UaP1AsMI "TEDxMidAtlantic - Joel Salatin - 11/5/09 - YouTube"), and remember being struck by what this farmer had to say. I highly recommend his 15 minute talk.
 
+<blockquote class="twitter-tweet"><p>A community that can feed itself is free. A community that cannot feed itself is not. It&#39;s that simple.</p>&mdash; Joel Salatin (@JoelSalatin) <a href="https://twitter.com/JoelSalatin/statuses/95569133772615680">July 25, 2011</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In the early days of Indy Hall, Geoff and I were talking about how to take the momentum we'd built and turn it into the coworking space that everybody wanted. One of the important insights Geoff drove home was to make sure that we'd be able to sustain ourselves – our membership should be able to cover our costs as well as provide room for growth – or else it wasn't worth building the infrastructure to help that community grow.
+Joel's tweet above is about food. But if you read past the fact that he's talking about food, what he's really talking about is nourishment.
 
-We looked at for profit and non-profit models, and determined that in order for us to persist, for us to be sustainable, being a for-profit business provided for us most efficiently. We could stay lightweight and agile, but still remain benevolent and community focused. Most importantly, we would grow in a way that was dependent on no one except for the people who benefitted from the resources we could rally.
+#### How Indy Hall became sustainable
 
-This is a perfect balance for us, and continues to be as we've grown over the years.
+In the early days of Indy Hall, Geoff and I were talking about how to take the momentum we'd built and turn it into the coworking space *that everybody wanted*. 
+
+One of the important insights Geoff drove home was that we needed to be able to sustain ourselves – our membership should support costs as well as provide room for growth – or else it wouldn't worth building the infrastructure in the first place. It wouldn't be sustainable.
+
+We looked at for profit and non-profit models, and determined that in order for us to achieve that goal, for us to be sustainable, being a for-profit business provided for us most effectively for two reasons: speed and agility. As a for-profit LLC, we could stay lightweight and agile, but still remain benevolent and community focused. 
+
+**More importantly,** we didn't (and still don't) have to answer to investors or banks or anybody besides ourselves. 
+
+***Most* importantly,** we could answer to the most important people: *our community.* We could focus on growing in a way that depends on no one except for the people who benefit most from the resources we rally.
 
 After all, community that isn't able to nourish itself lives in dependency of whomever is providing for it, and therefore is not only not free, but not sustainable.
 
 Indy Hall is a community that is able to provide for itself and doesn't exclude itself from external sources of nourishment – but it remains free, sustainable, and independent.
-
-
-A community that isn't able to nourish itself lives in dependency of whomever is providing for it, and therefore is not only not free, but not sustainable.
-
-Conversely, a community that is able to provide for itself doesn't exclude itself from external sources of nourishment – but it is free, sustainable, and independent.
 
 #### The people and businesses we support will live as our reflections.
 
