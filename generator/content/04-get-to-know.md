@@ -52,11 +52,11 @@ If you're just getting started, you might not be sure who you can turn to for he
 > 
 > <img src="/assets/images/geoff.png" class="photo-right" />
 > 
-> **Before I joined Indy Hall, I:**
+> **Before I co-founded Indy Hall, I: Worked at Rolling Stone, was a multimedia professor at UArts, played lots of ultimate, and had two kids.
 > 
-> **One thing I like to teach people is:**
+> **One thing I like to teach people is: How to run a business.
 > 
-> **One of my dreams is:**
+> **One of my dreams is: Is to see I-95 removed from Philadelphia to reconnect the waterfront to all of us.
 
 <br style="clear:both;"/>
 
