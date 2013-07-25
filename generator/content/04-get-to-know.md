@@ -30,9 +30,9 @@ If you're just getting started, you might not be sure who you can turn to for he
 >
 > **Before I joined Indy Hall, I:** produced copy for social media campaigns at a local agency, wrote 50% of several jokes before abandoning the premise for each.
 > 
-> **One thing I like to teach people is:** "Friends are friends because they've discovered how much they have in common. Opponents, adversaries, and foes are friends too, who have not yet discovered this." (via [Notes from the Universe](http://www.tut.com/Inspiration/nftu))
+> **One thing I like to teach people is:** "Friends are friends because they've discovered how much they have in common. Opponents, adversaries, and foes are friends too, who have not yet discovered this." [via Notes from the Universe]
 > 
-> **One of my dreams is:** add a punch-line to any of the jokes that I've only half-written. At least one of them will be reasonably funny - eventually. Probably.
+> **One of my dreams is:** to erase that token cynicism from Philadelphia's repertoire. I'm deeply proud of my peers, my coworkers, and my neighbors. These people are my friends, these people are my home - and there's no room for apathy in our city.
 
 ---
 
@@ -62,10 +62,6 @@ If you're just getting started, you might not be sure who you can turn to for he
 
 ## "Regulars"
 
-Indy Hall can feel a bit like "Cheers" sometimes - and like the show, we've got a cast of characters who have been around long enough to know a *little bit more*  about Indy Hall than the average coworker. These folks have helped out a little extra, know lots of other members well, and know lots of "hidden tips" and stories about Indy Hall.
-
-Getting to know even a couple of these members can be a fast-track to connecting to the community. Pick one and say hi.
-
 #### Sean Martorana
 
 #### Johnny Bilotta
@@ -78,7 +74,7 @@ Getting to know even a couple of these members can be a fast-track to connecting
 
 #### Eric Steele
 
-#### Nicole Fryer
+#### Nicole Freyer
 
 #### Parker Whitney
 
