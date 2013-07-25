@@ -132,17 +132,20 @@ Indy Hall embodies freedom and independence. We represent choice, the ultimate f
 
 > Coworking is about making the personal choice to work along side other people instead of in isolation.
 
-#### Forkability
+#### "Forkability"
 
-"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. Here at Indy Hal, the source is lessons learned, ideas executed, and core values.
+"Forkability" is the ability to take the "source" of one project and use it to begin a new project. In software, the source is code. Here at Indy Hall, the source is lessons learned, ideas executed, and of course our core values and virtues.
 
-I've described Indy Hall as a "blank canvas" an office. That is, what happens when you provide basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people who inhabit that office decide what's most important to them? Giving them an opportunity to make it their own.
+I've described Indy Hall as a "blank canvas" an office. 
+> What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them? 
 
-The stories I tell of the cool things that happened at Indy Hall aren't things that Geoff or I went out of our way to make happen. The stories I tell of the cool things that happened at Indy Hall are all stories of other people, our members, who built on top of the most basic infrastructure we could provide.
+Many interesting things happen, but the most important is the new possibility of **making it you own**.
 
-What's particularly cool about Indy Hall is that it allows people the opportunity to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
+The stories I tell of the cool things that happen at Indy Hall aren't things that Geoff or I go out of our way to make happen. The stories I tell of the cool things that happen at Indy Hall are all stories of our community, our members, who continually build on top of the basic infrastructure we share and maintain together.
 
-Our members know that we are open to them forking Indy Hall, especially when the things they decide to do benefit other members in addition to themselves.
+The "innovation" that happens at Indy Hall is the result of an experience that it affords everyone here the opportunity to create new solutions to the problems they have rather than relying on the old solutions that haven't been working as well.
+
+As a member of Indy Hall, you 're encouraged to "fork" Indy Hall, especially when the things you decide to do benefit other members in addition to yourself.
 
 ### Collaboration
 
@@ -1656,17 +1659,20 @@ Indy Hall embodies freedom and independence. We represent choice, the ultimate f
 
 > Coworking is about making the personal choice to work along side other people instead of in isolation.
 
-#### Forkability
+#### "Forkability"
 
-"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. Here at Indy Hal, the source is lessons learned, ideas executed, and core values.
+"Forkability" is the ability to take the "source" of one project and use it to begin a new project. In software, the source is code. Here at Indy Hall, the source is lessons learned, ideas executed, and of course our core values and virtues.
 
-I've described Indy Hall as a "blank canvas" an office. That is, what happens when you provide basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people who inhabit that office decide what's most important to them? Giving them an opportunity to make it their own.
+I've described Indy Hall as a "blank canvas" an office. 
+> What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them? 
 
-The stories I tell of the cool things that happened at Indy Hall aren't things that Geoff or I went out of our way to make happen. The stories I tell of the cool things that happened at Indy Hall are all stories of other people, our members, who built on top of the most basic infrastructure we could provide.
+Many interesting things happen, but the most important is the new possibility of **making it you own**.
 
-What's particularly cool about Indy Hall is that it allows people the opportunity to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
+The stories I tell of the cool things that happen at Indy Hall aren't things that Geoff or I go out of our way to make happen. The stories I tell of the cool things that happen at Indy Hall are all stories of our community, our members, who continually build on top of the basic infrastructure we share and maintain together.
 
-Our members know that we are open to them forking Indy Hall, especially when the things they decide to do benefit other members in addition to themselves.
+The "innovation" that happens at Indy Hall is the result of an experience that it affords everyone here the opportunity to create new solutions to the problems they have rather than relying on the old solutions that haven't been working as well.
+
+As a member of Indy Hall, you 're encouraged to "fork" Indy Hall, especially when the things you decide to do benefit other members in addition to yourself.
 
 ### Collaboration
 
@@ -3180,17 +3186,20 @@ Indy Hall embodies freedom and independence. We represent choice, the ultimate f
 
 > Coworking is about making the personal choice to work along side other people instead of in isolation.
 
-#### Forkability
+#### "Forkability"
 
-"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. Here at Indy Hal, the source is lessons learned, ideas executed, and core values.
+"Forkability" is the ability to take the "source" of one project and use it to begin a new project. In software, the source is code. Here at Indy Hall, the source is lessons learned, ideas executed, and of course our core values and virtues.
 
-I've described Indy Hall as a "blank canvas" an office. That is, what happens when you provide basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people who inhabit that office decide what's most important to them? Giving them an opportunity to make it their own.
+I've described Indy Hall as a "blank canvas" an office. 
+> What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them? 
 
-The stories I tell of the cool things that happened at Indy Hall aren't things that Geoff or I went out of our way to make happen. The stories I tell of the cool things that happened at Indy Hall are all stories of other people, our members, who built on top of the most basic infrastructure we could provide.
+Many interesting things happen, but the most important is the new possibility of **making it you own**.
 
-What's particularly cool about Indy Hall is that it allows people the opportunity to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
+The stories I tell of the cool things that happen at Indy Hall aren't things that Geoff or I go out of our way to make happen. The stories I tell of the cool things that happen at Indy Hall are all stories of our community, our members, who continually build on top of the basic infrastructure we share and maintain together.
 
-Our members know that we are open to them forking Indy Hall, especially when the things they decide to do benefit other members in addition to themselves.
+The "innovation" that happens at Indy Hall is the result of an experience that it affords everyone here the opportunity to create new solutions to the problems they have rather than relying on the old solutions that haven't been working as well.
+
+As a member of Indy Hall, you 're encouraged to "fork" Indy Hall, especially when the things you decide to do benefit other members in addition to yourself.
 
 ### Collaboration
 
@@ -4704,17 +4713,20 @@ Indy Hall embodies freedom and independence. We represent choice, the ultimate f
 
 > Coworking is about making the personal choice to work along side other people instead of in isolation.
 
-#### Forkability
+#### "Forkability"
 
-"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. Here at Indy Hal, the source is lessons learned, ideas executed, and core values.
+"Forkability" is the ability to take the "source" of one project and use it to begin a new project. In software, the source is code. Here at Indy Hall, the source is lessons learned, ideas executed, and of course our core values and virtues.
 
-I've described Indy Hall as a "blank canvas" an office. That is, what happens when you provide basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people who inhabit that office decide what's most important to them? Giving them an opportunity to make it their own.
+I've described Indy Hall as a "blank canvas" an office. 
+> What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them? 
 
-The stories I tell of the cool things that happened at Indy Hall aren't things that Geoff or I went out of our way to make happen. The stories I tell of the cool things that happened at Indy Hall are all stories of other people, our members, who built on top of the most basic infrastructure we could provide.
+Many interesting things happen, but the most important is the new possibility of **making it you own**.
 
-What's particularly cool about Indy Hall is that it allows people the opportunity to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
+The stories I tell of the cool things that happen at Indy Hall aren't things that Geoff or I go out of our way to make happen. The stories I tell of the cool things that happen at Indy Hall are all stories of our community, our members, who continually build on top of the basic infrastructure we share and maintain together.
 
-Our members know that we are open to them forking Indy Hall, especially when the things they decide to do benefit other members in addition to themselves.
+The "innovation" that happens at Indy Hall is the result of an experience that it affords everyone here the opportunity to create new solutions to the problems they have rather than relying on the old solutions that haven't been working as well.
+
+As a member of Indy Hall, you 're encouraged to "fork" Indy Hall, especially when the things you decide to do benefit other members in addition to yourself.
 
 ### Collaboration
 
@@ -6228,17 +6240,20 @@ Indy Hall embodies freedom and independence. We represent choice, the ultimate f
 
 > Coworking is about making the personal choice to work along side other people instead of in isolation.
 
-#### Forkability
+#### "Forkability"
 
-"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. Here at Indy Hal, the source is lessons learned, ideas executed, and core values.
+"Forkability" is the ability to take the "source" of one project and use it to begin a new project. In software, the source is code. Here at Indy Hall, the source is lessons learned, ideas executed, and of course our core values and virtues.
 
-I've described Indy Hall as a "blank canvas" an office. That is, what happens when you provide basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people who inhabit that office decide what's most important to them? Giving them an opportunity to make it their own.
+I've described Indy Hall as a "blank canvas" an office. 
+> What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them? 
 
-The stories I tell of the cool things that happened at Indy Hall aren't things that Geoff or I went out of our way to make happen. The stories I tell of the cool things that happened at Indy Hall are all stories of other people, our members, who built on top of the most basic infrastructure we could provide.
+Many interesting things happen, but the most important is the new possibility of **making it you own**.
 
-What's particularly cool about Indy Hall is that it allows people the opportunity to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
+The stories I tell of the cool things that happen at Indy Hall aren't things that Geoff or I go out of our way to make happen. The stories I tell of the cool things that happen at Indy Hall are all stories of our community, our members, who continually build on top of the basic infrastructure we share and maintain together.
 
-Our members know that we are open to them forking Indy Hall, especially when the things they decide to do benefit other members in addition to themselves.
+The "innovation" that happens at Indy Hall is the result of an experience that it affords everyone here the opportunity to create new solutions to the problems they have rather than relying on the old solutions that haven't been working as well.
+
+As a member of Indy Hall, you 're encouraged to "fork" Indy Hall, especially when the things you decide to do benefit other members in addition to yourself.
 
 ### Collaboration
 
