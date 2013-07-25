@@ -16,11 +16,11 @@ If you're just getting started, you might not be sure who you can turn to for he
 > 
 > <img src="/assets/images/karina.png" class="photo-right" />
 > 
-> **Before I joined Indy Hall, I:**
+> **Before I joined Indy Hall, I:** Worked in an insurance brokers office while event planning and organizing for various non profits on the side. Prior to joining Indy Hall, I realized how much I love and have a passion for the Philadelphia community especially the sustainability movement. 
 > 
-> **One thing I like to teach people is:**
+> **One thing I like to teach people is:** "In the time of your life, live—so that in that wondrous time you shall not add to the misery and sorrow of the world, but shall smile to the infinite delight and mystery of it." -William Saroyan  
 > 
-> **One of my dreams is:**
+> **One of my dreams is:** To become an United States citizen and travel the world with my husband. 
 
 ---
 
