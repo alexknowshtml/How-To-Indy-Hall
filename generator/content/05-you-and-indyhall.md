@@ -14,8 +14,10 @@ We are a gathering of people finding a way of working better together (both offl
 
 The participants of Indy Hall share a fundamental optimism, a spirit of liberty in action, encouragement and enlightenment. Where many people would see problems, Participants see opportunities for making things better, and they wish to take on a personal responsibility for making things happen.
 
-We work to inspire anyone to help everyone. 
+We work to inspire anyone to help everyone.   
 We use creative intelligence to solve real problems.
+
+> This bit of text was [borrowed and modified](http://cofwd.org/wp-content/uploads/2012/12/ParticipantAgreement_September2012.pdf) from our friends at [CoFWD](http://cofwd.org) in Kent, UK. Special thanks to [Carl Jeffrey](http://twitter.com/fellowcreative) for sharing with us..
 
 ## How to be a kick ass community member
 
