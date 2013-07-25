@@ -88,9 +88,11 @@ Click around, and get to know people by what people post and comment on!
 
 ## Videos
 
-
+#### A Glimpse of a Party
 
 <iframe src="http://player.vimeo.com/video/55661987?title=0&amp;byline=0&amp;portrait=0&amp;color=f0c800" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
+*Video by Adriano Martino/Italian Label Advertising, member since 6/13/2012.*
 
 ---
 
