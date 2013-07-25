@@ -86,6 +86,11 @@ GroupBuzz, where we host our online community discussions, has a [built in direc
 
 Click around, and get to know people by what people post and comment on!
 
+## Videos
+
+
+
+<iframe src="http://player.vimeo.com/video/55661987?title=0&amp;byline=0&amp;portrait=0&amp;color=f0c800" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ---
 
