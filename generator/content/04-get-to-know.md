@@ -90,9 +90,10 @@ If you're just getting started, you might not be sure who you can turn to for he
 
 <iframe style="margin-left:40px;margin-top:30px;" src="http://player.vimeo.com/video/55661987?title=0&amp;byline=0&amp;portrait=0&amp;color=f0c800" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-#### Share or embed this video:
+ **Share or embed this video:**
 [http://vimeo.com/italianlabel/indyhall5yearsanniversary](http://vimeo.com/italianlabel/indyhall5yearsanniversary)
 
+**Copy the code below to embed this video on your site or blog:**
 <textarea cols="75" rows="3" border="none" readonly="readonly"><iframe src='http://player.vimeo.com/video/55661987?title=0&amp;byline=0&amp;portrait=0&amp;color=f0c800' width='400' height='300' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></textarea>
 
 *Video by Adriano Martino/Italian Label Advertising, member since 6/13/2012.*
