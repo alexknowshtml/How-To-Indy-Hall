@@ -106,6 +106,11 @@ GroupBuzz, where we host our online community discussions, has a [built in direc
 
 Click around, and get to know people by what people post and comment on!
 
+> #### Community Tip: Add an avatar & profile
+> Have your photo show up next to your posts by signing up for [Gravatar](http://gravatar.com). **Be sure to use the same email address you get Indy Hall emails from.**
+> You should also add a brief bio about yourself on the ["Profile" page](http://indyhall.groupbuzz.io/members/profile) in GroupBuzz.
+
+
 ---
 
 #### Add your voice
