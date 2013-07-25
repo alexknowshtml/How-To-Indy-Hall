@@ -6,24 +6,7 @@ toc: true
 
 # Values & Virtues
 
-Indy Hall's membership is both expansive and diverse. Most people here do *not* work together on the same projects or businesses. **So what brings us together as a community?**
-
-When we look beyond the work that we do and the titles we hold, we start to notice the experiences we've lived and the passions we hold.
- 
-Bula, an Indy Hall member since September of 2009, once said to me:
-
-> "Indy Hall has people from a breath of experiences, from all walks of life. 
-> 
-> Here, you get people...and not just what they're doing now, and today.
->
-> You get people and their **histories**".
-
-And if we challenge ourselves to look even deeper than those experiences and passions, we find what *really* glues us together: the core values and virtues that we practice as individuals and as a community. 
-
-It's not easy, but we do our best to think about these values and virtues every day. Even at an operations level, we use the values and virtues as tools for making decisions about how Indy Hall runs. 
-
-> #### Community Tip: Pop a Why Stack
-> One of the exercises that we do when making decisions at Indy Hall - especially when we're solving problems - is we try to get to the root reason behind something. The way we do that is by "popping a why stack", or asking "why" 5 times in a row. ([source](http://en.wikipedia.org/wiki/5_Whys))
+TODO: Intro
 
 ## Our Values
 
@@ -73,9 +56,9 @@ Indy Hall is a community that is able to provide for itself and doesn't exclude 
 
 I firmly believe that the longer Indy Hall is able to do what it does best, the healthier the people and businesses who work from it will be.
 
-> * The understanding identity, of [who you are](http://dangerouslyawesome.com/2011/02/the-importance-of-lines/) (not just who you aren't).
-> * The support network for [growth](http://dangerouslyawesome.com/2010/11/a-story-of-discovering-potential/).
-> * The [open and honest exchange](http://dangerouslyawesome.com/2011/07/a-hall-pass-for-bureaucracy-code-for-america-philadelphia/) of information and ideas.
+> * The understanding identity, of who you are (not just who you aren't).
+> * The support network for growth.
+> * The open and honest exchange of information and ideas.
 > * The humility taught by [not having to be the smartest kid in the room](http://dangerouslyawesome.com/2011/06/a-coworking-parable-the-game-of-chess/).
 > * The [reintroduction of the natural relationship formation](http://dangerouslyawesome.com/2011/07/i-dont-think-were-solving-a-cubicle-problem/) into business deal workflow.
 
@@ -129,19 +112,19 @@ The fact that Chris and other early coworking founders realized that by making c
 Openness comes into practice in two key ways at Indy Hall - freedom and forkability.
 
 #### Freedom 
-Coworking as a movement embodies freedom and independence. It represents choice, the ultimate freedom. Coworking Seattle's about page says...
+Indy Hall embodies freedom and independence. We represent choice, the ultimate freedom. Coworking Seattle's about page says...
 
 > Coworking is about making the personal choice to work along side other people instead of in isolation.
 
 #### Forkability
 
-"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. In coworking and other non-software applications, the source is lessons learned, ideas executed, and core values.
+"Forkability" is the ability to take the "source", of one project and use it to begin a new project. In software, the source is code. Here at Indy Hal, the source is lessons learned, ideas executed, and core values.
 
 I've described Indy Hall as a "blank canvas" an office. That is, what happens when you provide basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people who inhabit that office decide what's most important to them? Giving them an opportunity to make it their own.
 
 The stories I tell of the cool things that happened at Indy Hall aren't things that Geoff or I went out of our way to make happen. The stories I tell of the cool things that happened at Indy Hall are all stories of other people, our members, who built on top of the most basic infrastructure we could provide.
 
-What's particularly cool about coworking is that it gives people the chance to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
+What's particularly cool about Indy Hall is that it allows people the opportunity to create new solutions to the problems they have, rather than relying on the old solutions that haven't been working as well.
 
 Our members know that we are open to them forking Indy Hall, especially when the things they decide to do benefit other members in addition to themselves.
 
@@ -157,21 +140,21 @@ I think this is poignant for a number of reasons – not the least of which is t
 **Collaboration is the by-product of being a better collaborator.***
 
 #### Trust & High Contact
-We talk a lot about trust, here. Coworking spaces allow for there to be a focus on the formation of trust and deeper relationships between coworkers, because office politics, hierarchies, and succession planning are removed from the equation.
+We talk a lot about trust, here. Indy Hall allows for there to be a focus on the formation of trust and deeper relationships between coworkers, because office politics, hierarchies, and succession planning are removed from the equation.
 
-Going one step further, coworking creates opportunities for people to interact in a “high contact” environment. The serendipitous nature of a coworking space means that people are often spending far more face time with each other than in an office where people only interact when they need to.
+Going one step further, we create opportunities for people to interact in a “high contact” environment. The serendipitous nature of a our clubhouse means that people are often spending far more face time with each other than in an office where people only interact when they need to.
 
 #### Learning by Example
-Coworking spaces are great places to learn how to be a better collaborator. The founders of the best coworking spaces tend to look to their members as collaborators more than customers – an important model in Indy Hall’s success. The members who work together – not just with each other but with the space itself – tend to have the deepest bond with the community. New members see this as something they want and can have for themselves, and along the way not only learn how to model good collaborator behaviors from other members but become new models themselves.
+Indy Hall is a great place to learn how to be a better collaborator. Our members are collaborators, not customers – an important model in our success. The members who work together – not just with each other but with the space itself – tend to have the deepest bond with the community. New members see this as something they want and can have for themselves, and along the way not only learn how to model good collaborator behaviors from other members but become new models themselves.
 
 #### Learning to Ride a Bike
 Learning to ride a bike alone is a painful series of trials and errors. While you might’ve watched somebody else do it, you’re likely to fall and scrape your knee on your first try. Teaching somebody to ride a bike, however, requires them to be a good collaborator more than it requires them to be a good teacher. They need to guide you, support you, and help you find your own “balance”. It requires that the new rider trusts their instructor/collaborator, and spend a fair amount of time together.
 
-The collaborators that work in coworking spaces are very similar. Good collaborators earn trust first. They spend a lot of face time together with their peers. They don’t instruct, but instead guide, support, and help you find your own way.
+The collaborators that work with, in and from Indy Hall are very similar. Good collaborators earn trust first. They spend a lot of face time together with their peers. They don’t instruct, but instead guide, support, and help you find your own way.
 
 In the best collaborator relationships, it’s a two way street – each person has the ability to provide that experience for the other at some point in their time together.
 
-Coworking provides one of the best natural environments for this to happen.
+Indy Hall provides one of the best natural environments for this to happen.
 
 ### Community
 
@@ -188,13 +171,13 @@ We organize events that encourage people to explore each others interests in and
 
 We share rituals and experiences that allow new members to join the tribe and develop camaraderie.
 
-We broadcast our favorite places to hang out outside of our coworking space so that people can easily gather on their own.
+We broadcast our favorite places to hang out outside of our clubhouse so that people can easily gather on their own.
 
 We attend and support other events and initiatives together, both enhancing them with the sense of "togetherness" but also showing the uninitiated that the "togetherness" is accessible to them.
 
 We learn, share, grow, play, experiment, celebrate together. We commiserate and console each other as well.
 
-#### The coworking space is a tool
+#### Our clubhouse is a tool
 Our coworking space is just that – a space. **It's not a community without people in it.**
 
 Geoff and I wrote about [Coworking as a "clubhouse"](http://dangerouslyawesome.com/2008/09/the-importance-of-a-clubhouse/), and I think that language is more accurate of a description than "office" for most of the best coworking spaces in the world. But it's important to remember that in order for a clubhouse to be useful, a club – a community – should be in need of a home.
@@ -209,9 +192,9 @@ I often say that I absolutely love that I can come to Indy Hall as a member, far
 
 People in proximity is a good first step towards community, but as I've said community doesn't really happen until people are interacting. We've found that relationship formation is the primary event that transitions a group of people towards being a "community".
 
-If relationships between coworking members are like tendons, then trust is the the muscle that makes a coworking community strong and healthy.
+If relationships between members are like tendons, then trust is the the muscle that makes a community strong and healthy.
 
-We start by trusting our members, and knowing that sets a stage where trust is a valued part of being a part of the community. When you start the relationship with coworking members off on one where you don't trust them, you can't ever expect them to trust you, either.
+We start by trusting our members, and knowing that sets a stage where trust is a valued part of being a part of the community. When you start the relationship with members off on one where you don't trust them, you can't ever expect them to trust you, either.
 
 #### No two communities are identical
 Indy Hall's original tagline was "this is how Philadelphia does coworking", and we remain true and honest to that statement. 
