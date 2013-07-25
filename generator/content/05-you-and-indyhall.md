@@ -17,7 +17,7 @@ The participants of Indy Hall share a fundamental optimism, a spirit of liberty 
 We work to inspire anyone to help everyone.   
 We use creative intelligence to solve real problems.
 
-> This bit of text was [borrowed and modified](http://cofwd.org/wp-content/uploads/2012/12/ParticipantAgreement_September2012.pdf) from our friends at [CoFWD](http://cofwd.org) in Kent, UK. Special thanks to [Carl Jeffrey](http://twitter.com/fellowcreative) for sharing with us..
+> This bit of text was [borrowed and modified](http://cofwd.org/wp-content/uploads/2012/12/ParticipantAgreement_September2012.pdf) from our friends at [CoFWD](http://cofwd.org) in Kent, UK. Special thanks to [Carl Jeffrey](http://twitter.com/fellowcreative) for sharing with us.
 
 ## How to be a kick ass community member
 
@@ -50,13 +50,14 @@ Being a member of Indy Hall comes with the benefits of sharing ideas, informatio
 
 > * Participation can be an extreme sport. If you break or lose it, you should replace it.
 > * Your equipment & professional liability is your responsibility.
-> * Cleaning up after yourself, emptying bins & recycling when they are full is a shared responsibility. We work together to keep the space we're proud of presentable. **Let a core team member know if you're not sure where empty bags are, or where trash goes.**
-> * Do leave the spaces as you found them, or better than you found them (artwork and decoration is welcome).
+> * Cleaning up after yourself, along with emptying trash & recycling when they are full is a shared responsibility. We work together to keep the space we're proud of presentable. **Let a core team member know if you're not sure where empty bags are, or where trash goes.**
+> * Leave any space you use as you found it or **better than you found it**. Artwork and decoration is welcome, we recommend working with [Indy Hall Arts'](http://twitter.com/indyhall_arts) lead curator Sean Martorana to make your installation look excellent.
 > * Anyone who behaves in an manner that is destructive to the space or other participants may be asked to leave.
-> * Be responsible and respectful with your internet usage. No bit-torrent or PrOn.
+> * Be responsible and respectful using our internet. Bittorrent and porn are absolutely not allowed. Large (1GB+) downloads or uploads during business hours aren't strictly *prohibited*...but it's rude to hog bandwidth.
 > * Respect other peoples personal and business privacy, confidentiality, safety, property and data. **If you're not sure, ask them.**
 > * The last remaining keyholder must ask a non-keyholder to leave at the end of the night, and non-keyholders must respect keyholders' personal schedules.
-
+>
+> This bit of text was **also** [borrowed and modified](http://cofwd.org/wp-content/uploads/2012/12/ParticipantAgreement_September2012.pdf) from our friends at [CoFWD](http://cofwd.org) in Kent, UK. Special thanks to [Carl Jeffrey](http://twitter.com/fellowcreative) for sharing with us.
 
 ---
 
