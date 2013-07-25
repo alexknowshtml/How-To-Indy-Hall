@@ -49,7 +49,9 @@ If you prefer to start the conversation privately, you can email [help@indyhall.
 
 ### Look for TODOs
 
-TODO: Explain how to look for todo's.
+Throughout these pages, you may notice a section or feature that is clearly incomplete. Often, it will be denoted by a line prefixed "TODO:" followed by a description of what's expected to follow. 
+
+If you find a TODO that you'd like to complete and contribute, go for it! Our guide for [making contributions](/07-guides/#6__Contributing_to_How_to_Indy_Hall) will show you a handful of easy ways to turn a TODO into a DONE.
 
 ---
 

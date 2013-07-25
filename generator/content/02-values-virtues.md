@@ -6,7 +6,24 @@ toc: true
 
 # Values & Virtues
 
-TODO: Intro
+Indy Hall's membership is both expansive and diverse. Most people here do *not* work together on the same projects or businesses. **So what brings us together as a community?**
+
+When we look beyond the work that we do and the titles we hold, we start to notice the experiences we've lived and the passions we hold.
+ 
+Bula, an Indy Hall member since September of 2009, once said to me:
+
+> "Indy Hall has people from a breath of experiences, from all walks of life. 
+> 
+> Here, you get people...and not just what they're doing now, and today.
+>
+> You get people and their **histories**".
+
+And if we challenge ourselves to look even deeper than those experiences and passions, we find what *really* glues us together: the core values and virtues that we practice as individuals and as a community. 
+
+It's not easy, but we do our best to think about these values and virtues every day. Even at an operations level, we use the values and virtues as tools for making decisions about how Indy Hall runs. 
+
+> #### Community Tip: Pop a Why Stack
+> One of the exercises that we do when making decisions at Indy Hall - especially when we're solving problems - is we try to get to the root reason behind something. The way we do that is by "popping a why stack", or asking "why" 5 times in a row. ([source](http://en.wikipedia.org/wiki/5_Whys))
 
 ## Our Values
 
