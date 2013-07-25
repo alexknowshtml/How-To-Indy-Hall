@@ -108,7 +108,9 @@ Inside of a couple of months, that person simply stopped showing up on their own
 
 This interaction has happened more than once. On only two occasions in six years have we had to ask somebody to leave.
  
-**Balance is key.** The core value of accessibility relies on both of these dynamics to be in balance. Indy Hall's philosophy remains committed to this core value, the remarkable outcomes and benefits that make us more than a "trendy way to share real estate" start to take form.
+#### Balance is key
+
+The core value of accessibility relies on both of these dynamics to be in balance. Indy Hall's philosophy remains committed to this core value, the remarkable outcomes and benefits that make us more than a "trendy way to share real estate" start to take form.
 
 When everything shakes out, we're glad to be part of a unique environment where we can trust people to surprise us in a positive way.
 
@@ -136,7 +138,8 @@ Indy Hall embodies freedom and independence. We represent choice, the ultimate f
 "Forkability" is the ability to take the "source" of one project and use it to begin a new project. In software, the source is code. Here at Indy Hall, the source is lessons learned, ideas executed, and of course our core values and virtues.
 
 I've described Indy Hall as a "blank canvas" an office. 
-> What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them? 
+
+> "What happens when you share basic office amenities only – desks, chairs, power, internet, meeting rooms, bathrooms – and let the people decide what's most important to them?"
 
 Many interesting things happen, but the most important is the new possibility of **making it you own**.
 
