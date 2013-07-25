@@ -158,7 +158,7 @@ I like to remember [this post about collaboration from Derek Neighbors](http://d
 I find this idea poignant for a number of reasons – not the least of which is that it fits my own mental model for coworking so well. Coworking works because it throws away so many of the bad habits we've learned and puts the focus back on the people again.
 
 **Collaboration isn't something you do.**   
-**Collaboration is the by-product of being a better collaborator.***
+**Collaboration is the by-product of being a better collaborator.**
 
 #### Trust & High Contact
 We talk a lot about trust, here. Indy Hall allows for there to be a focus on the formation of trust and deeper relationships between coworkers, because office politics, hierarchies, and succession planning are removed from the equation.
