@@ -56,9 +56,9 @@ Indy Hall is a community that is able to provide for itself and doesn't exclude 
 
 I firmly believe that the longer Indy Hall is able to do what it does best, the healthier the people and businesses who work from it will be.
 
-> * The understanding identity, of who you are (not just who you aren't).
-> * The support network for growth.
-> * The open and honest exchange of information and ideas.
+> * The understanding identity, of [who you are](http://dangerouslyawesome.com/2011/02/the-importance-of-lines/) (not just who you aren't).
+> * The support network for [growth](http://dangerouslyawesome.com/2010/11/a-story-of-discovering-potential/).
+> * The [open and honest exchange](http://dangerouslyawesome.com/2011/07/a-hall-pass-for-bureaucracy-code-for-america-philadelphia/) of information and ideas.
 > * The humility taught by [not having to be the smartest kid in the room](http://dangerouslyawesome.com/2011/06/a-coworking-parable-the-game-of-chess/).
 > * The [reintroduction of the natural relationship formation](http://dangerouslyawesome.com/2011/07/i-dont-think-were-solving-a-cubicle-problem/) into business deal workflow.
 
