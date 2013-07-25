@@ -44,10 +44,10 @@ Mobile phones and tablets may only show 2.4gHz as an option, but if you see both
 
 **With these notes in mind, you can sit almost anywhere you like!** We've done a little bit of extra work to help you enjoy the time you spend coworking with us the most. Those color coded workclusters with light and dark surfaces aren't arranged that way because we wanted it to look like a checkerboard (though the look is cool, isn't it?). We do that to help you mix and mingle easier. Here's how it works!
 
-#### For Full Time Members:
+#### For Full-Time Members:
 *Full-Time members are encouraged, but not required, to find an available dark colored desk* to set up shop and call home. If you choose a dark-colored desk, you can leave your belongings on the desk, and set it up to be "yours".
 
-![Full Time Setup](/assets/images/full-time.jpg)
+![Full-Time Setup](/assets/images/full-time.jpg)
 
 #### For Everybody:
 
@@ -55,17 +55,17 @@ If you're a *Basic, Six-Pack, or Lite member*, if you're just *dropping in for t
 
 Light-colored work surfaces include the desks mixed into each workcluster, the communal tables in the ground floor gallery or 2nd floor workshop, the high-top tables in the kitchen or near the 2nd floor windows, and even the round kitchen tables if you're so inclined!
 
-![TODO Photo collage of the different flex areas with people at them](http://placekitten.com/600/350)
+![TODO Photo collage of the different flex areas with people at them](http://placehold.it/600x350)
 
 > #### If you follow these guidelines, you'll begin to notice some pleasant side effects:   
 
 > *If you're a Full-Time member*, you'll get a regular changeover of different people working next to you every day. Introduce yourself and say hi when they join you!
 
-> *And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day,* you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your full time neighbors!
+> *And if you're a Basic, Six-Pack, or Lite member, if you're just dropping in for the day,* you can be fairly certain that you're going to be sitting next to people who know their way around Indy Hall and can help you out. Get to know your Full-Time neighbors!
 
 #### Couch-working is a-okay here!
 
-![TODO Photo of people working on the couches](http://placekitten.com/600/350)
+![TODO Photo of people working on the couches](http://placehold.it/600x350)
 
 Don't be shy about working from the couches in either lounge. They can be a really nice change of pace!
 
@@ -83,10 +83,10 @@ For choosing a lunch spot, there are dozens of options:
 [![Lunch Spots](/assets/images/maps/lunch.jpg)](http://goo.gl/maps/uLdwH)
 
 #### If you're in a hurry
-Some favorite quick options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) mediterranean/hallal cart at 4th and Market. Fork, Etc is also a popular choice for slightly more upscale takeout sandwiches and salads. 
+Some favorite quick options include Lake Blue Deli, Gianfranco's Pizzaria, Sassafras Market (not to be confused with Sassafras, the bar), and a (clean!) Mediterranean/halal cart at 4th and Market. Fork, Etc. is also a popular choice for slightly more upscale takeout sandwiches and salads. 
 
 #### If you prefer to sit down 
-For a less hurried meal, or planning a lunch meeting, National Mechanics is a common staple for many Indy Hall natives. You might consider your first trip to National Mechanics, be it for lunch or happy hour, an easy rite of passage to achieve! All of their menu options are great, and they have a full bar and many craft beers on tap if it's one of those kinds of lunches. 
+For a less hurried meal, or if you're planning a lunch meeting, National Mechanics is a common staple for many Indy Hall natives. You might consider your first trip to National Mechanics, be it for lunch or happy hour, an easy rite of passage to achieve! All of their menu options are great, and they have a full bar and many craft beers on tap if it's one of those kinds of lunches. 
 
 Other popular sit down lunch options include Farmacia, Continental, Khyber Pass Pub, Race St Cafe, Wedge and Fig, Han Dynasty, and Zento Sushi. There's almost any kind of food you could want within just a couple of blocks, at almost any price point. 
 
@@ -207,7 +207,7 @@ We keep TP refills in the Supply Closet on the 2nd floor (see below for location
 > #### Community Tip: Know Thy Supply Closet 
 > Our Supply Closet is located on the 2nd floor, adjacent to the North Conference Room, behind a grey door! 
 >
-> ![TODO Map with arrow to Supply Closet](http://placekitten.com/g/350/100) 
+> ![TODO Map with arrow to Supply Closet](http://placehold.it/350x100) 
 >
 > **Does it look like we're running low on reserves of anything?** Drop a line to help@indyhall.org and let us know so we can place an order.
 
@@ -217,7 +217,7 @@ During normal operations, *all members and guests* should enter and exit from th
 
 *In the case of an emergency*, you can exit the 2nd floor by follow the red doors near the 3rd Street windows and take the stairs down from the balcony. The ground floor emergency exits are at the rear of the ground floor. Take the stairs down to the basement and follow the emergency exit signs to exit through the back of the building. 
 
-![TOD Map with arrows pointing to exits](http://placekitten.com/g/600/350)
+![TOD Map with arrows pointing to exits](http://placehold.it/600x350)
 
 ## Kitchen
 
@@ -242,28 +242,28 @@ Having another member guide you through the steps is an easy way to make a new f
 
 	If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). 
 
-	![TODO Photo/gif of Step 1](http://placekitten.com/350/150)
+	![TODO Photo/gif of Step 1](http://placehold.it/350x150)
 	
 	Notice us running low on reserves? Email [help@indyhall.org](mailto:help@indyhall.org) so we can place an order.
 
 2. Fill grounds up to the denoted line on the container - any more than that and we'll be bonding with members while clearning an awful coffee explosion.
 
-	![TODO Photo/gif of Step 2](http://placekitten.com/350/150)
+	![TODO Photo/gif of Step 2](http://placehold.it/350x150)
 
 3. Place a single filter into the filter basket. 
 
-	![TODO Photo/gif of Step 3](http://placekitten.com/350/150)
+	![TODO Photo/gif of Step 3](http://placehold.it/350x150)
 	
 	> #### Community Tip - Composting is Cool
 	>	If the filter basket contains used grounds, you can dump the grounds and filter into the composting can to the left of the fridge. **Just don't toss the plastic filter basket itself!**
 	
 4. Pour the grounds into the filter, and slide the filter basket back into the machine. Make sure it's secure!
 
-	![TODO Photo/gif of Step 4](http://placekitten.com/350/150)
+	![TODO Photo/gif of Step 4](http://placehold.it/350x150)
 
 5. Press the "Start" toggle button, and listen for the gratifying "woosh" as the water begins to flow.
 
-	![TODO Photo/gif of Step 5](http://placekitten.com/350/150)
+	![TODO Photo/gif of Step 5](http://placehold.it/350x150)
 
 
 > #### Community Tip - Eyes on the cream/sugar supplies
