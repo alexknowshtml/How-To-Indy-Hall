@@ -27,7 +27,7 @@ We subscribe to the 5 core values shared by the [global Coworking movement](http
 
 Below is a series of essays by Indy Hall co-founder Alex Hillman explaining how we think about and practice these core values at Indy Hall. 
 
-> These essays have been adapted for the "How To Indy Hall guide", but each essay in its original form can be found on his [personal blog](http://dangerouslyawesome.com/2011/10/coworking-core-values-series-translated/), and have even been translated into other languages, including French and Portuguese!
+> Note: These essays have been adapted for the "How To Indy Hall guide", but each essay in its original form can be found on his [personal blog](http://dangerouslyawesome.com/2011/10/coworking-core-values-series-translated/), and have even been translated into other languages, including French and Portuguese!
 
 ### Sustainability
 
