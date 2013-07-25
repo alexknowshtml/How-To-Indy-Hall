@@ -95,7 +95,7 @@ Other popular sit down lunch options include Farmacia, Continental, Khyber Pass 
 TODO: Write section on Happy Hour
 
 ### Buying groceries
-We're (sadly) missing a grocery store in Old City :( Nobody's perfect, eh?
+The closest we've got to a proper grocery store in Old City is the Olde City Food Market on 2nd & Market. It's a bit like an oversized bodega, but they're fully-stocked with just about anything you could ask for in terms of basic groceries. Prepare to pay a little extra than the likes of Acme, though.
 
 ## Getting Here
 
