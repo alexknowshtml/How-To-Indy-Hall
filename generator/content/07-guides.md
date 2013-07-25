@@ -333,9 +333,11 @@ If you already know how to make edits and submit pull requests via Github, you k
 
 If you don't, but want a lesson in using GitHub (it's not as scary as it seems, promise), post a message to GroupBuzz!
 
-#### Suggesting Edits via Email
+#### Suggesting Edits via Hackpad
 
-If you're not super tech savvy, you can draft up your edits and send them to [help@indyhall.org](mailto:help@indyhall.org). The clearer the instructions for applying your changes, the faster we can get them in the mix!
+If you're not super tech savvy, you can draft up your edits or make suggestions on this hackpad: [https://hackpad.com/VVwPFeIwpye](https://hackpad.com/Suggested-Updates-to-Indy-Hall-Member-Guide-VVwPFeIwpye)
+
+**The clearer the instructions for applying your changes, the faster we can get them in the mix!**
 
 ---
 

@@ -37,7 +37,7 @@ The result is a guide that is a mix of story, dialogue, introspection, ideas, an
 
 You're invited - and encouraged - to **push boundaries**, **explore new options**, **find new (and better!) answers** to any questions about how to succeed as a member, and how to help this community succeed. 
 
-You can even contribute directly to the guide with additional/revised text, photos, stories, links, blog posts, etc. Read our how to section on [How To Contribute to this Guide](/07-how-to/#6__Contributing_to_How_to_Indy_Hall) to find out more.
+You can even contribute directly to the guide with additional/revised text, photos, stories, links, blog posts, etc. Read our how to section on [How To Contribute to this Guide](/07-guides/#6__Contributing_to_How_to_Indy_Hall) to find out more.
 
 ## Make It Better 
 
