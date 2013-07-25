@@ -71,17 +71,19 @@ Indy Hall is a community that is able to provide for itself and doesn't exclude 
 
 #### The people and businesses we support will live as our reflections.
 
-I firmly believe that the longer Indy Hall is able to do what it does best, the healthier the people and businesses who work from it will be.
+I firmly believe that the longer Indy Hall is able to do what it does best, the healthier the people and businesses who work from it will be. We see our members often gain sustainability by:
 
-> * The understanding identity, of [who you are](http://dangerouslyawesome.com/2011/02/the-importance-of-lines/) (not just who you aren't).
-> * The support network for [growth](http://dangerouslyawesome.com/2010/11/a-story-of-discovering-potential/).
-> * The [open and honest exchange](http://dangerouslyawesome.com/2011/07/a-hall-pass-for-bureaucracy-code-for-america-philadelphia/) of information and ideas.
-> * The humility taught by [not having to be the smartest kid in the room](http://dangerouslyawesome.com/2011/06/a-coworking-parable-the-game-of-chess/).
-> * The [reintroduction of the natural relationship formation](http://dangerouslyawesome.com/2011/07/i-dont-think-were-solving-a-cubicle-problem/) into business deal workflow.
+> * understanding your identity, [who you are](http://dangerouslyawesome.com/2011/02/the-importance-of-lines/) (not just who you aren't).
+> * participating in a support network for [growth](http://dangerouslyawesome.com/2010/11/a-story-of-discovering-potential/).
+> * engaging in the [open and honest exchange](http://dangerouslyawesome.com/2011/07/a-hall-pass-for-bureaucracy-code-for-america-philadelphia/) of information and ideas.
+> * practicing humility taught by [not having to be the smartest kid in the room](http://dangerouslyawesome.com/2011/06/a-coworking-parable-the-game-of-chess/).
+> * reintroducing [ natural relationship formation](http://dangerouslyawesome.com/2011/07/i-dont-think-were-solving-a-cubicle-problem/) into business deal workflow.
 
 These are all things that are necessary to "heal the world", just as much as the elements of "going green" are.
 
 If we're healing the planet for people who aren't living and working sustainably, what's the point?
+
+> You might enjoy [another great essay on the core value of sustainability](http://www.coworkfrederick.com/coworking-value-sustainability/) from a coworking space in Frederick, Maryland.
 
 ### Accessibility
 
