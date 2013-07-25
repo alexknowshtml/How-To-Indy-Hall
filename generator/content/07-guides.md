@@ -6,7 +6,7 @@ toc: true
 
 # Indy Hall Guides
 
-We avoid prescribing rules at Indy Hall, instead [trusting people to do what's right](/2-our-virtues/). 
+We avoid prescribing rules at Indy Hall, instead [trusting people to do what's right](/02-values-virtues/#2_2__Our_Intentions). 
 
 If you're ever unsure what's "right", you can fall back to these three simple guidelines: 
 
