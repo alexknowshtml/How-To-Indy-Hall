@@ -12,7 +12,7 @@ When we look beyond the work that we do and the titles we hold, we start to noti
  
 Bula, an Indy Hall member since September of 2009, once said to me:
 
-> "Indy Hall has people from a breath of experiences, from all walks of life. 
+> "Indy Hall has people from a breadth of experiences, from all walks of life. 
 >
 > Here, you get people...and not just what they're doing now, and today.
 > You get people and their **histories**".
@@ -163,7 +163,7 @@ I find this idea poignant for a number of reasons – not the least of which is 
 #### Trust & High Contact
 We talk a lot about trust, here. Indy Hall allows for there to be a focus on the formation of trust and deeper relationships between coworkers, because office politics, hierarchies, and succession planning are removed from the equation.
 
-Going one step further, we create opportunities for people to interact in a "high contact" environment. The serendipitous nature of a our clubhouse means that people are often spending far more face time with each other than in an office where people only interact when they need to.
+Going one step further, we create opportunities for people to interact in a "high contact" environment. The serendipitous nature of our clubhouse means that people are often spending far more face time with each other than in an office where people only interact when they need to.
 
 #### Learning by Example
 Indy Hall is a great place to learn how to be a better collaborator. 
