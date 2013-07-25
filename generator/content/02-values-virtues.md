@@ -13,9 +13,8 @@ When we look beyond the work that we do and the titles we hold, we start to noti
 Bula, an Indy Hall member since September of 2009, once said to me:
 
 > "Indy Hall has people from a breath of experiences, from all walks of life. 
-> 
-> Here, you get people...and not just what they're doing now, and today.
 >
+> Here, you get people...and not just what they're doing now, and today.
 > You get people and their **histories**".
 
 And if we challenge ourselves to look even deeper than those experiences and passions, we find what *really* glues us together: the core values and virtues that we practice as individuals and as a community. 
