@@ -31,7 +31,7 @@ While creating this guide, we asked ourselves the question:
 
 The result is a guide that is a mix of story, dialogue, introspection, ideas, and tools to help you be an excellent community member at Indy Hall - and ultimately, in any setting where you gather, meet, work, and collaborate.
 
-#### This is a map, not a manual. We need your contributions.
+## Make It Better 
 
 **Most importantly, this guide is co-created by you - the members of Indy Hall.**
 
@@ -39,7 +39,7 @@ You're invited - and encouraged - to **push boundaries**, **explore new options*
 
 You can even contribute directly to the guide with additional/revised text, photos, stories, links, blog posts, etc. Read our how to section on [How To Contribute to this Guide](/07-guides/#6__Contributing_to_How_to_Indy_Hall) to find out more.
 
-## Make It Better 
+#### This is a map, not a manual. We need your contributions.
 
 **This document isn't written in stone.** While every line is there for a reason, every line is also an invitation to talk about it. We warmly welcome conversation, debate, and experimentation. 
 
