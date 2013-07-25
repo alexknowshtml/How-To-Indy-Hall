@@ -55,7 +55,7 @@ If you're a *Basic, Six-Pack, or Lite member*, if you're just *dropping in for t
 
 Light-colored work surfaces include the desks mixed into each workcluster, the communal tables in the ground floor gallery or 2nd floor workshop, the high-top tables in the kitchen or near the 2nd floor windows, and even the round kitchen tables if you're so inclined!
 
-![TODO Photo collage of the different flex areas with people at them](http://placehold.it/600x350)
+![TODO Photo collage of the different flex areas with people at them](http://placekitten.com/600/350)
 
 > #### If you follow these guidelines, you'll begin to notice some pleasant side effects:   
 
@@ -65,7 +65,7 @@ Light-colored work surfaces include the desks mixed into each workcluster, the c
 
 #### Couch-working is a-okay here!
 
-![TODO Photo of people working on the couches](http://placehold.it/600x350)
+![TODO Photo of people working on the couches](http://placekitten.com/600/350)
 
 Don't be shy about working from the couches in either lounge. They can be a really nice change of pace!
 
@@ -207,7 +207,7 @@ We keep TP refills in the Supply Closet on the 2nd floor (see below for location
 > #### Community Tip: Know Thy Supply Closet 
 > Our Supply Closet is located on the 2nd floor, adjacent to the North Conference Room, behind a grey door! 
 >
-> ![TODO Map with arrow to Supply Closet](http://placehold.it/350x100) 
+> ![TODO Map with arrow to Supply Closet](http://placekitten.com/g/350/100) 
 >
 > **Does it look like we're running low on reserves of anything?** Drop a line to help@indyhall.org and let us know so we can place an order.
 
@@ -217,7 +217,7 @@ During normal operations, *all members and guests* should enter and exit from th
 
 *In the case of an emergency*, you can exit the 2nd floor by follow the red doors near the 3rd Street windows and take the stairs down from the balcony. The ground floor emergency exits are at the rear of the ground floor. Take the stairs down to the basement and follow the emergency exit signs to exit through the back of the building. 
 
-![TOD Map with arrows pointing to exits](http://placehold.it/600x350)
+![TOD Map with arrows pointing to exits](http://placekitten.com/g/600/350)
 
 ## Kitchen
 
@@ -242,28 +242,28 @@ Having another member guide you through the steps is an easy way to make a new f
 
 	If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). 
 
-	![TODO Photo/gif of Step 1](http://placehold.it/350x150)
+	![TODO Photo/gif of Step 1](http://placekitten.com/350/150)
 	
 	Notice us running low on reserves? Email [help@indyhall.org](mailto:help@indyhall.org) so we can place an order.
 
 2. Fill grounds up to the denoted line on the container - any more than that and we'll be bonding with members while clearning an awful coffee explosion.
 
-	![TODO Photo/gif of Step 2](http://placehold.it/350x150)
+	![TODO Photo/gif of Step 2](http://placekitten.com/350/150)
 
 3. Place a single filter into the filter basket. 
 
-	![TODO Photo/gif of Step 3](http://placehold.it/350x150)
+	![TODO Photo/gif of Step 3](http://placekitten.com/350/150)
 	
 	> #### Community Tip - Composting is Cool
 	>	If the filter basket contains used grounds, you can dump the grounds and filter into the composting can to the left of the fridge. **Just don't toss the plastic filter basket itself!**
 	
 4. Pour the grounds into the filter, and slide the filter basket back into the machine. Make sure it's secure!
 
-	![TODO Photo/gif of Step 4](http://placehold.it/350x150)
+	![TODO Photo/gif of Step 4](http://placekitten.com/350/150)
 
 5. Press the "Start" toggle button, and listen for the gratifying "woosh" as the water begins to flow.
 
-	![TODO Photo/gif of Step 5](http://placehold.it/350x150)
+	![TODO Photo/gif of Step 5](http://placekitten.com/350/150)
 
 
 > #### Community Tip - Eyes on the cream/sugar supplies
