@@ -216,9 +216,10 @@ Our coworking space is just that – a space. **It's not a community without peo
 
 Geoff and I think about [Coworking as a "clubhouse"](http://dangerouslyawesome.com/2008/09/the-importance-of-a-clubhouse/), and I think that language is more accurate of a description than "office". But it's important to remember that in order for a clubhouse to be useful, a club – a community – should be in need of a home.
 
-#### You don't own a community, you belong to a community.
-
-I often say that I absolutely love that I can come to Indy Hall as a member, far more than I care about coming to Indy Hall as an owner. The oft-forgotten truth is that coworking space owners can get the same benefits from coworking as the members do, mostly due to the fact that we ourselves are (or should be) good community members as well.
+> #### A side-note from Alex: I don't own a community, I belong to a community.
+> 
+> I often say that I absolutely love that I can come to Indy Hall as a member, far more than I care about coming to Indy Hall as an owner. 
+> The oft-forgotten truth is that coworking space owners can get the same benefits from coworking as the members do, mostly due to the fact that we ourselves are (or should be) good community members as well.
 
 #### Communities of Trust
 
