@@ -40,11 +40,11 @@ If you're just getting started, you might not be sure who you can turn to for he
 > 
 > <img src="/assets/images/alex.png" class="photo-right" />
 > 
-> **Before I joined Indy Hall, I:**
+> **Before I joined Indy Hall, I:** was a freelance web developer working from home. I loved my work, but hated being alone.
 > 
-> **One thing I like to teach people is:**
+> **One thing I like to teach people is:** how to accomplish big things by starting small. 
 > 
-> **One of my dreams is:**
+> **One of my dreams is:** to make the world better by helping people be happy and fulfilled while working together.
 
 ---
 
