@@ -10,7 +10,7 @@ Indy Hall's membership is both expansive and diverse. Most people here do *not* 
 
 When we look beyond the work that we do and the titles we hold, we start to notice the experiences we've lived and the passions we hold.
  
-Bula, an Indy Hall member since September of 2009, once said to me:
+[Bula](https://twitter.com/YoBula), who has been an Indy Hall member since September of 2009, once said to me:
 
 > "Indy Hall has people from a breadth of experiences, from all walks of life. 
 >
