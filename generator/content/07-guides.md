@@ -240,40 +240,28 @@ Many members enjoy the rite of passage that comes with making their first pot of
 > #### Community Tip - Ask for Coffee Coaching
 Having another member guide you through the steps is an easy way to make a new friend. Most members sitting in close proximity to the kitchen know what's what, when it comes to the coffee machine, or you can ask for a lesson using GroupBuzz or Hall.
 
-#### For you self-starters, here's a guide:
+#### How to make Indy Hall
 
-1. Hold the clear container up and under the big red grinder's nozzle, making sure the container pushes gently on the trigger that allows the machine to start grinding.
+<iframe src="//instagram.com/p/cPGov_inlJ/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true" style="margin-left:70px;"></iframe>
 
-	If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). 
 
-	![TODO Photo/gif of Step 1](http://placekitten.com/350/150)
+1. **Place a single filter into the filter basket.** If the filter basket contains used grounds, you can dump the grounds and filter into the composting can to the left of the fridge. *Just don't toss the plastic filter basket itself!*
+
+2. Hold the clear container up and under the big red grinder's nozzle, making sure the container pushes gently on the trigger that allows the machine to start grinding. **Press the black toggle to begin grinding.**
+
+	If the grinder runs out of beans, we keep a stock under the coffee maker (right-hand side). 	
+
+	Notice we're running low on coffee bean reserves? Email [help@indyhall.org](mailto:help@indyhall.org) so we can place an order.
+
+3. **Fill grounds up to the line on the container** - any more than that and we'll be bonding with members while clearning an awful coffee explosion.
 	
-	Notice us running low on reserves? Email [help@indyhall.org](mailto:help@indyhall.org) so we can place an order.
+4. **Pour the grounds into the filter**, and slide the filter basket back into the machine. Make sure it's secure!
 
-2. Fill grounds up to the denoted line on the container - any more than that and we'll be bonding with members while clearning an awful coffee explosion.
+5. **Press the "Start" toggle button on the coffee maker**, and listen for the gratifying "woosh" as the water begins to flow.
 
-	![TODO Photo/gif of Step 2](http://placekitten.com/350/150)
-
-3. Place a single filter into the filter basket. 
-
-	![TODO Photo/gif of Step 3](http://placekitten.com/350/150)
-	
-	> #### Community Tip - Composting is Cool
-	>	If the filter basket contains used grounds, you can dump the grounds and filter into the composting can to the left of the fridge. **Just don't toss the plastic filter basket itself!**
-	
-4. Pour the grounds into the filter, and slide the filter basket back into the machine. Make sure it's secure!
-
-	![TODO Photo/gif of Step 4](http://placekitten.com/350/150)
-
-5. Press the "Start" toggle button, and listen for the gratifying "woosh" as the water begins to flow.
-
-	![TODO Photo/gif of Step 5](http://placekitten.com/350/150)
-
-
-> #### Community Tip - Eyes on the cream/sugar supplies
 We do our best to keep the cream and sugar supply stocked. If you notice us running low, drop a line to [help@indyhall.org](help@indyhall.org) and we'll stock up.
-> 
-> **If you're feeling the JFDI spirit**, Lake Blue (3rd & Market, with the blue awning) sells both cream and sugar, just bring us a receipt and we'll credit your membership account.
+
+**If you're feeling the JFDI spirit**, Lake Blue (3rd & Market, with the blue awning) sells both cream and sugar, just bring us a receipt and we'll credit your membership account.
 
 ### Using the Fridge
 
