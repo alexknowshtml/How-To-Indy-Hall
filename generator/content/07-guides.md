@@ -14,7 +14,11 @@ If you're ever unsure what's "right", you can fall back to these three simple gu
 > 2. Look after each other. 
 > 3. Look after this place.
 
-To help you get comfortable quickly, below is a collection of **member-suggested** and **member-contributed** guides to help you take care of the things that we share. 
+<img src="/assets/images/jfdi-phl.jpg" class="photo-right">You're encouraged to embrace a spirit of JFDI (just f*#king do it) when it comes to most things at Indy Hall. All we ask of you is to remember and consider these guidelines with your decisions.
+
+**Nothing at Indy Hall is somebody else's problem.** If something needs doing, go ahead and do it. Not sure how? [Ask for help](/06-connecting/).
+
+With that in mindTo help you get comfortable quickly, below is a collection of **member-suggested** and **member-contributed** guides to help you take care of the things that we share. 
 
 > **Can't find what you're looking for, or want to add/update a How To? Get meta and check out the guide on [contributing to to this guide](/07-guides/#6__Contributing_to_this_Guide)!**
 
