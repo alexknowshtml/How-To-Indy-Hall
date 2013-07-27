@@ -62,13 +62,25 @@ If you're just getting started, you might not be sure who you can turn to for he
 
 ## "Regulars"
 
+Indy Hall can feel a bit like "Cheers" sometimes - and like the show, we've got a cast of characters who have been around long enough to know a little bit more about Indy Hall than the average coworker. These folks have helped out a little extra, know lots of other members well, and know lots of "hidden tips" and stories about Indy Hall.
+
+Getting to know even a couple of these members can be a fast-track to connecting to the community. Pick one (or more!) and say hi.
+
 #### Sean Martorana
+
+Sean has been a part of the Indy Hall family for a long time, but since 2009 has become best known for making and curating most of the art that you see around Indy Hall, and is one of lead curators of [Indy Hall Arts](http://twitter.com/indyhall_arts). Want to find out more about the art programming at Indy Hall, or interested in seeing some of your or your friends' art on the walls? Say hi to Sean.
 
 #### Johnny Bilotta
 
+Johnny might be considered "patient zero" at Indy Hall - he was among the first people who jumped on board our community building efforts back before we had a coworking space to call our own. Johnny knows lots about Indy Hall's history. He also knows a lot about beer. And he's a helluva designer. You can ask him just about anything about any of those three things.
+
 #### Kara LaFleur
 
+Kara is another Indy Hall OG - but with a twist. These days, she's spending less time behind a computer screen as an interactive producer and more time behind a cutting board. She hosts Dinner Club during Night Owls every wednesday. Does she make websites or food? She'll probably tell you the answer is "both".
+
 #### Dana Henry
+
+Dana joined Indy Hall a couple of years ago to escape the isolation of being a freelance writer - a talent which she has pursued with local publications including Grid Magazine and Flying Kite. You're most likely to meet Dana at one of the weekly events that she diligently leads, including Night Owls every week on Wednesdays after 6, Member Lunches every Friday from 1-2pm.
 
 #### Rob Epler
 
@@ -76,7 +88,11 @@ If you're just getting started, you might not be sure who you can turn to for he
 
 #### Nicole Freyer
 
-#### Parker Whitney
+#### Parker Whitney 
+
+#### Brian Glick
+
+*Interested in joining this list? Drop an email to [help@indyhall.org](help@indyhall.org) and we can add you!*
 
 ## Photos & Videos
 
